@@ -3,6 +3,18 @@ import pandas as pd
 from utils import logger
 
 def fetch_github_data(topic, per_page=30, pages=5):
+    """
+    Fetches GitHub data for a given topic using the GitHub API.
+
+    Args:
+        topic (str): The topic to search for.
+        per_page (int, optional): The number of items to fetch per page. Defaults to 30.
+        pages (int, optional): The number of pages to fetch. Defaults to 5.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the fetched data.
+    """
+    
     repositories_data = []
     url = f"https://api.github.com/search/repositories?q={topic}&per_page={per_page}"
     
