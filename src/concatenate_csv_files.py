@@ -44,11 +44,10 @@ def concatenate_csv_files(path_pattern):
 
 if __name__ == "__main__":
     try:
-        data = concatenate_csv_files(os.path.join("D:\\New Projects\\GitHub Data Dive\\GitHub-Data-Dive\\data", 
-                                                  "*.csv"))
+        data = concatenate_csv_files(os.path.join("data", "*.csv"))
         
         if not data.empty:
-            output_path = os.path.join("D:\\New Projects\\GitHub Data Dive\\GitHub-Data-Dive\\data", "data.csv")
+            output_path = os.path.join("data", "data.csv")
             data.to_csv(output_path, index=False)
             logger.info(f"Concatenated data saved successfully at: {output_path}")
         else:

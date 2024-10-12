@@ -65,6 +65,6 @@ def preprocess_github_data(input_csv, output_csv):
         logger.error(f"An unexpected error occurred during preprocessing: {e}")
 
 if __name__ == "__main__":
-    input_file = os.path.join("D:\\New Projects\\GitHub Data Dive\\GitHub-Data-Dive\\data", "data.csv")
-    output_file = os.path.join("D:\\New Projects\\GitHub Data Dive\\GitHub-Data-Dive\\data", "cleaned_data.csv")
+    input_file = os.path.join("data", "data.csv")
+    output_file = os.path.join("data", "cleaned_data.csv")
     preprocess_github_data(input_file, output_file)

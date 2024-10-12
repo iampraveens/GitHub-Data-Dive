@@ -1,5 +1,6 @@
 import sqlite3
 import pandas as pd
+import os
 from utils import logger
 
 def push_data_to_sqlite(input_csv, sqlite_db, table_name):
@@ -49,7 +50,7 @@ def push_data_to_sqlite(input_csv, sqlite_db, table_name):
 
 # Example usage (can be removed or modified for actual implementation)
 if __name__ == "__main__":
-    input_file = r"D:\New Projects\GitHub Data Dive\GitHub-Data-Dive\data\cleaned_data.csv"
-    sqlite_db = r"D:\New Projects\GitHub Data Dive\GitHub-Data-Dive\database\github_data.db"
+    input_file = os.path.join("data", "cleaned_data.csv")
+    sqlite_db = os.path.join("database", "github_data.db")
     table_name = "github_repositories"
     push_data_to_sqlite(input_file, sqlite_db, table_name)
