@@ -1,0 +1,511 @@
+,Repository_Name,Owner,Description,URL,Programming_Language,Creation_Date,Last_Updated_Date,Number_of_Stars,Number_of_Forks,Number_of_Open_Issues,License_Type
+0,langgraph,langchain-ai,Build resilient language agents as graphs.,https://github.com/langchain-ai/langgraph,Python,2023-08-09T18:33:12Z,2024-10-06T16:40:23Z,5975,938,82,MIT License
+1,langgraph-studio,langchain-ai,Desktop app for prototyping and debugging LangGraph applications locally.,https://github.com/langchain-ai/langgraph-studio,,2024-07-29T22:11:00Z,2024-10-06T10:57:52Z,1647,111,56,
+2,langgraph-example,langchain-ai,,https://github.com/langchain-ai/langgraph-example,Python,2024-05-07T17:43:31Z,2024-10-05T01:39:48Z,197,178,13,
+3,langgraphjs,langchain-ai,⚡ Build language agents as graphs ⚡,https://github.com/langchain-ai/langgraphjs,TypeScript,2024-01-09T17:40:12Z,2024-10-06T14:00:32Z,538,80,50,MIT License
+4,langgraph_streamlit_codeassistant,kturung,,https://github.com/kturung/langgraph_streamlit_codeassistant,Python,2024-06-30T09:59:39Z,2024-10-05T15:01:55Z,452,94,1,MIT License
+5,graph_websearch_agent,john-adeojo,Websearch agent built on the LangGraph framework,https://github.com/john-adeojo/graph_websearch_agent,Python,2024-06-06T10:57:59Z,2024-10-06T10:40:48Z,226,88,5,MIT License
+6,langgraph4j,bsorrentino,"🚀 LangGraph for Java. A library for building stateful, multi-actor applications with LLMs, built for work jointly with langchain4j",https://github.com/bsorrentino/langgraph4j,Java,2024-03-18T19:38:47Z,2024-10-05T13:46:53Z,84,14,10,MIT License
+7,datavisualization_langgraph,DhruvAtreja,Questions? Contact me at @DhruvAtreja1,https://github.com/DhruvAtreja/datavisualization_langgraph,TypeScript,2024-09-09T17:19:13Z,2024-10-05T17:26:02Z,111,25,3,
+8,LangGraph-Expense-Tracker,jwa91,LangGraph - FastAPI - Postgresql - AI project,https://github.com/jwa91/LangGraph-Expense-Tracker,Python,2024-04-24T00:26:26Z,2024-09-24T07:32:02Z,99,16,0,MIT License
+9,langgraph-engineer,langchain-ai,,https://github.com/langchain-ai/langgraph-engineer,Jupyter Notebook,2024-02-23T23:11:51Z,2024-10-04T13:51:55Z,72,20,1,
+10,LangGraphJourney,menloparklab,A repo to help you learn LangGraph,https://github.com/menloparklab/LangGraphJourney,Jupyter Notebook,2024-02-14T22:32:36Z,2024-09-30T04:53:09Z,56,28,0,
+11,agent-service-toolkit,JoshuaC215,"Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",https://github.com/JoshuaC215/agent-service-toolkit,Python,2024-08-04T23:13:44Z,2024-10-06T08:05:38Z,294,52,2,MIT License
+12,langgraphjs-examples,bracesproul,Repository containing LangGraph.js🦜🕸️ examples,https://github.com/bracesproul/langgraphjs-examples,TypeScript,2024-08-26T22:23:13Z,2024-10-03T00:01:15Z,52,20,1,
+13,lang-memgpt,langchain-ai,"A bot with memory, built on LangGraph Cloud.",https://github.com/langchain-ai/lang-memgpt,Python,2024-07-02T13:24:13Z,2024-10-05T00:30:10Z,64,29,4,MIT License
+14,LangGraph-Tutorial,Coding-Crashkurse,,https://github.com/Coding-Crashkurse/LangGraph-Tutorial,Jupyter Notebook,2024-05-09T18:16:54Z,2024-09-16T00:49:13Z,44,21,1,
+15,pandas-rag-langgraph,vbarda,,https://github.com/vbarda/pandas-rag-langgraph,Jupyter Notebook,2024-06-24T14:12:16Z,2024-09-29T06:37:59Z,48,13,0,
+16,langgraphjs-studio-starter,langchain-ai,Example LangGraph.js project made to run in LangGraph Studio,https://github.com/langchain-ai/langgraphjs-studio-starter,TypeScript,2024-08-26T23:56:09Z,2024-10-04T01:31:32Z,21,9,0,MIT License
+17,langgraph-customer-support,emarco177,,https://github.com/emarco177/langgraph-customer-support,Python,2024-06-13T04:51:37Z,2024-10-04T21:19:15Z,37,13,0,Apache License 2.0
+18,LangGraph_Example,GaoDalie,Many tutorials on LangGraph,https://github.com/GaoDalie/LangGraph_Example,Python,2024-03-01T15:29:24Z,2024-10-03T14:48:47Z,27,8,0,
+19,calm-langgraph-customer-service-comparison,RasaHQ,A reimplementation of langgraph's customer support example in Rasa's CALM paradigm and a quantiative evaluation of the 2 approaches,https://github.com/RasaHQ/calm-langgraph-customer-service-comparison,Jupyter Notebook,2024-08-06T07:11:26Z,2024-10-05T12:29:50Z,63,11,0,
+20,MultiCoT,CYQIQ,Repository to demonstrate Chain of Table reasoning with multiple tables powered by LangGraph,https://github.com/CYQIQ/MultiCoT,Jupyter Notebook,2024-02-14T18:52:36Z,2024-09-21T12:53:18Z,144,24,3,
+21,langgraphgo,tmc,langgraph for Go,https://github.com/tmc/langgraphgo,Go,2024-01-27T17:25:24Z,2024-09-30T07:11:27Z,43,6,1,MIT License
+22,langgraph-example-pyproject,langchain-ai,,https://github.com/langchain-ai/langgraph-example-pyproject,Python,2024-08-02T17:43:26Z,2024-10-04T03:36:11Z,15,13,0,
+23,data-enrichment,langchain-ai,LangGraph Studio template for creating an agent that does web research to genearte or enrich structured data.,https://github.com/langchain-ai/data-enrichment,Jupyter Notebook,2024-08-28T15:50:13Z,2024-10-02T18:27:57Z,46,15,0,MIT License
+24,langgraph-agent,kyopark2014,It shows case studies of the LangGraph agent.,https://github.com/kyopark2014/langgraph-agent,Jupyter Notebook,2024-07-16T04:28:46Z,2024-10-06T14:12:02Z,18,8,0,
+25,AI-Bootcamp,curiousily,"Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)",https://github.com/curiousily/AI-Bootcamp,Jupyter Notebook,2024-04-14T17:19:37Z,2024-10-06T12:02:59Z,207,68,1,MIT License
+26,conversational-agent-langchain,mfmezger,"FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB",https://github.com/mfmezger/conversational-agent-langchain,Python,2023-03-21T13:25:52Z,2024-10-06T16:58:22Z,149,27,4,MIT License
+27,LangGraph-GUI,LangGraph-GUI,"Visual node-edge graph GUI editor, with electron and docker wrapper for frontend,backend,localLLM",https://github.com/LangGraph-GUI/LangGraph-GUI,JavaScript,2024-07-17T11:51:42Z,2024-10-05T05:36:48Z,62,5,1,MIT License
+28,langgraph-demo,q2wxec,langgraph-demo,https://github.com/q2wxec/langgraph-demo,Jupyter Notebook,2024-04-06T12:58:20Z,2024-08-28T15:44:32Z,22,4,1,
+29,langgraph_fly_base,liuyanqun0815,"Based on the large model development framework of langchain, LangGraph is integrated to create a scalable workflow architecture. RAG。基于langchain的大模型开发框架，集成LangGraph创建一个可扩展的工作流架构，RAG：结合检索向量知识库（Milvus），增强模型的知识检索能力，支持ChatGLM & OpenAI大语言",https://github.com/liuyanqun0815/langgraph_fly_base,Python,2024-06-11T04:06:00Z,2024-09-19T10:15:31Z,23,6,3,
+30,LangGraph-learn,LangGraph-GUI,learning resource of langgraph for dummy,https://github.com/LangGraph-GUI/LangGraph-learn,Python,2024-06-17T03:01:09Z,2024-10-05T23:22:58Z,43,4,0,MIT License
+31,agentic-customer-service-medical-clinic,Nachoeigu,This software contains an agent based on LangGraph & LangChain for solving general requests in the Whatsapp channel of this medical clinic,https://github.com/Nachoeigu/agentic-customer-service-medical-clinic,Python,2024-08-02T08:50:52Z,2024-10-06T12:34:52Z,158,25,1,
+32,react-agent,langchain-ai,LangGraph template for a simple ReAct agent,https://github.com/langchain-ai/react-agent,Python,2024-08-21T19:57:32Z,2024-10-05T17:22:41Z,12,6,0,MIT License
+33,sales-outreach-automation-langgraph,kaymen99,"Automate lead analysis and outreach with AI-driven research, scoring, and personalized emails, videos, and call scripts, seamlessly integrated with HubSpot CRM for maximum impact.",https://github.com/kaymen99/sales-outreach-automation-langgraph,Python,2024-08-01T19:41:48Z,2024-10-04T14:44:04Z,14,6,0,
+34,LangGraph.js-MongoDB-Example,mongodb-developer,,https://github.com/mongodb-developer/LangGraph.js-MongoDB-Example,TypeScript,2024-08-29T17:08:09Z,2024-09-28T17:41:33Z,17,7,1,Apache License 2.0
+35,Langgraph_Manuscript_Workflows,artnoage,A collection of langgraph workflows orchestrated by a single LLM that process academic Manuscripts,https://github.com/artnoage/Langgraph_Manuscript_Workflows,Python,2024-06-14T20:51:38Z,2024-10-02T10:48:17Z,9,7,0,MIT License
+36,Perplexity-Lite,AIAnytime,"Perplexity Lite using Langgraph, Tavily, and GPT-4.",https://github.com/AIAnytime/Perplexity-Lite,Jupyter Notebook,2024-01-11T10:45:43Z,2024-07-21T13:33:04Z,9,8,0,MIT License
+37,react-agent-js,langchain-ai,,https://github.com/langchain-ai/react-agent-js,TypeScript,2024-08-26T05:45:27Z,2024-09-29T02:41:37Z,17,10,0,MIT License
+38,LangGraph-Swift,bsorrentino,"🚀 LangGraph for Swift. A library for building stateful, multi-actor applications with LLMs, built to work jointly with langchain-swift",https://github.com/bsorrentino/LangGraph-Swift,Swift,2024-03-14T16:02:52Z,2024-10-01T10:31:05Z,23,4,2,MIT License
+39,langgraph-email-automation,kaymen99,AI-powered customer support email automation system built with Langchain & Langgraph,https://github.com/kaymen99/langgraph-email-automation,Jupyter Notebook,2024-06-10T15:16:03Z,2024-09-24T14:07:04Z,13,4,0,
+40,AI-Agents-in-LangGraph,ksm26,"Master the art of building and enhancing AI agents. Learn to develop flow-based applications, implement agentic search, and incorporate human-in-the-loop systems using LangGraph's powerful components.",https://github.com/ksm26/AI-Agents-in-LangGraph,Jupyter Notebook,2024-06-08T19:31:31Z,2024-10-02T20:54:08Z,9,6,0,
+41,CopilotKit,CopilotKit,"React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",https://github.com/CopilotKit/CopilotKit,TypeScript,2023-06-19T04:08:31Z,2024-10-06T15:33:41Z,11103,1783,139,MIT License
+42,retrieval-agent-template,langchain-ai,,https://github.com/langchain-ai/retrieval-agent-template,Python,2024-08-21T20:47:35Z,2024-10-05T22:05:18Z,10,8,0,MIT License
+43,langgraph-editor,Erickrus,This is a visual editor for langgraph workflow. It helps to quickly design and debug the workflow from scratch.,https://github.com/Erickrus/langgraph-editor,HTML,2024-05-05T12:21:59Z,2024-08-22T14:18:31Z,16,3,1,MIT License
+44,langgraph-memory,langchain-ai,,https://github.com/langchain-ai/langgraph-memory,Python,2024-06-24T18:35:16Z,2024-10-04T03:39:29Z,12,3,1,MIT License
+45,Langgraph_Langserve_QAbot,jis478,,https://github.com/jis478/Langgraph_Langserve_QAbot,Python,2024-07-18T07:06:30Z,2024-10-04T20:45:29Z,9,4,0,
+46,Corrective-RAG,Grecil,Implementation of Corrective RAG using LangChain and LangGraph.,https://github.com/Grecil/Corrective-RAG,Python,2024-06-18T06:33:52Z,2024-09-09T00:03:32Z,14,6,0,
+47,ai-data-analysis-MulitAgent,starpig1129,"AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.",https://github.com/starpig1129/ai-data-analysis-MulitAgent,Python,2024-07-23T05:50:15Z,2024-10-05T19:18:14Z,597,81,0,MIT License
+48,Perplexity-Lite,GURPREETKAURJETHRA,"Perplexity Lite using Langgraph, Tavily, and GPT-4.",https://github.com/GURPREETKAURJETHRA/Perplexity-Lite,Jupyter Notebook,2024-04-01T20:30:45Z,2024-10-03T22:00:35Z,13,3,0,MIT License
+49,competitor-analysis-bot,langchain-ai,"Example LangGraph flow that does ""competitor analysis"" on the web.",https://github.com/langchain-ai/competitor-analysis-bot,Python,2024-05-29T11:14:36Z,2024-10-04T03:33:03Z,12,4,0,MIT License
+50,Perplexity-Clone-v0.1,saurabhlalsaxena,This is a repository which uses LangChain LangGraph and DuckduckGo to create a Perplexity Clone,https://github.com/saurabhlalsaxena/Perplexity-Clone-v0.1,Jupyter Notebook,2024-08-13T19:32:50Z,2024-10-06T16:40:23Z,27,6,0,MIT License
+51,langgraph-bedrock-knowledge-bases,aws-samples,Repository contains samples on how to use LangGraph with Amazon Bedrock and Bedrock knowledge bases for a RAG solution,https://github.com/aws-samples/langgraph-bedrock-knowledge-bases,Jupyter Notebook,2024-06-12T08:44:48Z,2024-07-02T21:22:48Z,7,3,0,MIT No Attribution
+52,langgraph-example-monorepo,langchain-ai,,https://github.com/langchain-ai/langgraph-example-monorepo,Python,2024-08-08T00:12:52Z,2024-09-13T21:45:34Z,5,4,1,
+53,agentic-rag,gotsulyakk,Agentic RAG implementation using LangGraph,https://github.com/gotsulyakk/agentic-rag,Python,2024-06-14T17:15:40Z,2024-10-03T15:32:33Z,9,2,0,Apache License 2.0
+54,langgraph-learning,Teachings,,https://github.com/Teachings/langgraph-learning,Python,2024-08-04T03:17:17Z,2024-09-08T23:07:52Z,3,5,0,
+55,genai-job-agents,touhi99,"A LLM Agent with Langchain/Langgraph helps to analyze CV, look relevant jobs via API, and write a cover letter according to it",https://github.com/touhi99/genai-job-agents,Python,2024-04-06T00:57:22Z,2024-09-23T07:40:59Z,26,9,1,MIT License
+56,retrieval-agent-template-js,langchain-ai,,https://github.com/langchain-ai/retrieval-agent-template-js,TypeScript,2024-08-26T04:12:02Z,2024-09-24T11:54:11Z,5,4,0,MIT License
+57,Map-Reduce-implementation-using-LangGraph,AIAnytime,Map-Reduce implementation using LangGraph: How to flexibly create parallel execution branches,https://github.com/AIAnytime/Map-Reduce-implementation-using-LangGraph,Jupyter Notebook,2024-07-28T03:03:34Z,2024-09-10T08:00:10Z,6,3,0,MIT License
+58,gpt-instagram,MODSetter,A GPT-based autonomous multi-agent AI in Next.js that research & recommends Instagram Viral Posts reflecting your personality.,https://github.com/MODSetter/gpt-instagram,TypeScript,2024-07-10T08:31:11Z,2024-10-02T05:47:34Z,187,18,0,MIT License
+59,LangGraph-GUI-Qt,LangGraph-GUI,Visual node-edge graph GUI editor for LangGraph with Qt frontend,https://github.com/LangGraph-GUI/LangGraph-GUI-Qt,Python,2024-06-17T14:58:44Z,2024-09-12T05:59:02Z,42,1,0,MIT License
+60,ai-school-week-7.1-langgraph,aureathabet,,https://github.com/aureathabet/ai-school-week-7.1-langgraph,,2024-06-05T00:02:17Z,2024-06-05T00:02:17Z,0,6,0,
+61,servicedesk_langgraph_tavily,dheerajrhegde,,https://github.com/dheerajrhegde/servicedesk_langgraph_tavily,Python,2024-06-13T12:34:27Z,2024-10-06T17:20:05Z,7,2,0,
+62,LangGraph_Streaming,sheikhhanif,"A powerful and efficient API service utilizing LangGraph Agent with real-time streaming tokens via Websocket, built on FastAPI.",https://github.com/sheikhhanif/LangGraph_Streaming,HTML,2024-06-01T03:03:23Z,2024-10-01T22:08:40Z,6,2,0,
+63,langgraph-multi-agent,aws-samples,,https://github.com/aws-samples/langgraph-multi-agent,Jupyter Notebook,2024-02-14T21:09:37Z,2024-07-23T21:13:26Z,6,2,1,MIT No Attribution
+64,langGraphTutorials,Princekrampah,LangGraph,https://github.com/Princekrampah/langGraphTutorials,Python,2024-02-12T08:00:38Z,2024-08-15T15:23:16Z,8,2,0,
+65,Building-Autonomous-AI-Agents-with-LangGraph,PacktPublishing,,https://github.com/PacktPublishing/Building-Autonomous-AI-Agents-with-LangGraph,Python,2024-08-06T06:59:01Z,2024-09-11T19:11:31Z,5,3,5,
+66,LangGraph_Based_Resume_Screener,Ajithbalakrishnan,An LLM Chatbot based on LangGraph and LangChain that dynamically retrieves and processes resumes using RAG to perform resume screening.,https://github.com/Ajithbalakrishnan/LangGraph_Based_Resume_Screener,Python,2024-08-15T14:31:51Z,2024-09-30T10:10:04Z,7,2,0,Apache License 2.0
+67,Finx_LangGraph,DirkMeer,Finxter LangGraph course official repository,https://github.com/DirkMeer/Finx_LangGraph,Python,2024-04-08T01:23:43Z,2024-06-05T08:13:39Z,3,4,0,
+68,ai-langgraph-multi-agent,botextractai,Multi AI agent system for report writing with LangGraph,https://github.com/botextractai/ai-langgraph-multi-agent,Python,2024-06-10T01:37:16Z,2024-10-06T13:50:49Z,5,2,0,
+69,operagents,yanyongyu,"Dynamic, highly customizable language agents framework",https://github.com/yanyongyu/operagents,Python,2024-03-06T07:11:19Z,2024-09-03T08:02:11Z,24,4,0,Apache License 2.0
+70,Streamlit-x-LangGraph-Cookbooks,shiv248,"Streamlit and LangGraph Intersection Starters, LangGraph with Streamlit, Streamlit with LangGraph",https://github.com/shiv248/Streamlit-x-LangGraph-Cookbooks,Python,2024-09-04T03:21:51Z,2024-10-06T01:10:25Z,5,1,0,
+71,LangGraph-Chatbot-Tutorial,pavanbelagatti,,https://github.com/pavanbelagatti/LangGraph-Chatbot-Tutorial,Jupyter Notebook,2024-09-23T06:25:07Z,2024-09-25T20:59:26Z,4,4,0,
+72,tribe,StreetLamb,Low code tool to rapidly build and coordinate multi-agent teams,https://github.com/StreetLamb/tribe,TypeScript,2024-03-24T01:15:54Z,2024-10-06T15:14:38Z,769,85,3,MIT License
+73,langgraph-odsc,emarco177,,https://github.com/emarco177/langgraph-odsc,Jupyter Notebook,2024-08-15T07:57:29Z,2024-09-11T14:25:13Z,2,2,0,Apache License 2.0
+74,gpt-all-star,kyaukyuai,🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.,https://github.com/kyaukyuai/gpt-all-star,Python,2023-12-20T13:05:04Z,2024-10-06T11:58:59Z,86,10,4,MIT License
+75,hour_registration_agent_public,PatrickKalkman,A repository that contains all the source code of a Medium article called Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3,https://github.com/PatrickKalkman/hour_registration_agent_public,Python,2024-05-02T10:51:19Z,2024-08-21T19:16:29Z,17,5,0,
+76,writers-room-langgraph,0xmerkle,,https://github.com/0xmerkle/writers-room-langgraph,Python,2024-02-27T20:03:53Z,2024-05-11T01:14:58Z,10,0,0,
+77,autonomais,nyvyn,Effortless agent-based workflows,https://github.com/nyvyn/autonomais,TypeScript,2024-04-08T17:49:19Z,2024-09-28T00:18:57Z,12,3,0,MIT License
+78,LangGraph-GUI-frontend,LangGraph-GUI,Visual node-edge graph GUI editor for LangGraph with reactflow frontend,https://github.com/LangGraph-GUI/LangGraph-GUI-frontend,JavaScript,2024-07-09T11:08:08Z,2024-09-11T02:25:12Z,11,1,0,MIT License
+79,telegramGPT,emingenc,"step-by-step guide on creating your very own AI bot using Python, Telegram, and OpenAI GPT models.",https://github.com/emingenc/telegramGPT,Python,2023-04-16T13:13:44Z,2024-10-06T08:24:29Z,16,5,4,GNU General Public License v3.0
+80,awesome-multi-agent-papers,kyegomez,A compilation of the best multi-agent papers,https://github.com/kyegomez/awesome-multi-agent-papers,,2024-02-21T19:45:57Z,2024-10-06T02:16:36Z,188,14,0,
+81,ielts_assistant_langgraph,phkhanhtrinh23,ielts_assistant_langgraph is an advanced language learning tool designed to provides comprehensive support to enhance your writing skills.,https://github.com/phkhanhtrinh23/ielts_assistant_langgraph,Python,2024-08-06T09:49:12Z,2024-09-30T11:29:13Z,8,0,0,
+82,multi_agent_langgraph,Nicolepcx,,https://github.com/Nicolepcx/multi_agent_langgraph,Jupyter Notebook,2024-08-05T06:39:34Z,2024-09-06T19:43:13Z,8,1,0,
+83,LangGraph-Visualizer,Coding-Crashkurse,"PoC for visualizing Graphs with React, D3 and FastAPI",https://github.com/Coding-Crashkurse/LangGraph-Visualizer,Python,2024-08-25T15:29:27Z,2024-09-25T12:38:12Z,8,1,0,
+84,langgraph-agents-with-amazon-bedrock,aws-samples,,https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock,Jupyter Notebook,2024-09-24T10:23:36Z,2024-10-06T13:59:32Z,10,0,0,MIT No Attribution
+85,BrainX,ArtisanCloud,BrainX 是一个智能系统，分析各种媒体格式，整合到知识库，并生成定制内容，包括机器人、洞察和媒体。它旨在为用户提供个性化和自动化的解决方案。,https://github.com/ArtisanCloud/BrainX,Python,2024-03-17T14:34:22Z,2024-10-04T08:59:15Z,22,4,0,Apache License 2.0
+86,langgraph_demo,roboticsocialism,A simple demo for langgraph framework,https://github.com/roboticsocialism/langgraph_demo,Python,2024-01-23T00:21:32Z,2024-09-12T20:32:34Z,6,0,0,
+87,Self-RAG-Agent-using-LangGraph-with-RAG-Triad-and-OS-Mistral-LLM,Ashufet,,https://github.com/Ashufet/Self-RAG-Agent-using-LangGraph-with-RAG-Triad-and-OS-Mistral-LLM,Jupyter Notebook,2024-03-09T08:04:22Z,2024-07-11T18:25:32Z,6,4,0,Apache License 2.0
+88,langgraph-101,langchain-ai,Learn about the fundamentals of LangGraph through a series of notebooks,https://github.com/langchain-ai/langgraph-101,Jupyter Notebook,2024-09-20T14:12:16Z,2024-10-05T07:10:57Z,5,1,0,MIT License
+89,langgraph_examples,rajib76,This will have all langgraph examples,https://github.com/rajib76/langgraph_examples,Python,2024-06-13T05:25:46Z,2024-09-23T03:57:26Z,1,2,0,MIT License
+90,generate-project-readme-using-langgraph,aws-samples,,https://github.com/aws-samples/generate-project-readme-using-langgraph,Python,2024-09-13T09:59:59Z,2024-09-27T20:37:27Z,8,0,0,MIT No Attribution
+91,chainlit_langgraph,brucechou1983,"Chainlit Langgraph Integration: A seamless integration of Chainlit with Langgraph, leveraging Llama 3.2 via Ollama for advanced conversational AI, language processing, and structured data interaction. Ideal for Python developers building AI-driven applications with real-time language models.",https://github.com/brucechou1983/chainlit_langgraph,Python,2024-04-22T08:04:07Z,2024-10-05T15:22:19Z,5,0,0,MIT License
+92,financial-chat,wshobson,"A financial chat application powered by LangChain, OpenBB, and Claude 3 Opus.",https://github.com/wshobson/financial-chat,Python,2024-03-31T04:18:38Z,2024-10-04T12:20:48Z,87,28,0,
+93,langgraph-feedstock,conda-forge,A conda-smithy repository for langgraph.,https://github.com/conda-forge/langgraph-feedstock,,2024-06-10T08:52:48Z,2024-10-03T03:31:25Z,0,2,0,"BSD 3-Clause ""New"" or ""Revised"" License"
+94,LangGraph-Fullstack---Human-in-the-loop,Coding-Crashkurse,,https://github.com/Coding-Crashkurse/LangGraph-Fullstack---Human-in-the-loop,Python,2024-07-22T19:15:58Z,2024-09-09T14:45:55Z,2,3,0,
+95,Langgraph-MultiAgent-workflow,Kevin7744,,https://github.com/Kevin7744/Langgraph-MultiAgent-workflow,Python,2024-01-27T08:17:33Z,2024-06-05T08:13:43Z,6,0,0,
+96,local_llm_langgraph,rakataprime,a repo of examples of using local llm models with langgraph,https://github.com/rakataprime/local_llm_langgraph,Python,2024-03-14T01:34:22Z,2024-06-30T08:25:47Z,5,1,0,MIT License
+97,langgraph-checkpoint-feedstock,conda-forge,A conda-smithy repository for langgraph-checkpoint.,https://github.com/conda-forge/langgraph-checkpoint-feedstock,,2024-08-07T09:02:09Z,2024-10-01T22:02:16Z,0,2,0,"BSD 3-Clause ""New"" or ""Revised"" License"
+98,langGraph_swarm,Dmaturana81,A framework that simoulates the Agency swarm library using langgraph,https://github.com/Dmaturana81/langGraph_swarm,Jupyter Notebook,2024-01-31T14:02:49Z,2024-06-30T08:25:54Z,5,0,0,Apache License 2.0
+99,openapi2tools,taowenwei,convert an OpenAPI spec to LangGraph tools,https://github.com/taowenwei/openapi2tools,Python,2024-06-30T17:48:47Z,2024-10-01T11:20:05Z,5,0,0,MIT License
+100,react-langgraph,emarco177,,https://github.com/emarco177/react-langgraph,Python,2024-06-26T05:19:53Z,2024-08-06T06:40:44Z,4,1,0,
+101,NextAGIFuture,Onelevenvy,"NextAGIFuture is a low-code platform for rapidly building chatbots, RAG applications, and coordinating multi-agent teams, primarily using LangChain, LangGraph, NextJS, and FastAPI.",https://github.com/Onelevenvy/NextAGIFuture,TypeScript,2024-09-04T01:21:01Z,2024-10-06T13:21:43Z,16,2,0,MIT License
+102,langgraph-react-component-gen,Gitmaxd,,https://github.com/Gitmaxd/langgraph-react-component-gen,Python,2024-08-10T22:24:46Z,2024-08-13T18:22:41Z,5,1,0,
+103,LangGraph-End-to-End-Course,sunnysavita10,,https://github.com/sunnysavita10/LangGraph-End-to-End-Course,Jupyter Notebook,2024-09-07T20:23:25Z,2024-10-04T04:40:06Z,7,1,0,
+104,langgraph-hierarchical-tool-swarm,lizTheDeveloper,A graph based langgraph implementation of a tool-writing swarm,https://github.com/lizTheDeveloper/langgraph-hierarchical-tool-swarm,Jupyter Notebook,2024-03-13T17:54:43Z,2024-09-02T19:53:57Z,5,0,2,
+105,AGENTIC,KOUSTAVSAMANTA,langgraph-streamlit,https://github.com/KOUSTAVSAMANTA/AGENTIC,Python,2024-06-15T19:40:19Z,2024-06-30T08:26:29Z,2,0,0,
+106,AI-Agents,GURPREETKAURJETHRA,"Design Patterns for Multi Agents Frameworks Like Autogen, Langraph, Taskweaver, Crewai,etc",https://github.com/GURPREETKAURJETHRA/AI-Agents,Jupyter Notebook,2024-04-29T17:23:47Z,2024-09-16T20:04:56Z,12,3,0,MIT License
+107,repo-upgrade,AgiFlow,Dependencies Upgrade with multi-agents (CrewAI & Langgraph),https://github.com/AgiFlow/repo-upgrade,Jupyter Notebook,2024-07-22T01:53:32Z,2024-08-18T06:05:31Z,5,0,0,MIT License
+108,ai-agents-in-langgraph,sushengloong,Reproducing AI Agents from https://learn.deeplearning.ai/courses/ai-agents-in-langgraph,https://github.com/sushengloong/ai-agents-in-langgraph,Python,2024-06-15T07:18:37Z,2024-10-02T20:54:10Z,1,2,0,
+109,LangGraph-GUI-backend,LangGraph-GUI,backend for LangGraph-GUI,https://github.com/LangGraph-GUI/LangGraph-GUI-backend,Python,2024-07-12T02:08:54Z,2024-09-11T02:23:59Z,3,1,0,MIT License
+110,Langgraph-langchain-Ollama-and-DuckDuckGo,mvdiogo,"Revolutionize linguistic interactions and facilitate seamless communication by leveraging cutting-edge technologies: Langgraph, Langchain, Ollama, and DuckDuckGo.",https://github.com/mvdiogo/Langgraph-langchain-Ollama-and-DuckDuckGo,Python,2024-02-19T14:38:20Z,2024-06-05T08:12:36Z,7,0,0,MIT License
+111,Multi-modal-agent-pdf-RAG-with-langgraph,vveizhang,,https://github.com/vveizhang/Multi-modal-agent-pdf-RAG-with-langgraph,,2024-02-20T05:45:53Z,2024-08-20T05:50:58Z,7,1,0,
+112,travel-assistant-multi-agent-langgraph,bestimmt,This is a travel assistant chatbot designed mainly with langgraph framework with multi-agents. Based on langgraph's examples,https://github.com/bestimmt/travel-assistant-multi-agent-langgraph,,2024-08-16T11:14:21Z,2024-08-16T11:14:21Z,0,2,0,MIT License
+113,claude-stonks-agent,davidpadbury,Example langchain/langgraph agent using Claude v2.1 on AWS bedrock,https://github.com/davidpadbury/claude-stonks-agent,Python,2024-02-25T23:02:40Z,2024-06-30T08:25:58Z,8,1,0,
+114,knitt.ai,esxr,Integrate AI into your website in a single line of code,https://github.com/esxr/knitt.ai,JavaScript,2024-07-24T08:48:12Z,2024-09-09T05:14:34Z,0,4,1,Other
+115,convo-insight-platform,rampal-punia,Customer Conversational Intelligence Platform Powered by an LLM Agent,https://github.com/rampal-punia/convo-insight-platform,Jupyter Notebook,2024-08-04T08:34:21Z,2024-10-06T10:44:06Z,5,5,0,Apache License 2.0
+116,BlogIQ,langchain-tech," Clone of writesonic.com & copy.ai - BlogIQ is an innovative app powered by OpenAI and Langchain, designed to streamline the content creation process for bloggers.",https://github.com/langchain-tech/BlogIQ,Python,2024-03-06T09:47:12Z,2024-09-30T07:13:35Z,38,2,0,
+117,langgraph-exercises,KardelRuveyda,My LangGraph Exercises 🦜🕸️,https://github.com/KardelRuveyda/langgraph-exercises,Jupyter Notebook,2024-06-14T10:58:17Z,2024-09-30T16:52:20Z,3,0,0,
+118,writing-agent,kyopark2014,It shows an intelligent agent based on LangGraph for long form writing.,https://github.com/kyopark2014/writing-agent,Python,2024-09-11T07:02:08Z,2024-10-04T00:57:54Z,9,0,0,
+119,RAG_USING_LANGGRAPH,Sakil786,RAG_USING_LANGGRAPH,https://github.com/Sakil786/RAG_USING_LANGGRAPH,Python,2024-08-23T18:14:40Z,2024-08-25T01:53:49Z,2,0,0,Apache License 2.0
+120,langgraph_crag,leannchen86,,https://github.com/leannchen86/langgraph_crag,Jupyter Notebook,2024-03-16T20:58:26Z,2024-06-05T08:12:29Z,3,0,0,
+121,langgraph_scrapegraph,VinciGit00,,https://github.com/VinciGit00/langgraph_scrapegraph,Python,2024-10-04T09:05:38Z,2024-10-06T08:28:46Z,3,0,0,MIT License
+122,two-factor-support-agent,jacoblee93,LangGraph.js agent that requires authorization before invoking tools,https://github.com/jacoblee93/two-factor-support-agent,TypeScript,2024-07-25T21:33:18Z,2024-09-17T05:42:43Z,5,1,0,MIT License
+123,Generative-AI-for-Interactive-Data-Visualization,ahmadvh,"This Git repository contains the source code and related files for a project focused on leveraging generative AI techniques for interactive data visualization. The repository includes the notebook, example dataset, and the configuration file necessary to implement a simple interactive data visualization tool using OpenAI API.",https://github.com/ahmadvh/Generative-AI-for-Interactive-Data-Visualization,Python,2024-02-05T12:50:22Z,2024-09-30T08:30:46Z,4,3,0,
+124,langgraph-with-crewai,Ionio-io,"This repository contains detailed introduction to Langgraph, a new Langchain library. You will learn about langgraph and also create a miniproject using crewai and langgraph",https://github.com/Ionio-io/langgraph-with-crewai,Jupyter Notebook,2024-05-27T10:44:14Z,2024-08-11T06:35:37Z,3,2,0,
+125,langchain-tilores,tilotech,"This repository provides the building blocks for integrating LangChain, LangGraph, and the Tilores entity resolution system.",https://github.com/tilotech/langchain-tilores,Python,2024-08-01T09:11:18Z,2024-10-04T23:44:12Z,13,1,1,MIT License
+126,LangGraph-MultiAgent-Routing,Sghosh1999,,https://github.com/Sghosh1999/LangGraph-MultiAgent-Routing,Jupyter Notebook,2024-07-08T18:00:17Z,2024-08-14T16:50:24Z,4,2,0,
+127,langgraph-chainlit-agent,0msys,,https://github.com/0msys/langgraph-chainlit-agent,Python,2024-04-18T12:44:47Z,2024-09-22T23:54:04Z,3,1,0,
+128,langgraph-rag-chatbot,riolaf05,Agentic RAG chatbot using Langchain and Langgraph,https://github.com/riolaf05/langgraph-rag-chatbot,Jupyter Notebook,2024-05-22T09:11:37Z,2024-09-25T06:56:55Z,3,0,0,
+129,CRAG-Ollama-langgraph,akshatsingh1718,This project displays the open source LLM's power with a technique called Corrective RAG using graph analogy of Lang graph.,https://github.com/akshatsingh1718/CRAG-Ollama-langgraph,Jupyter Notebook,2024-03-04T12:18:04Z,2024-07-20T21:03:34Z,3,0,0,
+130,new-langgraphjs-project,langchain-ai,Empty langgraph project template.,https://github.com/langchain-ai/new-langgraphjs-project,TypeScript,2024-09-17T00:58:59Z,2024-09-21T09:06:48Z,2,0,0,MIT License
+131,LangGraph_tutorial,tangyipeng100,,https://github.com/tangyipeng100/LangGraph_tutorial,Jupyter Notebook,2024-05-18T04:36:30Z,2024-08-10T03:02:52Z,3,0,0,
+132,new-langgraph-project,langchain-ai,,https://github.com/langchain-ai/new-langgraph-project,Python,2024-09-13T23:28:15Z,2024-09-22T11:55:23Z,3,2,0,MIT License
+133,TikalMeetup2024,sshahar1,"LLM, RAG and LangGraph",https://github.com/sshahar1/TikalMeetup2024,Jupyter Notebook,2024-07-11T18:26:14Z,2024-09-27T03:41:01Z,2,0,0,
+134,email-response-automation-with-crewai-langgraph,AaronSosaRamos,,https://github.com/AaronSosaRamos/email-response-automation-with-crewai-langgraph,Python,2024-07-13T20:54:18Z,2024-10-01T14:11:46Z,4,0,0,
+135,langgraph_openai_webscraper,ravinthiranpartheepan1407,Amazon Scraper: Langgraph + OpenAI,https://github.com/ravinthiranpartheepan1407/langgraph_openai_webscraper,Python,2024-03-16T19:15:55Z,2024-07-24T23:41:31Z,2,1,0,
+136,Perplexity-Clone-LangGraph,saurabhlalsaxena,,https://github.com/saurabhlalsaxena/Perplexity-Clone-LangGraph,Python,2024-08-21T11:55:56Z,2024-09-28T10:15:43Z,3,0,0,
+137,langgraph-fastapi-streamlit-agent,VanJohnPK,,https://github.com/VanJohnPK/langgraph-fastapi-streamlit-agent,Python,2024-08-15T03:25:10Z,2024-09-01T16:02:24Z,3,1,0,
+138,assistant-ui-starter-langgraph,Yonom,,https://github.com/Yonom/assistant-ui-starter-langgraph,TypeScript,2024-09-10T20:03:20Z,2024-10-01T20:04:18Z,3,1,0,
+139,LangGraph-Data-Analyst,iwasnothing,,https://github.com/iwasnothing/LangGraph-Data-Analyst,Python,2024-03-16T14:44:45Z,2024-07-31T10:03:50Z,3,0,0,
+140,Medicines-RAG-ChatBot,shyamdhokia1,"Chatbot for NHS Medicines A-Z. Agentic Retrieval Augmented Generation utilising the OpenAI API, LangChain, and LangGraph to query a vector database built from freely accessible NHS API.",https://github.com/shyamdhokia1/Medicines-RAG-ChatBot,Python,2024-05-29T11:50:08Z,2024-09-20T14:24:46Z,5,3,0,GNU General Public License v3.0
+141,langgraph-on-amazon-sagemaker,aws-samples,Repository of sample notebooks that showcase how to combine the powers of LangGraph with LLMs in Amazon SageMaker.,https://github.com/aws-samples/langgraph-on-amazon-sagemaker,Jupyter Notebook,2024-02-21T13:51:56Z,2024-09-05T18:59:40Z,3,0,0,MIT No Attribution
+142,langgraph_ai_content_researcher,Ketan-K17,"A simple langgraph project that synergizes research for content info on the Web, generation of content, and critiquing of written content in one single multi-agent system",https://github.com/Ketan-K17/langgraph_ai_content_researcher,Python,2024-08-03T07:24:34Z,2024-09-05T02:17:49Z,3,1,0,
+143,marly,marly-ai,The Data Processor for Agents ,https://github.com/marly-ai/marly,Jupyter Notebook,2024-07-11T17:41:20Z,2024-10-06T09:29:25Z,22,5,1,MIT License
+144,langgraph-aim-notes,cmagganas,Langgraph: Action Item Meeting Notes,https://github.com/cmagganas/langgraph-aim-notes,Python,2024-01-26T19:31:41Z,2024-06-05T08:12:09Z,2,0,1,
+145,ReflexionAgents,rishabbahal9,Reflexion agents implemented on LangGraph.,https://github.com/rishabbahal9/ReflexionAgents,Python,2024-08-05T19:46:34Z,2024-08-08T00:04:09Z,2,0,0,
+146,agents,ly2xxx,poc of langgraph based agents,https://github.com/ly2xxx/agents,Python,2024-06-22T08:37:16Z,2024-10-03T18:37:44Z,2,1,0,
+147,Powerful-Auto-Researcher,MIRACLE-cowf,"Powerful Auto Research powered by LangChain, and Anthropic.",https://github.com/MIRACLE-cowf/Powerful-Auto-Researcher,Python,2024-04-02T06:31:56Z,2024-09-08T16:00:57Z,27,4,3,
+148,o1graph,etrobot,Using langgraph to create o1-like reasoning chains,https://github.com/etrobot/o1graph,Python,2024-09-23T09:01:50Z,2024-09-29T07:28:49Z,3,1,0,MIT License
+149,ReasturantInsight,efenocchi,"Unveiling the Power of Restaurant Insights: Leveraging CLIP, DeepLake, and LangGraph",https://github.com/efenocchi/ReasturantInsight,,2024-03-26T22:52:21Z,2024-09-13T08:51:52Z,5,0,0,
+150,LangGraph-MAS4SE,waywooKwong,"Muiti-Agents System for Software Engineering WebUI by LangGraph, project in CSI training course",https://github.com/waywooKwong/LangGraph-MAS4SE,JavaScript,2024-07-01T00:29:46Z,2024-09-25T14:05:03Z,3,1,0,GNU General Public License v2.0
+151,Reflection-Agent-Using-LangGraph,harrisonsrp,In this project I built a web developer agent based on reflection agent concept. This agent can reflect on generated website template and optimize it by itself,https://github.com/harrisonsrp/Reflection-Agent-Using-LangGraph,Python,2024-08-10T18:46:52Z,2024-09-22T15:10:48Z,3,0,0,
+152,fa-langgraph,luannguyenkhoa,An PoC demo for building a finance assistant with multi-agents using LangGraph framework,https://github.com/luannguyenkhoa/fa-langgraph,Python,2024-08-01T12:21:05Z,2024-08-20T14:24:59Z,2,1,0,MIT License
+153,my-langgraph,caizhuoyue77,,https://github.com/caizhuoyue77/my-langgraph,Python,2024-05-16T01:59:22Z,2024-08-07T10:29:38Z,2,0,0,
+154,trustcall,hinthornw,Tenacious tool calling built on LangGraph,https://github.com/hinthornw/trustcall,Python,2024-06-25T05:57:42Z,2024-10-02T15:44:25Z,2,0,0,MIT License
+155,open-modular-rag,PiMasGit,An implementation of modular RAG using Langgraph and GroqCloud.,https://github.com/PiMasGit/open-modular-rag,Jupyter Notebook,2024-04-24T18:42:06Z,2024-08-04T16:07:31Z,3,0,0,
+156,Adaptive-RAG-Langgraph,Jaspreet-Singh619,langgraph,https://github.com/Jaspreet-Singh619/Adaptive-RAG-Langgraph,Jupyter Notebook,2024-09-14T04:55:06Z,2024-09-14T10:38:58Z,0,0,0,
+157,Code-Wizard-LangGraph-C_RAG,RutamBhagat,API Docs: https://code-wizard-langgraph-c-rag.onrender.com,https://github.com/RutamBhagat/Code-Wizard-LangGraph-C_RAG,Python,2024-05-25T15:17:53Z,2024-09-27T02:35:18Z,3,0,0,
+158,langgraph-custom-tools,jakenolan,This is example code for a LangGraph solution that uses a custom made toolkit.,https://github.com/jakenolan/langgraph-custom-tools,Python,2024-03-01T21:32:04Z,2024-09-23T18:12:47Z,2,0,0,
+159,LangGraph-Study,Eumenides1,,https://github.com/Eumenides1/LangGraph-Study,Jupyter Notebook,2024-07-22T15:11:22Z,2024-09-01T11:48:59Z,2,0,0,
+160,ollama-langgraph-rag,mfmezger,,https://github.com/mfmezger/ollama-langgraph-rag,,2024-04-21T17:25:28Z,2024-06-05T08:11:59Z,2,0,0,MIT License
+161,LangGraph-Udemy-Course,Coding-Crashkurse,"This repository contains the code for the LangGraph course: ""LangGraph in Action - Building Autonomous AI Agents""",https://github.com/Coding-Crashkurse/LangGraph-Udemy-Course,Jupyter Notebook,2024-09-21T13:09:53Z,2024-10-04T20:18:34Z,2,0,0,
+162,langgraph-bedrock-samples,aws-samples,,https://github.com/aws-samples/langgraph-bedrock-samples,Jupyter Notebook,2024-07-15T09:04:23Z,2024-08-16T08:58:36Z,2,1,0,MIT No Attribution
+163,LangGraphGPT,LorenzoPisante,"Developing a framework integrating GPT models with graph-based structures for advanced conversational AI, aiming to improve the efficiency and contextual understanding in natural language processing tasks.",https://github.com/LorenzoPisante/LangGraphGPT,Python,2024-09-03T11:21:58Z,2024-09-03T13:56:01Z,2,0,0,
+164,langgraph-framework-tutorial,hollaugo,"In this repo, we take a look at example of using the LangGraph agent framework ",https://github.com/hollaugo/langgraph-framework-tutorial,Jupyter Notebook,2024-02-09T20:28:48Z,2024-08-02T12:29:10Z,2,1,0,
+165,agent-solarpanels-tutorial,Pairrot-Lore,This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use with LangGraph Studio for easy visualization and testing.,https://github.com/Pairrot-Lore/agent-solarpanels-tutorial,Python,2024-09-20T06:17:42Z,2024-10-06T07:07:23Z,5,0,0,MIT License
+166,CrewAi-gmail-classifier,Feed-dev,"WIP Automation using CrewAi and LangGraph to sort, analyze and report on complaint emails",https://github.com/Feed-dev/CrewAi-gmail-classifier,Python,2024-04-30T10:33:33Z,2024-07-28T07:43:38Z,5,0,0,
+167,langgraph_quickstart,Smone5,Langgraph quickstart,https://github.com/Smone5/langgraph_quickstart,Python,2024-08-08T17:13:26Z,2024-08-08T17:41:22Z,0,0,0,
+168,LangGraph_Reflexion_Agent,MichaelPariaszevski,"Reflexion Agent using LangGraph, Tavily Search engine, and Function Calling",https://github.com/MichaelPariaszevski/LangGraph_Reflexion_Agent,Python,2024-07-30T17:45:07Z,2024-09-27T02:34:12Z,2,1,0,Apache License 2.0
+169,Langraph,NebeyouMusie,"This repo is ChatBot demonstration using Langraph. LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.",https://github.com/NebeyouMusie/Langraph,Python,2024-06-24T08:44:35Z,2024-06-27T19:58:25Z,2,1,0,
+170,1d-final-project-summer-2024-sds-2024-team-08,Service-Design-Studio,Natural Language Business Assistant,https://github.com/Service-Design-Studio/1d-final-project-summer-2024-sds-2024-team-08,Python,2024-05-13T10:13:52Z,2024-09-03T00:38:17Z,2,0,0,
+171,agentic_search_openai_langgraph,menonpg,"Agentic search web search using LangGraph and OpenAI GPT-4o, powered by Tavily and DuckDuckGo search. ",https://github.com/menonpg/agentic_search_openai_langgraph,Python,2024-07-07T17:36:24Z,2024-08-13T05:48:54Z,2,1,0,
+172,langraph,ly2xxx,langgraph experiment,https://github.com/ly2xxx/langraph,Jupyter Notebook,2024-06-05T22:20:10Z,2024-06-21T22:37:03Z,1,0,0,
+173,fictional-umbrella,hsmtkk,LangGraph tutorial,https://github.com/hsmtkk/fictional-umbrella,,2024-08-30T06:50:52Z,2024-08-30T06:50:56Z,0,0,0,
+174,langgraph-1,oferby,Testing LangGraph,https://github.com/oferby/langgraph-1,,2024-06-23T06:32:54Z,2024-06-23T06:32:58Z,0,0,0,
+175,Langchain,ArmaanSeth,testing langgraph,https://github.com/ArmaanSeth/Langchain,Jupyter Notebook,2024-02-21T05:48:51Z,2024-06-05T08:11:54Z,0,0,0,
+176,Agents_langgraph,Deepu-89,Agents_langgraph,https://github.com/Deepu-89/Agents_langgraph,Jupyter Notebook,2024-06-26T10:49:10Z,2024-06-26T10:55:19Z,0,0,0,
+177,LangGraph-Practice,FatRicePaddyyyy,LangGraph-Practice,https://github.com/FatRicePaddyyyy/LangGraph-Practice,Jupyter Notebook,2024-09-20T04:48:47Z,2024-09-20T04:54:56Z,0,0,0,
+178,FakeNewsDetector,skang188144,"An AI fact checker web application designed with React, LangGraph, and Tavily AI. ",https://github.com/skang188144/FakeNewsDetector,TypeScript,2024-07-09T15:28:52Z,2024-10-05T15:54:01Z,4,0,0,
+179,Data-analysis-using-natural-language,MuhammadAmmarHassan,Langchain | LangGraph,https://github.com/MuhammadAmmarHassan/Data-analysis-using-natural-language,Jupyter Notebook,2024-10-03T19:31:12Z,2024-10-03T20:01:53Z,0,0,0,
+180,Super-Expert-LangGraph,JarvisChan666,,https://github.com/JarvisChan666/Super-Expert-LangGraph,Python,2024-09-04T05:28:53Z,2024-09-27T02:37:50Z,2,0,0,MIT License
+181,LangGraphLearnp2,kinhbanh123,Langgraph frfrnjk,https://github.com/kinhbanh123/LangGraphLearnp2,Jupyter Notebook,2024-08-01T08:56:11Z,2024-08-14T07:04:50Z,0,0,0,
+182,cautious-octo-spork,hsmtkk,udemy langgraph,https://github.com/hsmtkk/cautious-octo-spork,,2024-08-24T23:05:53Z,2024-08-24T23:05:56Z,0,0,0,
+183,LangGraph-Chatbot-With-Tools,Max1209-johnson,LangGraph Pratice ,https://github.com/Max1209-johnson/LangGraph-Chatbot-With-Tools,,2024-08-29T13:08:06Z,2024-08-29T13:08:06Z,0,0,0,
+184,langgraph,AjinathGhodake,Langgraph examples,https://github.com/AjinathGhodake/langgraph,Python,2024-06-06T19:30:04Z,2024-06-13T18:42:44Z,0,0,0,MIT License
+185,langgraph_test,sdcharly,Test LangGraph,https://github.com/sdcharly/langgraph_test,Python,2024-01-30T17:22:19Z,2024-06-05T08:11:52Z,0,0,0,MIT License
+186,SQLAgent,Jaspreet-Singh619,SQLAgent Langgraph,https://github.com/Jaspreet-Singh619/SQLAgent,Python,2024-09-14T15:17:56Z,2024-09-14T15:24:16Z,0,0,0,
+187,hello-workflow,tenderne13,langgraph demo,https://github.com/tenderne13/hello-workflow,,2024-09-30T02:16:24Z,2024-09-30T13:06:48Z,0,0,0,
+188,congenial-eureka,hsmtkk,langgraph training,https://github.com/hsmtkk/congenial-eureka,,2024-06-09T00:14:20Z,2024-06-09T00:14:24Z,0,0,0,
+189,Wheels-analyst,Wheely-Good,Langgraph repo,https://github.com/Wheely-Good/Wheels-analyst,Python,2024-09-22T17:58:18Z,2024-09-22T18:00:16Z,0,0,0,
+190,agent_langgraph,analyticsrepo01,agent_langgraph,https://github.com/analyticsrepo01/agent_langgraph,Jupyter Notebook,2024-06-11T06:19:12Z,2024-06-11T17:25:00Z,0,0,0,
+191,Large-Language-Models-Tutorial,atef-ataya,"Learn AI, ML, and NLP with interactive Jupyter Notebook tutorials.",https://github.com/atef-ataya/Large-Language-Models-Tutorial,Jupyter Notebook,2023-07-10T15:56:35Z,2024-10-05T18:44:33Z,11,6,0,
+192,langgraphstudio1,siddharthchauhan,,https://github.com/siddharthchauhan/langgraphstudio1,,2024-08-28T20:20:35Z,2024-08-28T20:20:36Z,0,0,0,
+193,agents,TimSim,LangGraph Agents,https://github.com/TimSim/agents,Jupyter Notebook,2024-07-04T01:44:30Z,2024-07-04T01:53:15Z,0,0,0,Apache License 2.0
+194,LangGraph-GPT4-TAVELI,shaunck96,,https://github.com/shaunck96/LangGraph-GPT4-TAVELI,Jupyter Notebook,2024-01-13T01:26:19Z,2024-07-04T15:33:25Z,2,0,0,
+195,AI-Agents-in-LangGraph,iclal07,,https://github.com/iclal07/AI-Agents-in-LangGraph,Jupyter Notebook,2024-08-27T09:19:21Z,2024-09-15T15:06:55Z,2,0,0,
+196,task_oriented_dialogue_system_langgraph,dmesquita,,https://github.com/dmesquita/task_oriented_dialogue_system_langgraph,Python,2024-09-13T18:33:22Z,2024-10-04T15:32:41Z,2,2,0,MIT License
+197,langgraph-studies,DavideGhiani,Langgraph application.,https://github.com/DavideGhiani/langgraph-studies,,2024-06-23T16:19:21Z,2024-06-23T16:19:25Z,0,0,0,
+198,langgraph,nilsjennissen,Langgraph Implementations,https://github.com/nilsjennissen/langgraph,Jupyter Notebook,2024-09-18T10:43:03Z,2024-09-19T20:38:09Z,0,1,0,
+199,take2,kaush4l,Easy langgraph,https://github.com/kaush4l/take2,Python,2024-09-24T00:06:10Z,2024-09-26T14:50:10Z,0,0,0,Creative Commons Zero v1.0 Universal
+200,langgraph101,raphavtorres,learnign to use LangGraph with AI Agents,https://github.com/raphavtorres/langgraph101,Jupyter Notebook,2024-07-29T14:15:45Z,2024-07-31T19:56:40Z,0,0,0,
+201,langgraphChatBot,vroy651,,https://github.com/vroy651/langgraphChatBot,Python,2024-08-21T07:40:26Z,2024-08-21T10:29:44Z,0,0,0,
+202,RAG-using-LangGraph-Agents,vansh-khaneja,This Repository will guide you in building an Agentic RAG application using LangGraph and Qdrant. Here we are just using two Agents one for document retrieval and the other one for wikipedia search.,https://github.com/vansh-khaneja/RAG-using-LangGraph-Agents,Jupyter Notebook,2024-09-03T22:51:13Z,2024-10-06T03:39:08Z,2,0,0,
+203,AI-Interview-System,atiqabdullah07,Langchain | Langgraph | Python,https://github.com/atiqabdullah07/AI-Interview-System,Python,2024-04-29T18:44:58Z,2024-06-05T08:11:46Z,0,0,0,
+204,langgraph_nextjs_aisdk,Deepu-89,langgraph_nextjs_aisdk,https://github.com/Deepu-89/langgraph_nextjs_aisdk,TypeScript,2024-06-20T11:12:00Z,2024-06-20T11:28:58Z,0,0,0,
+205,AgentWriteUI,officialsahyaboutorabi,A Gradio UI used to interact with an AgentWrite Integration with LangGraph.,https://github.com/officialsahyaboutorabi/AgentWriteUI,Python,2024-09-11T01:43:21Z,2024-09-21T04:16:20Z,3,0,0,
+206,ai-dag,vinodhalaharvi,Poorman's LangGraph,https://github.com/vinodhalaharvi/ai-dag,Go,2024-02-28T13:55:40Z,2024-06-05T08:08:07Z,0,0,0,
+207,Customer-LangGraph,08sarthak,LangGraph Architecture Impletation,https://github.com/08sarthak/Customer-LangGraph,Python,2024-07-22T07:49:53Z,2024-09-15T16:18:15Z,0,1,0,
+208,langgraph,LLMCert,Simple langgraph example,https://github.com/LLMCert/langgraph,Jupyter Notebook,2024-10-01T19:37:20Z,2024-10-04T22:47:08Z,0,0,0,
+209,data-enrichment-js,langchain-ai,,https://github.com/langchain-ai/data-enrichment-js,TypeScript,2024-08-20T00:45:57Z,2024-09-29T17:04:23Z,3,1,0,MIT License
+210,LangGraph_demo,yonesuke0716,LangGraphのデモ,https://github.com/yonesuke0716/LangGraph_demo,Python,2024-07-14T00:16:30Z,2024-07-15T12:37:41Z,0,0,0,
+211,hotmail_agent,terng03412,Hotmail + CrewAI + Langgraph,https://github.com/terng03412/hotmail_agent,,2024-05-28T03:12:50Z,2024-06-05T08:06:26Z,0,0,0,Apache License 2.0
+212,literate-octo-winner,hsmtkk,Tavilysearch and LangGraph,https://github.com/hsmtkk/literate-octo-winner,Python,2024-09-04T03:39:38Z,2024-09-04T03:58:22Z,0,0,0,
+213,swe-chatbot-langchain,SauravP97,A Chatbot for SWE Interview prep built on LangGraph,https://github.com/SauravP97/swe-chatbot-langchain,TypeScript,2024-09-09T04:14:19Z,2024-09-10T12:33:07Z,2,0,0,
+214,Youtube-content-creation-agent-using-langgraph,Ashufet,,https://github.com/Ashufet/Youtube-content-creation-agent-using-langgraph,Jupyter Notebook,2024-03-21T16:43:14Z,2024-07-17T04:04:05Z,2,1,0,Apache License 2.0
+215,lg-sql-agent,agola11,LangGraph SQL Agent,https://github.com/agola11/lg-sql-agent,Python,2024-06-27T00:08:25Z,2024-06-27T01:11:15Z,0,0,0,
+216,LangGraph,ManideepBangaru,All about LangGraph,https://github.com/ManideepBangaru/LangGraph,Jupyter Notebook,2024-09-27T21:05:16Z,2024-09-27T22:10:52Z,0,0,0,MIT License
+217,LangGraph,Komal-patra,LangGraph Agent Tutorial,https://github.com/Komal-patra/LangGraph,Jupyter Notebook,2024-10-02T09:00:41Z,2024-10-02T09:03:17Z,0,0,0,GNU General Public License v3.0
+218,langgraph-human-in-the-loop-demo,os1ma,LangGraphでのHuman-in-the-loopの実装,https://github.com/os1ma/langgraph-human-in-the-loop-demo,Python,2024-08-26T01:04:55Z,2024-09-05T13:11:10Z,2,2,0,MIT License
+219,agentic-ai,deansaco,tinkering with LangGraph,https://github.com/deansaco/agentic-ai,Jupyter Notebook,2024-08-27T00:10:40Z,2024-09-04T21:57:57Z,1,0,0,
+220,TianGong-AI-LangGraph,linancn,TianGong-AI-LangGraph,https://github.com/linancn/TianGong-AI-LangGraph,Python,2024-02-25T09:47:32Z,2024-06-05T08:10:46Z,1,1,0,MIT License
+221,LangGraph_Agent_test,Jakee4488,testing with LangGraph ,https://github.com/Jakee4488/LangGraph_Agent_test,Jupyter Notebook,2024-08-08T09:58:40Z,2024-08-08T10:00:01Z,0,0,0,MIT License
+222,LangGraph_Academy_Practice,ChWasam,LangGraph_Academy_Practice,https://github.com/ChWasam/LangGraph_Academy_Practice,Jupyter Notebook,2024-09-20T11:28:24Z,2024-10-06T09:45:14Z,0,0,0,
+223,LanggraphGPT_DataProcessor,EmirhanSyl,Preprocessing Functions,https://github.com/EmirhanSyl/LanggraphGPT_DataProcessor,Python,2024-07-25T14:18:37Z,2024-09-26T14:49:18Z,1,0,0,
+224,langgraph,shubhamaragade-coditas,,https://github.com/shubhamaragade-coditas/langgraph,Jupyter Notebook,2024-05-10T12:18:40Z,2024-05-10T12:21:05Z,0,0,0,
+225,langgraph,vasanthrohith,,https://github.com/vasanthrohith/langgraph,Jupyter Notebook,2024-06-17T16:21:08Z,2024-06-17T16:54:44Z,0,0,0,
+226,langgraph,runo-hr,,https://github.com/runo-hr/langgraph,Jupyter Notebook,2024-08-04T17:37:26Z,2024-08-15T19:00:16Z,0,0,0,
+227,langgraph,ElderBarbosaLima,,https://github.com/ElderBarbosaLima/langgraph,Python,2024-09-19T12:42:42Z,2024-09-28T22:38:24Z,0,0,0,
+228,langgraph,ivaniuss,,https://github.com/ivaniuss/langgraph,Jupyter Notebook,2024-08-27T21:56:50Z,2024-08-27T21:57:35Z,0,0,0,
+229,Langgraph,Prashantkhobragade,,https://github.com/Prashantkhobragade/Langgraph,Jupyter Notebook,2024-08-27T10:29:45Z,2024-09-04T09:43:17Z,0,0,0,
+230,langgraph,DinizMaths,,https://github.com/DinizMaths/langgraph,Python,2024-09-04T18:35:15Z,2024-09-07T16:15:16Z,0,0,0,
+231,langgraph,octadion,Multi-Agents Workflow with Langgraph.,https://github.com/octadion/langgraph,Python,2024-05-13T08:02:00Z,2024-05-25T17:46:37Z,1,0,0,MIT License
+232,langgraph,4-learn,,https://github.com/4-learn/langgraph,Python,2024-05-27T14:08:16Z,2024-09-30T12:43:10Z,0,0,0,
+233,langGraphBot,CKPOON0619,Experimental langGraph project,https://github.com/CKPOON0619/langGraphBot,,2024-07-07T10:11:16Z,2024-07-07T10:11:19Z,0,0,0,
+234,reflection-agent,tonymm55,Udemy Langgraph Module,https://github.com/tonymm55/reflection-agent,Python,2024-07-30T07:45:59Z,2024-07-30T12:59:42Z,0,0,0,
+235,langgraph,JoseM-18,,https://github.com/JoseM-18/langgraph,Python,2024-07-15T20:53:14Z,2024-07-16T17:09:04Z,0,0,0,
+236,langgraph,Ic-venkat,,https://github.com/Ic-venkat/langgraph,Jupyter Notebook,2024-04-10T16:44:08Z,2024-04-14T15:11:47Z,0,0,0,MIT License
+237,langgraph,Andyb9988,,https://github.com/Andyb9988/langgraph,Jupyter Notebook,2024-09-16T12:44:18Z,2024-09-16T12:55:05Z,0,0,0,
+238,langgraph,keqingli1129,,https://github.com/keqingli1129/langgraph,Jupyter Notebook,2024-05-12T21:29:26Z,2024-05-14T18:28:34Z,0,0,0,
+239,langgraph,Shreemirrah2101,,https://github.com/Shreemirrah2101/langgraph,,2024-06-05T18:01:59Z,2024-06-05T18:05:49Z,0,0,0,
+240,langgraph,yunseongjae,,https://github.com/yunseongjae/langgraph,,2024-08-10T17:48:34Z,2024-08-10T17:48:34Z,0,0,0,
+241,Langgraph,FahimHossen55,,https://github.com/FahimHossen55/Langgraph,Jupyter Notebook,2024-09-08T19:55:49Z,2024-10-04T20:27:06Z,0,0,0,
+242,langgraph,cipher982,,https://github.com/cipher982/langgraph,Python,2024-07-18T20:16:01Z,2024-07-25T23:21:55Z,0,0,0,
+243,langgraph_,sreeniSudharsan,This is a private repository for my learnings of langgraph,https://github.com/sreeniSudharsan/langgraph_,Python,2024-08-29T12:01:12Z,2024-09-02T12:42:19Z,0,0,0,
+244,langgraph,gyi123,,https://github.com/gyi123/langgraph,,2024-05-29T01:57:51Z,2024-05-29T01:57:51Z,0,0,0,
+245,langgraph,HardikCoder45,,https://github.com/HardikCoder45/langgraph,Jupyter Notebook,2024-08-21T14:26:20Z,2024-08-21T14:26:58Z,0,0,0,
+246,Langgraph,Shivachowdoju,Tutorial 1_Langgraph chatbot ,https://github.com/Shivachowdoju/Langgraph,Jupyter Notebook,2024-08-21T17:01:13Z,2024-08-21T17:03:40Z,0,0,0,
+247,Langgraph,Sam20-08,,https://github.com/Sam20-08/Langgraph,Jupyter Notebook,2024-08-24T16:10:05Z,2024-08-24T16:10:31Z,0,0,0,
+248,llm-agent,kyopark2014,It shows how to deploy and use an agent with LLM.,https://github.com/kyopark2014/llm-agent,Jupyter Notebook,2024-03-04T00:09:31Z,2024-09-18T03:39:47Z,9,1,0,
+249,Langgraph,Msaleemakhtar,,https://github.com/Msaleemakhtar/Langgraph,Jupyter Notebook,2024-10-02T10:51:41Z,2024-10-04T20:23:06Z,0,0,0,
+250,Langgraph,jmoraledac,,https://github.com/jmoraledac/Langgraph,Python,2024-01-10T15:59:54Z,2024-01-10T16:00:17Z,0,0,0,MIT License
+251,langgraph,BapunHansdah,,https://github.com/BapunHansdah/langgraph,,2024-05-19T15:32:27Z,2024-05-19T15:32:27Z,0,0,0,
+252,Langgraph,Puzan789,"LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.",https://github.com/Puzan789/Langgraph,Jupyter Notebook,2024-08-12T16:21:11Z,2024-08-12T17:46:04Z,0,0,0,
+253,Langgraph,DhirajBembade,,https://github.com/DhirajBembade/Langgraph,,2024-08-31T08:44:49Z,2024-08-31T08:44:49Z,0,0,0,
+254,langgraph,hopemcleod,,https://github.com/hopemcleod/langgraph,Python,2024-09-21T08:18:48Z,2024-10-06T09:04:28Z,0,0,0,
+255,langgraph,venkatganesh96,,https://github.com/venkatganesh96/langgraph,Python,2024-05-04T11:57:50Z,2024-05-06T11:15:46Z,0,0,0,
+256,langgraph,druce,Use langgraph to create a tearsheet for a stock ticker,https://github.com/druce/langgraph,Jupyter Notebook,2024-06-24T17:47:15Z,2024-07-02T02:35:05Z,0,0,0,MIT License
+257,langgraph,jiapn123,,https://github.com/jiapn123/langgraph,Jupyter Notebook,2024-04-26T06:38:32Z,2024-04-26T06:44:03Z,0,0,0,
+258,langgraph,luke1212,,https://github.com/luke1212/langgraph,Python,2024-05-28T21:46:57Z,2024-05-28T21:47:22Z,0,0,0,
+259,Langgraph,cxx5208,,https://github.com/cxx5208/Langgraph,Jupyter Notebook,2024-09-11T08:23:58Z,2024-09-11T08:42:33Z,0,0,0,
+260,Langgraph,VladimirsHisamutdinovs,Multi-agent LLMs with Langgraph,https://github.com/VladimirsHisamutdinovs/Langgraph,Jupyter Notebook,2024-07-08T10:24:33Z,2024-07-08T10:26:00Z,0,0,0,
+261,langgraph,robertoshimizu,,https://github.com/robertoshimizu/langgraph,,2024-08-02T11:16:44Z,2024-08-02T11:16:49Z,0,0,0,
+262,langgraph,spcCodes,this repository is about different concepts related to langgraph,https://github.com/spcCodes/langgraph,,2024-08-18T04:36:36Z,2024-08-18T04:36:39Z,0,0,0,Apache License 2.0
+263,langgraph,dotdevdotdev,"Empower your projects with agentic workflows using our LangGraph-based implementation toolkit. Explore practical examples and optimize graph-based algorithms for intelligent, autonomous decision-making in complex systems.",https://github.com/dotdevdotdev/langgraph,Python,2024-09-26T04:32:17Z,2024-09-27T01:50:04Z,0,0,0,
+264,Gazettes-Scraper-with-Langgraph,amuigai0,Extractor using Langgraph Agents ,https://github.com/amuigai0/Gazettes-Scraper-with-Langgraph,Python,2024-08-07T11:43:42Z,2024-09-19T18:25:55Z,1,0,1,
+265,Advanced-RAG-LangChain,PrMestizo,"Implementation of Reflective RAG, Self-RAG & Adaptive RAG tailored towards production-oriented applications with LangGraph and OpenAI API",https://github.com/PrMestizo/Advanced-RAG-LangChain,Python,2024-06-11T19:35:41Z,2024-09-24T12:08:52Z,5,0,0,
+266,langgraph,Sudeeparyan,,https://github.com/Sudeeparyan/langgraph,Jupyter Notebook,2024-09-25T05:26:19Z,2024-09-25T05:28:34Z,0,0,0,
+267,Study-Langgraph,Hoanganhvu123,Study-Langgraph from me ,https://github.com/Hoanganhvu123/Study-Langgraph,Jupyter Notebook,2024-07-30T11:21:28Z,2024-07-30T11:22:16Z,0,0,0,
+268,langgraph,suseendar1414,,https://github.com/suseendar1414/langgraph,Python,2024-01-30T01:37:52Z,2024-01-30T01:44:46Z,0,0,0,
+269,langgraph,sanskar-reply,,https://github.com/sanskar-reply/langgraph,Jupyter Notebook,2024-06-19T14:30:42Z,2024-06-20T14:49:39Z,0,0,0,
+270,langgraph,siro844,,https://github.com/siro844/langgraph,Jupyter Notebook,2024-07-29T19:06:30Z,2024-07-30T18:08:21Z,1,0,0,
+271,LangGraph-Experiments,vbookshelf,My experiments with LangGraph,https://github.com/vbookshelf/LangGraph-Experiments,Jupyter Notebook,2024-06-10T00:38:06Z,2024-08-01T03:34:58Z,0,0,0,MIT License
+272,Langgraph_Tutorial_Series_self_2024,ARKA1112,Consolidated tutorials on langgraph,https://github.com/ARKA1112/Langgraph_Tutorial_Series_self_2024,Jupyter Notebook,2024-07-19T15:33:56Z,2024-08-03T15:12:11Z,0,0,0,
+273,langgraph_agent,Vikaslakkacs,Create agents using langgraph,https://github.com/Vikaslakkacs/langgraph_agent,Jupyter Notebook,2024-07-29T12:40:15Z,2024-08-02T11:35:34Z,0,0,0,Apache License 2.0
+274,rag-agent-langgraph,rlancemartin,Testing for LangGraph Cloud,https://github.com/rlancemartin/rag-agent-langgraph,Python,2024-07-03T15:58:10Z,2024-09-27T13:00:28Z,1,1,0,
+275,llm-transpiler,tanaymeh,Transpile code from language A to B using LLM agents powered by Langgraph,https://github.com/tanaymeh/llm-transpiler,Python,2024-07-22T19:08:56Z,2024-09-20T06:12:18Z,3,0,0,
+276,Product_review,harshhp8,product review using langgraph,https://github.com/harshhp8/Product_review,Python,2024-06-06T17:26:35Z,2024-07-24T23:40:38Z,1,1,0,
+277,langgraphjs-first-agent,briangershon,Review and run through new LangGraph (and LangGraph Studio) TypeScript tutorial,https://github.com/briangershon/langgraphjs-first-agent,TypeScript,2024-09-24T01:54:06Z,2024-09-24T16:13:37Z,0,0,0,MIT License
+278,langgraph,Daniishkhan,,https://github.com/Daniishkhan/langgraph,Python,2024-05-18T20:00:35Z,2024-05-18T21:16:07Z,0,0,0,
+279,dsc-langgraph,guilhermehalvescode,Discovery for langgraph ecosystem,https://github.com/guilhermehalvescode/dsc-langgraph,Jupyter Notebook,2024-07-26T16:27:04Z,2024-08-05T14:51:24Z,0,0,0,
+280,langgraph_experiments,sujitnoronha,AI agents using langgraph ,https://github.com/sujitnoronha/langgraph_experiments,Jupyter Notebook,2024-06-22T23:14:52Z,2024-06-23T00:59:32Z,0,0,0,MIT License
+281,langraph-agents-with-gemini--tutorial,Rajrel,Langgraph Agents with Gemini,https://github.com/Rajrel/langraph-agents-with-gemini--tutorial,Jupyter Notebook,2024-09-11T15:29:20Z,2024-09-17T18:58:11Z,0,0,0,
+282,flowai,miltonfishhhh,LangGraph with opensource models,https://github.com/miltonfishhhh/flowai,,2024-09-04T06:03:47Z,2024-09-04T06:03:51Z,0,0,0,
+283,LangGraph-setup,Feed-dev,Langgraph instructions and setup,https://github.com/Feed-dev/LangGraph-setup,Jupyter Notebook,2024-09-26T08:18:39Z,2024-09-27T11:26:30Z,0,0,0,
+284,agentic_customer_service_with_couchbase,sillyjason,Automate and optimize complex customer service with LangGraph and Couchbase,https://github.com/sillyjason/agentic_customer_service_with_couchbase,Python,2024-07-02T06:24:40Z,2024-09-27T14:22:40Z,2,1,0,
+285,LangGraph_LangSmith,katgaw,"LangGraph, RAG, LangSmith, evaluation",https://github.com/katgaw/LangGraph_LangSmith,Jupyter Notebook,2024-07-15T12:31:24Z,2024-07-16T00:21:57Z,1,0,0,MIT License
+286,chatbot_using_LangGraph,Sakil786,chatbot_using_LangGraph.ipynb,https://github.com/Sakil786/chatbot_using_LangGraph,Jupyter Notebook,2024-08-18T06:16:32Z,2024-08-21T10:00:05Z,1,0,0,Apache License 2.0
+287,LangGraph,ajvanderwal,,https://github.com/ajvanderwal/LangGraph,Jupyter Notebook,2024-03-25T00:51:05Z,2024-03-25T00:51:56Z,0,0,0,
+288,LangGraph,hyeonsang010716,A repo to help you learn LangGraph,https://github.com/hyeonsang010716/LangGraph,Python,2024-09-19T23:25:40Z,2024-10-03T23:53:20Z,0,0,0,
+289,FreeStream,Daethyra,Template repository for building Streamlit chatbots,https://github.com/Daethyra/FreeStream,Python,2024-01-30T05:29:23Z,2024-09-15T23:50:18Z,12,5,7,Other
+290,LangGraph,D3vil13,,https://github.com/D3vil13/LangGraph,Jupyter Notebook,2024-07-10T05:14:43Z,2024-07-10T05:27:04Z,0,0,0,
+291,LangGraph,LLM-LangChain-Study,Practice and Study about LangGraph,https://github.com/LLM-LangChain-Study/LangGraph,,2024-03-07T09:07:12Z,2024-04-11T15:39:11Z,0,0,0,
+292,LangGraph,DavitGadyan,,https://github.com/DavitGadyan/LangGraph,Python,2024-06-15T09:22:32Z,2024-06-18T08:01:53Z,0,0,0,
+293,LangGraph,LakshmiKali,,https://github.com/LakshmiKali/LangGraph,Jupyter Notebook,2024-09-30T06:33:42Z,2024-09-30T10:50:13Z,0,0,0,
+294,Airtel_Chatbot,nimish0107,a chatbot using LangGraph,https://github.com/nimish0107/Airtel_Chatbot,Jupyter Notebook,2024-07-19T06:36:58Z,2024-07-19T06:39:25Z,0,0,0,
+295,langgraph_gpt-research-reference,eno-conan,langgraph_gpt-research_reference,https://github.com/eno-conan/langgraph_gpt-research-reference,Python,2024-04-03T13:00:27Z,2024-04-03T13:01:39Z,0,0,0,MIT License
+296,dungeonmaster_convo,dysnomian,LangGraph implementation of dungeonmaster,https://github.com/dysnomian/dungeonmaster_convo,Python,2024-03-21T17:38:14Z,2024-03-21T17:38:59Z,0,0,0,MIT License
+297,LangGraph,Assume-Zhan,Use CLIP for creating the graph with image and language embeddings,https://github.com/Assume-Zhan/LangGraph,Python,2024-05-30T10:56:07Z,2024-06-04T03:28:41Z,0,0,0,Apache License 2.0
+298,LangGraph,gizemkaryagdi,,https://github.com/gizemkaryagdi/LangGraph,Jupyter Notebook,2024-08-12T13:29:49Z,2024-08-12T13:29:55Z,0,0,0,
+299,LangGraph,LoriaAkanksha,,https://github.com/LoriaAkanksha/LangGraph,Python,2024-09-25T10:57:53Z,2024-09-25T11:12:28Z,0,0,0,GNU General Public License v3.0
+300,LangGraph_Framework,cfrivera,,https://github.com/cfrivera/LangGraph_Framework,Jupyter Notebook,2024-05-02T16:05:26Z,2024-06-22T15:50:39Z,0,0,0,
+301,groq-summarization-langgraph,mfmezger,,https://github.com/mfmezger/groq-summarization-langgraph,Python,2024-05-31T18:29:48Z,2024-06-01T14:36:10Z,1,0,0,MIT License
+302,langgraph-customer-support,adnanebrahimi,,https://github.com/adnanebrahimi/langgraph-customer-support,Python,2024-05-18T15:00:03Z,2024-06-08T05:09:55Z,0,0,0,
+303,langgraph-sql-agent,yash046,,https://github.com/yash046/langgraph-sql-agent,,2024-07-28T20:48:01Z,2024-07-28T20:49:16Z,0,0,0,
+304,LangGraph_Exploration,dan815,,https://github.com/dan815/LangGraph_Exploration,,2024-08-03T23:36:29Z,2024-08-03T23:36:46Z,0,0,0,
+305,LangGraphDemo,chaowss,,https://github.com/chaowss/LangGraphDemo,Python,2024-08-09T03:35:18Z,2024-08-09T03:36:48Z,0,0,0,
+306,langgraph-essay-write,mattoofahad,,https://github.com/mattoofahad/langgraph-essay-write,Jupyter Notebook,2024-08-15T08:22:00Z,2024-08-15T10:44:31Z,0,0,0,
+307,Agents-LangGraph,Mohit-Agarwal-17,,https://github.com/Mohit-Agarwal-17/Agents-LangGraph,Jupyter Notebook,2024-09-09T11:23:00Z,2024-09-11T15:06:15Z,0,0,0,
+308,langgraph-seo-workflow,ajoygonsalves,,https://github.com/ajoygonsalves/langgraph-seo-workflow,TypeScript,2024-09-05T14:56:39Z,2024-09-05T15:00:37Z,0,0,0,
+309,vercel_langgraph_stream,Jrakru,,https://github.com/Jrakru/vercel_langgraph_stream,TypeScript,2024-09-14T13:34:52Z,2024-09-14T15:51:38Z,0,0,0,
+310,LangGraph_Course,jonhpark7966,,https://github.com/jonhpark7966/LangGraph_Course,,2024-09-15T13:07:00Z,2024-09-15T13:09:31Z,0,0,0,
+311,LangGraphRAG,ranguy9304,"LangGraphRAG: A terminal-based Retrieval-Augmented Generation system using LangGraph. Features include message history caching, query transformation, and vector database retrieval. Ideal for NLP researchers and developers working on advanced conversational AI and information retrieval systems.",https://github.com/ranguy9304/LangGraphRAG,Python,2024-06-15T16:44:09Z,2024-07-13T19:10:31Z,0,0,0,MIT License
+312,langgraph-agents-demo,jacksongrove,A demo of LangGraph for building multi-agent systems.,https://github.com/jacksongrove/langgraph-agents-demo,Python,2024-07-08T21:32:36Z,2024-07-15T23:03:59Z,0,0,0,
+313,langgraph-react-agent,nelohenriq,,https://github.com/nelohenriq/langgraph-react-agent,Python,2024-09-20T21:05:29Z,2024-09-20T21:05:35Z,0,0,0,MIT License
+314,langgraph-RnD,hrisikesh-CN,,https://github.com/hrisikesh-CN/langgraph-RnD,Jupyter Notebook,2024-08-08T07:52:06Z,2024-08-08T08:24:37Z,0,0,0,
+315,langgraph_basic_chatbot,Habib-Rehmn,,https://github.com/Habib-Rehmn/langgraph_basic_chatbot,Python,2024-08-11T17:25:56Z,2024-08-11T17:26:44Z,0,0,0,
+316,langgraph_studio_test,lesong36,,https://github.com/lesong36/langgraph_studio_test,,2024-08-14T08:18:56Z,2024-08-14T08:18:56Z,0,0,0,
+317,LangGraph-examples,tnagata,,https://github.com/tnagata/LangGraph-examples,Jupyter Notebook,2024-09-05T07:01:26Z,2024-09-05T07:06:17Z,0,0,0,
+318,definitive-langgraph-guide,gabrielcassimiro17,,https://github.com/gabrielcassimiro17/definitive-langgraph-guide,Python,2024-08-13T14:48:12Z,2024-09-10T09:20:31Z,1,0,0,MIT License
+319,langgraph-essay-writer,Eric-Kim-HY,"This repository contains an advanced essay writing system that leverages the LangGraph multi-agent architecture to orchestrate a comprehensive writing process, including planning, drafting, critiquing, and researching.",https://github.com/Eric-Kim-HY/langgraph-essay-writer,Python,2024-09-10T14:30:23Z,2024-09-10T14:47:47Z,0,0,0,
+320,Langgraph_withTools,GenAI-Girl,,https://github.com/GenAI-Girl/Langgraph_withTools,Jupyter Notebook,2024-09-12T12:23:25Z,2024-09-12T13:56:35Z,0,0,0,
+321,scout_agent,portkeys,Outdoor Agent Scout built upon LangGraph,https://github.com/portkeys/scout_agent,Jupyter Notebook,2024-10-01T00:58:18Z,2024-10-03T14:53:43Z,0,0,0,
+322,marat-agent-data-analysis,nbritt27,"Marat (""muh-RAH"") is a data analysis and visualization tool using a NextJS flowchart-style frontend to visualize and coordinate data analysis through Python-based Langgraph agents",https://github.com/nbritt27/marat-agent-data-analysis,Python,2024-08-05T18:05:27Z,2024-09-05T22:26:56Z,8,1,0,MIT License
+323,experiment-lang-graph,agaonker,"LangGraph is a library for building stateful, multi-actor applications with LLMs . Experiments with playing with LangGraph",https://github.com/agaonker/experiment-lang-graph,,2024-04-22T05:25:56Z,2024-04-22T05:25:56Z,0,0,0,
+324,ut-nlp-langgraph,VavRe,"The content of Workshop 3, held in ECE Department of University of Tehran. This workshop was a part of the NLP Course by Dr. Heshaam Faili. Spring 2024",https://github.com/VavRe/ut-nlp-langgraph,Jupyter Notebook,2024-06-27T15:30:39Z,2024-06-27T15:59:23Z,0,0,0,
+325,LangGraph-Agents,gdevakumar,,https://github.com/gdevakumar/LangGraph-Agents,Jupyter Notebook,2024-06-06T03:32:40Z,2024-06-09T00:08:39Z,0,0,0,
+326,langgraph_blog_collaboration,vipinn123,A simple example using langgraph to implement the agent collaboration pattern,https://github.com/vipinn123/langgraph_blog_collaboration,Python,2024-08-07T00:50:28Z,2024-08-07T00:55:58Z,0,1,0,
+327,ai-agents-langgraph,BautistaGuerra,"This is a repo to upload my labs and projects during the ""AI Agents in LangGraph"" short course offered by DeepLearning.AI",https://github.com/BautistaGuerra/ai-agents-langgraph,Jupyter Notebook,2024-06-17T14:50:41Z,2024-07-07T02:00:18Z,1,1,0,
+328,langgraph_text_writer,braaist,"This repository contains pet-project for langchain-based text writing app, with translation and AI-percentage-generation checks.",https://github.com/braaist/langgraph_text_writer,Python,2024-08-19T11:53:28Z,2024-08-19T12:03:46Z,0,0,0,
+329,my-first-langgraph,tis-abe-akira,,https://github.com/tis-abe-akira/my-first-langgraph,Python,2024-08-31T22:39:29Z,2024-08-31T23:30:45Z,0,0,0,
+330,langGraph_playground,palSitabja,,https://github.com/palSitabja/langGraph_playground,,2024-09-05T14:31:50Z,2024-09-05T14:31:50Z,0,0,0,
+331,langgraphjs-checkpoint-dynamodb,researchwiseai,Implementation of a LangGraph.js CheckpointSaver that uses a AWS's DynamoDB,https://github.com/researchwiseai/langgraphjs-checkpoint-dynamodb,TypeScript,2024-09-24T16:27:03Z,2024-10-03T16:54:27Z,0,0,0,MIT License
+332,sql_agent_langgraph,pareshppp,Use Langgraph to create a sql agent,https://github.com/pareshppp/sql_agent_langgraph,,2024-06-21T04:47:48Z,2024-06-21T04:47:50Z,0,0,0,MIT License
+333,langgraph-learning-hub,saifulrijal-ds,,https://github.com/saifulrijal-ds/langgraph-learning-hub,Jupyter Notebook,2024-08-09T07:29:31Z,2024-08-26T04:51:30Z,0,0,0,
+334,Langgraph_Self_RAG,eross220,,https://github.com/eross220/Langgraph_Self_RAG,Python,2024-07-02T22:45:05Z,2024-07-02T22:48:33Z,0,0,0,
+335,langgraph-tool-calling,niccomann,,https://github.com/niccomann/langgraph-tool-calling,Python,2024-06-20T12:52:08Z,2024-07-18T12:27:32Z,0,0,0,
+336,Learn-LangGraph,grcng,Documentation on the Basics of LangGraph with a simple Chatbot as an example.,https://github.com/grcng/Learn-LangGraph,Jupyter Notebook,2024-07-23T10:31:40Z,2024-07-25T08:11:16Z,0,0,0,
+337,LangGraph_Examples,Emarhnuel,,https://github.com/Emarhnuel/LangGraph_Examples,Jupyter Notebook,2024-08-01T16:31:26Z,2024-08-03T13:24:33Z,0,0,0,
+338,LangGraph_Chatbot,PranavkrishnaVadhyar,,https://github.com/PranavkrishnaVadhyar/LangGraph_Chatbot,Jupyter Notebook,2024-08-28T16:40:37Z,2024-09-16T13:34:03Z,0,0,0,
+339,LangGraph_Tutorials,OWDM,"This repository contains tutorials & exercises for learning and practicing LangGraph. I’m running these tutorials and making small edits to better understand how LangGraph works, including how to build graphs, apply conditional logic, and automate workflows.",https://github.com/OWDM/LangGraph_Tutorials,,2024-10-02T08:19:58Z,2024-10-02T08:20:04Z,0,0,0,
+340,aithelete,mbarinov,AIthelete: An AI Agent built with LangChain and Next.js to craft personalized training plans with detailed feedback and recommendations. Get fit with code! 💪 🚀,https://github.com/mbarinov/aithelete,TypeScript,2024-08-22T11:15:34Z,2024-10-02T13:26:12Z,5,0,0,
+341,llm-analyst,jonwilberg,Building an AI analyst using LangGraph,https://github.com/jonwilberg/llm-analyst,Jupyter Notebook,2024-06-09T11:07:40Z,2024-06-09T18:50:47Z,0,0,0,MIT License
+342,meal-prep,jjamesscott94,A LangGraph Application for Meal Prepping,https://github.com/jjamesscott94/meal-prep,,2024-09-30T15:42:09Z,2024-09-30T15:42:13Z,0,0,0,
+343,medbot-langGraph,havkerboi123,LangGraph based memory capable web-search tool that assists with medical related queries.,https://github.com/havkerboi123/medbot-langGraph,Python,2024-07-13T07:14:28Z,2024-07-13T08:12:30Z,0,0,0,
+344,learn_LangGraph,swapnilagashe,,https://github.com/swapnilagashe/learn_LangGraph,,2024-04-19T16:14:41Z,2024-04-19T16:14:41Z,0,0,0,
+345,langgraph-langserve-starterkit,mjunaidca,,https://github.com/mjunaidca/langgraph-langserve-starterkit,Python,2024-09-16T07:32:40Z,2024-09-16T07:59:23Z,0,0,0,
+346,LLM_Langgraph_Chatbot,AG211695,"Creation of simple chatbot using Langchain, Langgraph and LLama3 language model",https://github.com/AG211695/LLM_Langgraph_Chatbot,Jupyter Notebook,2024-08-27T03:38:49Z,2024-09-24T14:33:00Z,0,0,0,
+347,langgraph-tools-config,levi-katarok,Example of Passing Config to Tools in Langgraph,https://github.com/levi-katarok/langgraph-tools-config,Jupyter Notebook,2024-08-22T16:30:24Z,2024-09-24T15:09:06Z,0,0,0,
+348,customer_support_langgraph,biancachiusano,,https://github.com/biancachiusano/customer_support_langgraph,,2024-05-19T16:03:03Z,2024-05-19T16:03:07Z,0,0,0,
+349,psql-memory-langgraph,jjovalle99,,https://github.com/jjovalle99/psql-memory-langgraph,Python,2024-06-10T16:36:47Z,2024-06-10T16:37:31Z,0,0,0,
+350,reflexion-multiagent-langgraph,rangasandbox,,https://github.com/rangasandbox/reflexion-multiagent-langgraph,Python,2024-07-01T23:25:06Z,2024-07-01T23:25:49Z,0,0,0,
+351,langGraph-structure,damiangilgonzalez1995,,https://github.com/damiangilgonzalez1995/langGraph-structure,Python,2024-07-12T17:47:56Z,2024-08-18T10:43:44Z,0,0,0,
+352,Langchain_and_Langgraph,anantvir,"langchain, agents etc.",https://github.com/anantvir/Langchain_and_Langgraph,Python,2024-08-21T20:40:31Z,2024-10-06T01:11:47Z,0,0,0,
+353,lang-graph-customer-service,GuanyiLi-Craig,Repro the example - customer service - from LangGraph,https://github.com/GuanyiLi-Craig/lang-graph-customer-service,Python,2024-06-02T20:36:08Z,2024-06-02T21:11:01Z,0,0,0,MIT License
+354,RAG-agent-LLaMA3.2-3b,Feed-dev,Langgraph RAG agent with ollama and pinecone,https://github.com/Feed-dev/RAG-agent-LLaMA3.2-3b,Jupyter Notebook,2024-09-28T11:03:00Z,2024-10-05T21:35:59Z,0,0,0,
+355,langGraph-chatbot,chungchihhan,,https://github.com/chungchihhan/langGraph-chatbot,Python,2024-04-24T08:05:55Z,2024-04-24T08:34:48Z,0,0,0,
+356,tweet_generator_langgraph,gokulsabari22,,https://github.com/gokulsabari22/tweet_generator_langgraph,Python,2024-05-12T18:14:01Z,2024-05-13T06:35:35Z,0,0,0,
+357,LangGraphSmith,martefrain10,,https://github.com/martefrain10/LangGraphSmith,Jupyter Notebook,2024-05-14T22:37:19Z,2024-05-14T22:37:48Z,0,0,0,MIT License
+358,langchain-langgraph-practice,NirutG,,https://github.com/NirutG/langchain-langgraph-practice,,2024-05-30T07:09:28Z,2024-05-30T07:41:19Z,0,0,0,
+359,universal-scraper-langgraph,jayaraj,Langraph Chat model based web scrape tool,https://github.com/jayaraj/universal-scraper-langgraph,Python,2024-06-08T15:37:21Z,2024-06-13T03:59:23Z,1,0,0,
+360,dlai_langgraph_agents,DavidFarrell,Following along from https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/2/build-an-agent-from-scratch,https://github.com/DavidFarrell/dlai_langgraph_agents,Jupyter Notebook,2024-06-09T10:23:57Z,2024-06-15T11:43:16Z,0,0,0,
+361,langgraph-multi-agent,Oceansdeep7,,https://github.com/Oceansdeep7/langgraph-multi-agent,TypeScript,2024-06-18T02:10:14Z,2024-06-18T02:13:11Z,0,0,0,
+362,LangGraph_Tutoriel,louismartindunord,,https://github.com/louismartindunord/LangGraph_Tutoriel,,2024-06-23T08:49:25Z,2024-06-23T10:16:01Z,0,0,0,
+363,langgraph-with-bedrock,minorun365,,https://github.com/minorun365/langgraph-with-bedrock,Python,2024-08-19T13:11:56Z,2024-08-21T15:32:58Z,0,0,0,MIT License
+364,agentic-workflow-langgraph,tetkaliyamini,,https://github.com/tetkaliyamini/agentic-workflow-langgraph,Python,2024-09-14T21:21:42Z,2024-09-16T06:26:22Z,0,0,0,
+365,langgraph-serving-example,dayoungMM,,https://github.com/dayoungMM/langgraph-serving-example,Python,2024-09-25T08:54:36Z,2024-09-30T01:29:40Z,0,0,0,
+366,langgraph_stateful_routing,zallesov,Proof of concept of stateful routing with LangGraph,https://github.com/zallesov/langgraph_stateful_routing,Jupyter Notebook,2024-09-18T14:43:47Z,2024-09-30T14:58:24Z,0,0,0,
+367,llama3-adaptiverag-langgraph,wittawat-rakchat,LLama3 chatbot using Adaptive RAG and LangGraph,https://github.com/wittawat-rakchat/llama3-adaptiverag-langgraph,,2024-05-03T14:23:03Z,2024-05-03T14:23:04Z,0,0,0,
+368,talk_spark_frontend,RutamBhagat,https://talk-spark-langgraph.onrender.com/docs,https://github.com/RutamBhagat/talk_spark_frontend,TypeScript,2024-04-27T02:36:14Z,2024-06-08T14:27:45Z,1,0,0,
+369,LangGraph-Projects,machinelearningzuu,"LangGraph is an extension of LangChain, which allows us to build cyclic, stateful, multi-actor agent systems. It implements a graph structure with nodes and edges. The nodes are functions or tools, and the edges are the connections between nodes. Edges are of two types: conditional and normal. ",https://github.com/machinelearningzuu/LangGraph-Projects,Jupyter Notebook,2024-04-20T02:28:43Z,2024-04-20T05:59:17Z,0,0,0,
+370,langgraph-react-agent,ashishyd,,https://github.com/ashishyd/langgraph-react-agent,Python,2024-06-28T04:52:03Z,2024-07-03T07:01:16Z,0,0,3,
+371,langgraph-bedrock-converse,seatond1999,,https://github.com/seatond1999/langgraph-bedrock-converse,Python,2024-07-08T09:26:54Z,2024-07-08T13:42:11Z,0,0,0,MIT License
+372,graphrag-bph-langgraph,TiangeLi,,https://github.com/TiangeLi/graphrag-bph-langgraph,Python,2024-08-18T14:22:31Z,2024-08-21T11:28:02Z,0,0,0,
+373,langgraph-rag-example,astrocodelp,"RAG System with Langchain, LangGraph, and Tavily in TypeScript",https://github.com/astrocodelp/langgraph-rag-example,TypeScript,2024-08-23T21:05:01Z,2024-08-26T16:39:58Z,0,0,0,MIT License
+374,LangGraphPractice,sheharyarakhtar,Practicing LangGraph to do what ive already done in crewAI,https://github.com/sheharyarakhtar/LangGraphPractice,Python,2024-07-23T13:11:53Z,2024-08-28T13:10:13Z,1,0,0,
+375,langgraph-learning-ollama,DevLLM,,https://github.com/DevLLM/langgraph-learning-ollama,Python,2024-08-09T19:35:53Z,2024-08-09T19:36:55Z,0,1,0,
+376,LangGraphSample,anilsnl,A sample project that contains Lang Chain & Lang Graph,https://github.com/anilsnl/LangGraphSample,Python,2024-08-29T11:49:40Z,2024-08-31T16:19:33Z,0,0,0,MIT License
+377,langgraphjs-starter-template,langchain-ai,Extensible starting place for building LangGraph.js workflows in Studio.,https://github.com/langchain-ai/langgraphjs-starter-template,TypeScript,2024-08-20T18:57:00Z,2024-09-17T01:00:03Z,1,0,0,MIT License
+378,langgraph-checkpoint-mysql,tjni,Library with a MySQL implementation of LangGraph checkpoint saver.,https://github.com/tjni/langgraph-checkpoint-mysql,Python,2024-09-24T05:30:58Z,2024-10-04T01:38:27Z,1,0,0,MIT License
+379,LangGraph-notebooks,Alex112525,"This repository houses a collection of Colab Notebooks showcasing practical applications and explorations of LangGraph. It serves as a compilation of personal practices, small projects, and insights gained from working with this powerful framework.",https://github.com/Alex112525/LangGraph-notebooks,Jupyter Notebook,2024-09-23T17:29:19Z,2024-10-04T03:42:41Z,0,0,0,MIT License
+380,Langraph-using-Groq,FROSTICEMAN,Solutions using Groq llm API and Langgraph,https://github.com/FROSTICEMAN/Langraph-using-Groq,Jupyter Notebook,2024-08-21T17:14:35Z,2024-08-31T11:59:28Z,0,0,0,
+381,Plan-and-Execute-Agent,saurav-dhait,Plan and Execute style Agent using LangGraph.,https://github.com/saurav-dhait/Plan-and-Execute-Agent,Python,2024-07-08T06:08:10Z,2024-07-08T06:28:13Z,0,0,0,
+382,EssayWriter,manuoliveira6,Langgraph-based architecture for automatically write essays,https://github.com/manuoliveira6/EssayWriter,Python,2024-07-10T09:27:13Z,2024-07-10T09:46:07Z,0,0,0,
+383,LongTermMemory_LangGraph,Michailbul,A LangGraph application aimed to update  knowledgebase,https://github.com/Michailbul/LongTermMemory_LangGraph,Jupyter Notebook,2024-03-15T02:51:35Z,2024-03-15T02:52:09Z,0,0,0,
+384,aiagentgraph,loaizasteven,Build AI Agents using ReAct and LangGraph,https://github.com/loaizasteven/aiagentgraph,Python,2024-07-21T22:18:15Z,2024-09-01T15:02:27Z,0,0,0,
+385,agentic-workflow,rohanpatelg,Wrapper around LangGraph agent builder with UI,https://github.com/rohanpatelg/agentic-workflow,,2024-06-28T05:25:34Z,2024-06-28T05:29:45Z,0,0,0,
+386,prompt-generator,BellaBe,AI prompts generator using Langchain and Langgraph,https://github.com/BellaBe/prompt-generator,Python,2024-07-24T11:33:13Z,2024-09-27T02:34:57Z,1,0,0,
+387,Generative-AI-Tutorial,Shaon2221,"Langchain, LangGraph, OpenSource LLM, OpenAI,RAG, Agents",https://github.com/Shaon2221/Generative-AI-Tutorial,Jupyter Notebook,2024-10-02T15:42:19Z,2024-10-03T06:58:44Z,0,0,0,
+388,LangGraph-RAG-Agnet,rahulr001,"LangGraph-RAG-Agent a basic QA chat system based on RAG architecture and Llama3, workflow using LangGraph. ",https://github.com/rahulr001/LangGraph-RAG-Agnet,Jupyter Notebook,2024-05-29T13:04:25Z,2024-06-04T11:53:04Z,0,0,0,MIT License
+389,Clash_Of_Nations,MR-GREEN1337,AI System built on Langgraph/NVIDIA_NIM,https://github.com/MR-GREEN1337/Clash_Of_Nations,TypeScript,2024-06-16T10:21:56Z,2024-06-17T11:09:00Z,0,0,0,MIT License
+390,HAL9001,m4tyn0,LangGraph agent that makes me do things,https://github.com/m4tyn0/HAL9001,Python,2024-08-25T17:26:56Z,2024-09-06T07:08:54Z,0,0,0,
+391,Agentic-RAG,chillestt,Agentic RAG with llama 3 and LangGraph,https://github.com/chillestt/Agentic-RAG,,2024-07-13T17:19:06Z,2024-07-13T17:19:06Z,0,0,0,
+392,Advanced_SQL_Agent,abdarwish23,Using LangGraph to build reliable SQL Agent,https://github.com/abdarwish23/Advanced_SQL_Agent,Python,2024-09-10T11:49:38Z,2024-09-15T02:01:39Z,0,0,0,MIT License
+393,langgraph-multi-agent-api,amaithi-mediwave,,https://github.com/amaithi-mediwave/langgraph-multi-agent-api,Jupyter Notebook,2024-03-06T12:50:59Z,2024-03-07T13:23:42Z,0,0,0,
+394,langGraphCodeSolver,ani7fx,,https://github.com/ani7fx/langGraphCodeSolver,Python,2024-08-15T10:36:18Z,2024-08-22T09:19:43Z,0,0,0,
+395,multi-agent-langgraph-experiments,elsewhat,Thinkweek with focus on AI,https://github.com/elsewhat/multi-agent-langgraph-experiments,Python,2024-07-24T10:33:09Z,2024-09-10T09:01:20Z,1,0,0,
+396,ts-mongo-langgraph-tutorial,vasmitr,Jupyter notebook with LangGraph.js AI agent that uses mongoDB and runs with Deno,https://github.com/vasmitr/ts-mongo-langgraph-tutorial,Jupyter Notebook,2024-07-14T18:35:36Z,2024-07-15T10:33:42Z,0,0,0,
+397,agent_with_tools_langgraph,fawez9,,https://github.com/fawez9/agent_with_tools_langgraph,Python,2024-07-26T14:47:50Z,2024-08-05T21:43:38Z,0,0,0,
+398,assistant-ui-langgraph-example,stevologic,An example of using langgraph with assistant-ui without deploying langserve.,https://github.com/stevologic/assistant-ui-langgraph-example,TypeScript,2024-09-23T00:02:29Z,2024-09-23T05:22:32Z,0,0,0,MIT License
+399,ai-langgraph-multi-agent,grapepicker1016,Multi AI agent system for report writing with LangGraph,https://github.com/grapepicker1016/ai-langgraph-multi-agent,Python,2024-09-28T18:09:29Z,2024-09-28T18:09:53Z,0,0,0,
+400,langgraph-reflection-agent-sample,ritsbit,,https://github.com/ritsbit/langgraph-reflection-agent-sample,Python,2024-07-04T16:19:23Z,2024-07-08T14:41:41Z,0,0,0,
+401,LangGraph-Intelligent-Agent,techindicium,,https://github.com/techindicium/LangGraph-Intelligent-Agent,Python,2024-05-28T17:58:24Z,2024-05-28T18:04:10Z,0,0,0,
+402,AI_Agents_LangGraph,KGuruPrasad94,,https://github.com/KGuruPrasad94/AI_Agents_LangGraph,Jupyter Notebook,2024-08-17T02:27:04Z,2024-08-20T00:40:07Z,0,0,0,
+403,langgraph-custom-research-agent,inamdarmihir,Custom Research Agent with GPT-4o with Langgraph,https://github.com/inamdarmihir/langgraph-custom-research-agent,Jupyter Notebook,2024-08-26T03:51:43Z,2024-08-26T03:56:55Z,0,0,0,
+404,langgraph-weekly-podcast-summarizer,DannyMac180,,https://github.com/DannyMac180/langgraph-weekly-podcast-summarizer,Python,2024-09-21T02:30:06Z,2024-09-22T00:58:30Z,0,0,0,MIT License
+405,Start-with-LangGraph,divakarkumarp,Building Stateful Multi AI Agents & Enhancing LLM Agents ,https://github.com/divakarkumarp/Start-with-LangGraph,Jupyter Notebook,2024-08-22T17:51:50Z,2024-09-03T14:08:39Z,0,0,0,MIT License
+406,NLP-Langgraph-LLM-3,indramal,,https://github.com/indramal/NLP-Langgraph-LLM-3,Python,2024-10-02T05:00:47Z,2024-10-03T01:39:38Z,0,0,0,
+407,Rag-LangGraph-Chat,Michailbul,,https://github.com/Michailbul/Rag-LangGraph-Chat,Python,2024-06-03T00:18:53Z,2024-06-26T11:12:06Z,0,0,0,
+408,LangGraph-test-code,germanebr,Testing code to understand the basic functionalities of LangGraph for agent building,https://github.com/germanebr/LangGraph-test-code,Jupyter Notebook,2024-08-19T18:41:28Z,2024-08-19T18:42:04Z,0,0,0,MIT License
+409,Chatbot-with-LangGraph,ShambhaviM19,,https://github.com/ShambhaviM19/Chatbot-with-LangGraph,Jupyter Notebook,2024-09-11T19:46:03Z,2024-09-11T19:46:51Z,0,0,0,
+410,Simple_chatbot_LangGraph,sudilate,Understanding LangGraph by Implementing an Chatbot(chat-agent),https://github.com/sudilate/Simple_chatbot_LangGraph,Jupyter Notebook,2024-10-01T10:18:09Z,2024-10-01T10:26:33Z,0,0,0,
+411,LangGraph-simple-graph,suhaibshaikh03,,https://github.com/suhaibshaikh03/LangGraph-simple-graph,Jupyter Notebook,2024-10-04T16:30:05Z,2024-10-04T16:30:40Z,0,0,0,
+412,Multi-agent-using-Langgraph,SubhashKhambampati,,https://github.com/SubhashKhambampati/Multi-agent-using-Langgraph,Python,2024-03-02T16:27:29Z,2024-03-02T16:34:59Z,0,0,0,MIT License
+413,langgraph_multiagents_travel_asisstants,Sparkios,,https://github.com/Sparkios/langgraph_multiagents_travel_asisstants,Jupyter Notebook,2024-08-22T13:52:49Z,2024-08-23T09:47:49Z,0,0,0,MIT License
+414,langGraph_deep_dive,arjunjanamatti,,https://github.com/arjunjanamatti/langGraph_deep_dive,Python,2024-08-23T13:39:56Z,2024-08-27T10:54:21Z,0,0,0,
+415,LangGraph-easy-template,lpetralli,,https://github.com/lpetralli/LangGraph-easy-template,Jupyter Notebook,2024-09-02T15:02:06Z,2024-09-03T18:34:48Z,0,0,0,
+416,langgraph-advanced-rag-sample,ritsbit,,https://github.com/ritsbit/langgraph-advanced-rag-sample,Python,2024-09-08T15:56:40Z,2024-09-09T15:00:11Z,0,0,0,
+417,CrewAI-LangGraph,taaha3244,,https://github.com/taaha3244/CrewAI-LangGraph,Python,2024-04-18T11:50:43Z,2024-04-18T11:52:40Z,0,0,0,
+418,Rag_based_langgraph_agents,aswathsr101,,https://github.com/aswathsr101/Rag_based_langgraph_agents,Jupyter Notebook,2024-05-30T16:25:35Z,2024-05-30T20:29:40Z,0,0,0,
+419,langgraph_with_llm_ex,papanoyang,LangGraph使ってみるソース（LLMを含む）,https://github.com/papanoyang/langgraph_with_llm_ex,Python,2024-06-06T01:52:58Z,2024-06-08T13:45:27Z,0,0,0,MIT License
+420,AIChat_with_LangGraph,WisdomerLee,,https://github.com/WisdomerLee/AIChat_with_LangGraph,Python,2024-09-01T12:51:01Z,2024-10-02T00:52:08Z,0,0,0,
+421,LangGraph_ReAct,saag7,,https://github.com/saag7/LangGraph_ReAct,Python,2024-09-18T01:05:57Z,2024-09-18T01:06:38Z,0,0,0,
+422,taming-llm-with-langgraph,anatoly-bobrovsky,"The repository for the article ""Taming LLMs with Langchain + Langgraph""",https://github.com/anatoly-bobrovsky/taming-llm-with-langgraph,Python,2024-09-08T07:28:30Z,2024-09-20T03:50:11Z,0,0,0,MIT License
+423,langGraph-tavily-research,e-kibet,,https://github.com/e-kibet/langGraph-tavily-research,Python,2024-01-26T04:23:20Z,2024-01-29T12:39:47Z,1,0,0,
+424,LangGraphReceptionistTutorial,whitew1994WW,A repo to accopmany my youtube video on how to build an AI receptionist with langgraph,https://github.com/whitew1994WW/LangGraphReceptionistTutorial,Python,2024-08-23T09:42:03Z,2024-08-25T12:58:14Z,1,0,0,
+425,langgraph_self_rag_azure,andyuan997,,https://github.com/andyuan997/langgraph_self_rag_azure,Jupyter Notebook,2024-09-03T03:24:04Z,2024-09-03T03:28:07Z,0,0,0,
+426,beginner_friendly_LangGraph,xtfocus,,https://github.com/xtfocus/beginner_friendly_LangGraph,Jupyter Notebook,2024-07-18T10:08:11Z,2024-07-18T10:15:04Z,0,0,0,
+427,langgraph-content-state-machine,BrightPool,"A simple state machine that uses the message history, langgraph and reflection to continually iterate on a blog post brief and article.",https://github.com/BrightPool/langgraph-content-state-machine,TypeScript,2024-04-03T19:16:10Z,2024-04-17T11:47:27Z,1,2,0,
+428,LangGraph-Local-Explorations,KevinHansen90,,https://github.com/KevinHansen90/LangGraph-Local-Explorations,Python,2024-10-04T14:42:18Z,2024-10-06T14:24:45Z,0,0,0,MIT License
+429,customer-support,PariaKashani,customer support agent based on langgraph tutorial,https://github.com/PariaKashani/customer-support,Jupyter Notebook,2024-05-18T16:46:21Z,2024-05-18T17:15:39Z,0,0,0,
+430,LangGraph_Course_1_Reflection_Agent,MichaelPariaszevski,"LangGraph Course 1, Project 1, Reflection Agent",https://github.com/MichaelPariaszevski/LangGraph_Course_1_Reflection_Agent,Python,2024-07-30T03:47:22Z,2024-07-30T04:52:20Z,0,0,0,Apache License 2.0
+431,LangGraph_websearch_agent,Emarhnuel,A Web search agent built with LangGraph,https://github.com/Emarhnuel/LangGraph_websearch_agent,Python,2024-06-27T21:35:47Z,2024-07-08T10:09:13Z,0,0,0,MIT License
+432,langgraph_cohere_paper_summarization,mfmezger,,https://github.com/mfmezger/langgraph_cohere_paper_summarization,Makefile,2024-05-30T19:05:26Z,2024-05-31T02:00:19Z,1,0,0,
+433,Llama3.1-Langgraph,2017naroju,,https://github.com/2017naroju/Llama3.1-Langgraph,Jupyter Notebook,2024-08-05T14:59:26Z,2024-08-05T15:01:26Z,0,0,0,
+434,LangGraph-Play-Ground,palSitabja,,https://github.com/palSitabja/LangGraph-Play-Ground,Jupyter Notebook,2024-09-05T14:34:49Z,2024-09-06T15:55:15Z,0,0,0,
+435,ai_agents_in_langgraph,Vinni-Cedraz,,https://github.com/Vinni-Cedraz/ai_agents_in_langgraph,Python,2024-06-06T00:50:31Z,2024-06-06T00:51:12Z,0,0,0,
+436,langgraph-hosting-js-example,isahers1,,https://github.com/isahers1/langgraph-hosting-js-example,TypeScript,2024-06-20T00:11:06Z,2024-06-20T00:22:28Z,0,0,0,
+437,full-stack-langgraph-chat,jlargs64,An easy tutorial for learning how to build and serve a LangGraph agent with React,https://github.com/jlargs64/full-stack-langgraph-chat,Python,2024-08-31T12:23:39Z,2024-09-08T22:12:24Z,0,0,1,
+438,Langgraph_AI_Powered_Chatbot,parthebhan,,https://github.com/parthebhan/Langgraph_AI_Powered_Chatbot,Jupyter Notebook,2024-09-18T15:29:18Z,2024-09-18T16:35:11Z,0,0,0,
+439,async-corrective-rag-langgraph,sahanes,,https://github.com/sahanes/async-corrective-rag-langgraph,,2024-09-30T16:56:33Z,2024-09-30T16:56:36Z,0,0,0,MIT License
+440,LangGraph_Project_1,Saqlain788,,https://github.com/Saqlain788/LangGraph_Project_1,Jupyter Notebook,2024-10-05T07:29:26Z,2024-10-05T07:43:02Z,0,0,0,
+441,LangGraph-and-Langsmith,Saimoguloju,"This application is a chatbot designed to interact with users. It starts by greeting the user, then proceeds to a conversation phase. The chatbot can potentially access external tools during the conversation. Finally, the interaction ends.",https://github.com/Saimoguloju/LangGraph-and-Langsmith,Jupyter Notebook,2024-10-05T18:16:25Z,2024-10-05T19:29:49Z,0,0,0,
+442,mlflow-langgraph-for-tracing,fclabs,,https://github.com/fclabs/mlflow-langgraph-for-tracing,,2024-08-28T14:54:44Z,2024-08-28T14:54:44Z,0,0,0,
+443,core-ai-techspike-langgraph,DEFRA,,https://github.com/DEFRA/core-ai-techspike-langgraph,JavaScript,2024-05-09T07:21:14Z,2024-05-09T07:22:40Z,0,0,0,Other
+444,support-bot-using-langgraph,imanoop7,,https://github.com/imanoop7/support-bot-using-langgraph,,2024-05-13T18:05:14Z,2024-05-13T18:05:19Z,0,0,0,MIT License
+445,ESSAY_Writer_using_langgraph,Jeevan672,,https://github.com/Jeevan672/ESSAY_Writer_using_langgraph,Jupyter Notebook,2024-06-18T06:15:36Z,2024-07-02T10:20:11Z,1,0,0,
+446,langgraph-with-evalution-psg,upjohnc,Example of using langgraph to augment a rag with a web search and then evaluate the application,https://github.com/upjohnc/langgraph-with-evalution-psg,Python,2024-07-19T20:04:25Z,2024-07-25T21:05:06Z,0,0,0,
+447,langgraph-reflxion-agent-sample,ritsbit,,https://github.com/ritsbit/langgraph-reflxion-agent-sample,Python,2024-07-17T16:15:34Z,2024-09-08T14:23:44Z,0,0,0,
+448,agent_composer,BenderScript,LangGraph Graph with a Dynamic loaded agent,https://github.com/BenderScript/agent_composer,Python,2024-06-12T00:47:00Z,2024-06-14T20:45:05Z,0,1,0,Apache License 2.0
+449,agentic-rag-demo,yactouat,building up on https://www.youtube.com/watch?v=SEA3eJrDc-k,https://github.com/yactouat/agentic-rag-demo,Python,2024-05-08T18:32:33Z,2024-07-15T04:51:33Z,1,1,0,
+450,node-red-contrib-langgraph,agentaech,,https://github.com/agentaech/node-red-contrib-langgraph,JavaScript,2024-02-07T22:11:06Z,2024-02-07T23:08:16Z,0,0,0,
+451,Langgraph-Multi-Agent-System,AnishMachamasi,,https://github.com/AnishMachamasi/Langgraph-Multi-Agent-System,,2024-06-12T11:42:17Z,2024-06-12T11:42:17Z,0,0,0,
+452,chain-of-table-langgraph,aaliyan1230,,https://github.com/aaliyan1230/chain-of-table-langgraph,Python,2024-04-23T11:34:13Z,2024-06-02T15:35:09Z,1,0,0,
+453,langgraph_based_email_replier,nisargdoshi9,Automatically reply to emails by customer with customised emails based on customer email and context of the type of email using LangGraph and Streamlit.,https://github.com/nisargdoshi9/langgraph_based_email_replier,Python,2024-06-06T21:26:22Z,2024-06-06T21:38:12Z,0,0,0,
+454,LangGraph-LangChain,MagaliDrumare,,https://github.com/MagaliDrumare/LangGraph-LangChain,Jupyter Notebook,2024-06-13T18:35:06Z,2024-06-24T13:07:52Z,0,0,0,
+455,langgraph-example-with-imports,isahers1,,https://github.com/isahers1/langgraph-example-with-imports,Python,2024-08-07T16:44:42Z,2024-08-07T21:48:34Z,0,0,0,
+456,multiagent-demo-py-langgraph,JosteinSandKjellsen,,https://github.com/JosteinSandKjellsen/multiagent-demo-py-langgraph,Python,2024-08-09T10:54:09Z,2024-08-09T10:54:22Z,0,0,0,
+457,langgraph-article-writer-critiquer,jagreehal,,https://github.com/jagreehal/langgraph-article-writer-critiquer,Python,2024-09-10T21:50:56Z,2024-09-10T21:51:01Z,0,0,0,
+458,langgraph-playwright-web-voyager,freedomtowin,,https://github.com/freedomtowin/langgraph-playwright-web-voyager,Jupyter Notebook,2024-09-07T13:15:36Z,2024-09-07T13:51:08Z,0,0,0,
+459,langgraph_sum_pi_digits,peterbb148,Sum the last 5 digits of Pi of the 100 first digits.,https://github.com/peterbb148/langgraph_sum_pi_digits,,2024-09-14T08:56:28Z,2024-09-14T08:56:31Z,0,0,0,
+460,LangGraph_Coding_Assistant,DeekshithP22,,https://github.com/DeekshithP22/LangGraph_Coding_Assistant,Python,2024-07-28T13:43:20Z,2024-07-28T13:44:08Z,0,1,0,Apache License 2.0
+461,LangGraph-LangSmith,deboramachadoandrade,,https://github.com/deboramachadoandrade/LangGraph-LangSmith,Jupyter Notebook,2024-03-21T22:42:54Z,2024-03-21T22:46:44Z,0,0,0,
+462,LangGraph-Research-Agents,muhammadasad149,"This is a Streamlit app that demonstrates the use of LangGraph Research Agents, which utilize OpenAI's GPT-4 model and various tools to perform tasks such as internet searches and content processing.",https://github.com/muhammadasad149/LangGraph-Research-Agents,Jupyter Notebook,2024-04-03T16:52:34Z,2024-04-03T16:54:39Z,0,0,0,
+463,discourse-analysis-langgraph-gemma,aitechguy0105,,https://github.com/aitechguy0105/discourse-analysis-langgraph-gemma,,2024-03-11T21:46:00Z,2024-04-25T08:25:00Z,0,0,0,
+464,langgraph-multi-ai-agents,mdshamsad1996,,https://github.com/mdshamsad1996/langgraph-multi-ai-agents,Jupyter Notebook,2024-09-20T16:28:59Z,2024-09-20T16:56:48Z,0,0,0,
+465,test-langgraph-cloud-1,santiago-visanto,,https://github.com/santiago-visanto/test-langgraph-cloud-1,Python,2024-09-26T21:41:12Z,2024-09-27T01:25:29Z,0,1,0,
+466,Langgraph_Chatbot_With_Tools,wasifhasa,,https://github.com/wasifhasa/Langgraph_Chatbot_With_Tools,Jupyter Notebook,2024-09-29T22:44:20Z,2024-09-29T22:44:54Z,0,0,0,
+467,Electron-LangGraph-RAG,dystopiancodes,,https://github.com/dystopiancodes/Electron-LangGraph-RAG,JavaScript,2024-10-05T15:19:21Z,2024-10-06T15:14:01Z,0,0,0,
+468,rag-template,killoblanco,RAG app template powered by Cloudflare & LangGraph,https://github.com/killoblanco/rag-template,Astro,2024-09-20T00:36:54Z,2024-09-20T00:47:26Z,0,0,0,
+469,AI-Research-Assistant---Using-Agents-LangChain-LangGraph,Sarfaraz021,AI Research Assistant - Using Agents-LangChain-LangGraph,https://github.com/Sarfaraz021/AI-Research-Assistant---Using-Agents-LangChain-LangGraph,Jupyter Notebook,2024-05-12T15:03:52Z,2024-05-24T01:08:52Z,0,0,0,
+470,reflexion_agent,alexanderklee,A simple LangGraph reflexion app using OpenAI,https://github.com/alexanderklee/reflexion_agent,Python,2024-08-12T18:59:25Z,2024-08-12T19:02:03Z,0,0,0,
+471,Multi_AI_RAG_Chatbots,aenodehi,Multi AI RAG Chatbots  Using Langgraph & AstraDB,https://github.com/aenodehi/Multi_AI_RAG_Chatbots,Jupyter Notebook,2024-09-27T11:22:46Z,2024-09-27T11:24:12Z,0,0,0,
+472,langgraph-text-to-sql,zhuohanl,,https://github.com/zhuohanl/langgraph-text-to-sql,Python,2024-08-17T13:46:52Z,2024-08-19T14:30:46Z,0,0,0,
+473,web_navigation_agent_langgraph,almasudme,Building a web navigation agent using langgraph and langchain voyager tool,https://github.com/almasudme/web_navigation_agent_langgraph,Jupyter Notebook,2024-09-23T15:42:49Z,2024-09-25T16:21:53Z,0,0,0,
+474,LangGraph_Streamlit_Template,FreeRikato,,https://github.com/FreeRikato/LangGraph_Streamlit_Template,Python,2024-10-06T11:22:37Z,2024-10-06T11:22:53Z,0,0,0,
+475,preplexity_lite_LangGraph,bhairavmehta,,https://github.com/bhairavmehta/preplexity_lite_LangGraph,Jupyter Notebook,2024-02-01T20:11:21Z,2024-02-01T20:11:57Z,0,0,0,
+476,langgraph-react-agent-sample,ritsbit,,https://github.com/ritsbit/langgraph-react-agent-sample,Python,2024-09-08T14:27:20Z,2024-09-08T15:19:06Z,0,0,0,
+477,Projects-LangGraph-Projects,Gutema-1990,,https://github.com/Gutema-1990/Projects-LangGraph-Projects,Jupyter Notebook,2024-07-29T12:26:15Z,2024-07-30T08:04:47Z,0,0,0,
+478,langgraph-multi-agents-template,stsfaroz,,https://github.com/stsfaroz/langgraph-multi-agents-template,Python,2024-08-08T08:44:15Z,2024-08-09T13:25:21Z,1,0,0,MIT License
+479,RAG-using-LangGraph,nmanuvenugopal,,https://github.com/nmanuvenugopal/RAG-using-LangGraph,,2024-09-17T11:00:29Z,2024-09-17T11:00:32Z,0,0,0,
+480,langgraph-first-agent-studio,Masstronaut,,https://github.com/Masstronaut/langgraph-first-agent-studio,TypeScript,2024-09-16T22:25:59Z,2024-09-16T22:28:05Z,0,0,0,
+481,GenAI-4-Langgraph,RATHOD-SHUBHAM,"Exploring graph-based LLMs, multi-agent systems, Neo4j, LangGraph, and Cypher query language. This repo is my sandbox for learning, experimenting, and building graph-powered intelligent agents.",https://github.com/RATHOD-SHUBHAM/GenAI-4-Langgraph,Jupyter Notebook,2024-09-16T00:59:01Z,2024-09-29T11:29:51Z,0,0,0,
+482,langgraph_tutorial_with_bedrock,n-yokomachi,,https://github.com/n-yokomachi/langgraph_tutorial_with_bedrock,Python,2024-10-06T07:10:17Z,2024-10-06T08:49:27Z,0,0,0,
+483,langgraph_customer_support_bot,pasannissanka,Minimum viable customer support bot with specialized workflow agents using LLM and Langgraph.,https://github.com/pasannissanka/langgraph_customer_support_bot,Python,2024-09-08T17:24:10Z,2024-09-08T17:37:27Z,0,0,0,
+484,poc-langgraph-agent-ai,DevOtts,,https://github.com/DevOtts/poc-langgraph-agent-ai,Python,2024-05-18T23:31:12Z,2024-05-18T23:46:16Z,0,1,0,
+485,langgraph_no_llm_ex,papanoyang,,https://github.com/papanoyang/langgraph_no_llm_ex,Python,2024-06-05T11:04:03Z,2024-06-05T12:37:36Z,0,0,0,MIT License
+486,poc_langgraph_local_llm,rodrigoaustincascao,,https://github.com/rodrigoaustincascao/poc_langgraph_local_llm,Jupyter Notebook,2024-07-01T20:13:46Z,2024-07-01T20:44:19Z,0,0,0,
+487,LangGraph-QuickStart,roma2023,LangGraph Quick Start Tutorial for onboarding on building AI agents and customizing your own chatbot workflow! All the credits to LangGraph Team.,https://github.com/roma2023/LangGraph-QuickStart,Jupyter Notebook,2024-08-11T14:09:16Z,2024-08-11T14:12:26Z,0,0,0,MIT License
+488,LangGraph-Question-Generator,Hammons2012,LangGraph Script using Ollama/Mistral to generate questions on a topic and URL.,https://github.com/Hammons2012/LangGraph-Question-Generator,Python,2024-08-20T00:55:28Z,2024-08-20T01:06:29Z,0,0,0,MIT License
+489,langgraph_reflexion_blog_writer,IshJha,,https://github.com/IshJha/langgraph_reflexion_blog_writer,Python,2024-08-24T19:03:41Z,2024-08-25T12:30:34Z,0,0,0,
+490,LangGraph---quick-start,JacobD2001,,https://github.com/JacobD2001/LangGraph---quick-start,Python,2024-09-27T08:46:28Z,2024-09-27T16:55:53Z,0,0,0,
+491,langgraph-multi-agent-api,grapepicker1016,,https://github.com/grapepicker1016/langgraph-multi-agent-api,Jupyter Notebook,2024-09-28T18:09:16Z,2024-09-28T18:09:32Z,0,0,0,
+492,LangGraph-text-Analyzer,devv-shayan,,https://github.com/devv-shayan/LangGraph-text-Analyzer,Jupyter Notebook,2024-09-30T07:45:16Z,2024-09-30T09:35:21Z,0,0,0,
+493,LangGraph_Projects_Repo,karthikbharadhwajKB,,https://github.com/karthikbharadhwajKB/LangGraph_Projects_Repo,,2024-10-06T16:34:00Z,2024-10-06T16:34:04Z,0,0,0,MIT License
+494,langchain-langgraph-multi-agent,parveshh,Multi Agent workflow,https://github.com/parveshh/langchain-langgraph-multi-agent,Python,2024-05-28T10:58:56Z,2024-05-28T12:35:20Z,0,0,0,
+495,YoutubeSearch-LangGraph,Michailbul,,https://github.com/Michailbul/YoutubeSearch-LangGraph,Jupyter Notebook,2024-03-15T03:21:42Z,2024-03-15T03:22:21Z,0,0,0,
+496,langGraph_Doc_App,egard212,,https://github.com/egard212/langGraph_Doc_App,Python,2024-06-04T18:20:06Z,2024-06-04T18:20:11Z,0,0,0,
+497,LangGraph_Tutorials_Examples,arjun9689,,https://github.com/arjun9689/LangGraph_Tutorials_Examples,,2024-07-04T07:28:29Z,2024-07-04T07:28:33Z,0,0,0,MIT License
+498,LangGraph_GameLore,Dekanenko,,https://github.com/Dekanenko/LangGraph_GameLore,Python,2024-07-20T17:18:13Z,2024-07-30T19:39:03Z,0,0,0,
+499,Chatbot-With-LangGraph,MohitSolunke,,https://github.com/MohitSolunke/Chatbot-With-LangGraph,Jupyter Notebook,2024-08-22T17:26:34Z,2024-08-22T17:27:45Z,0,0,0,
+500,avaliador_de_redacao,wandealves,Sistema de Avaliação de Redações usando LangGraph,https://github.com/wandealves/avaliador_de_redacao,Jupyter Notebook,2024-10-02T03:05:53Z,2024-10-02T03:10:32Z,0,0,0,Apache License 2.0
+501,graph-based-agent-research,indigoYoshimaru,Research of LangGraph and GraphRAG for agents,https://github.com/indigoYoshimaru/graph-based-agent-research,Jupyter Notebook,2024-09-21T15:50:39Z,2024-09-25T16:48:47Z,0,0,0,Apache License 2.0
+502,rag-with-reflection,kyopark2014,It shows an advanced RAG with Reflection where LangGraph is used for workflow management.,https://github.com/kyopark2014/rag-with-reflection,Python,2024-09-29T01:58:49Z,2024-10-02T02:32:59Z,2,0,0,
+503,LangGraph-Corractive-RAG-Local-LLM,GaoDalie,LangGraph + Corrective RAG + Local LLM = Powerful Rag Chatbot,https://github.com/GaoDalie/LangGraph-Corractive-RAG-Local-LLM,,2024-02-15T07:17:45Z,2024-05-08T08:20:31Z,0,0,0,
+504,GenerAI-Manager,whywont,Fantasy Football Assistant that uses LangGraph and Tavily.,https://github.com/whywont/GenerAI-Manager,Python,2024-07-09T23:54:55Z,2024-07-14T18:40:13Z,0,0,0,
+505,groq-langgraph-agent-examples,timoconnellaus,,https://github.com/timoconnellaus/groq-langgraph-agent-examples,TypeScript,2024-04-28T22:41:39Z,2024-04-29T00:05:16Z,1,0,0,
+506,LangGraphMultiAgents,Michailbul,Implementation of several multi agent workflows using LangGraph,https://github.com/Michailbul/LangGraphMultiAgents,Jupyter Notebook,2024-03-15T03:01:45Z,2024-03-15T03:02:16Z,0,0,0,
+507,cohere_langgraph_demo_rag,mfmezger,,https://github.com/mfmezger/cohere_langgraph_demo_rag,Python,2024-06-09T09:11:48Z,2024-06-21T05:33:27Z,1,0,0,MIT License
+508,customer-email-reply-langgraph,sksarvesh007,,https://github.com/sksarvesh007/customer-email-reply-langgraph,Python,2024-08-06T15:50:41Z,2024-08-12T10:44:47Z,0,0,0,
+509,LangGraph-Basic-Chatbot,Vijay-kumar-07,Exploration of LangGraph with simple Chatbot. This bot will respond directly to user messages,https://github.com/Vijay-kumar-07/LangGraph-Basic-Chatbot,Jupyter Notebook,2024-08-16T17:11:37Z,2024-08-16T17:36:21Z,0,0,0,MIT License

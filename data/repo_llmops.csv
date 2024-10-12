@@ -1,0 +1,781 @@
+,Repository_Name,Owner,Description,URL,Programming_Language,Creation_Date,Last_Updated_Date,Number_of_Stars,Number_of_Forks,Number_of_Open_Issues,License_Type
+0,Awesome-LLMOps,tensorchord,An awesome & curated list of best LLMOps tools for developers,https://github.com/tensorchord/Awesome-LLMOps,Shell,2022-04-15T01:56:44Z,2024-10-06T08:33:27Z,3817,364,2,Creative Commons Zero v1.0 Universal
+1,clearml,allegroai,"ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",https://github.com/allegroai/clearml,Python,2019-06-10T08:18:32Z,2024-10-06T16:23:20Z,5611,651,490,Apache License 2.0
+2,starwhale,star-whale,an MLOps/LLMOps platform,https://github.com/star-whale/starwhale,Java,2021-12-30T14:26:20Z,2024-09-08T20:17:16Z,208,34,119,Apache License 2.0
+3,langcorn,msoedov,⛓️ Serving LangChain LLM apps and agents automagically with FastApi. LLMops,https://github.com/msoedov/langcorn,Python,2023-04-14T15:28:45Z,2024-09-28T07:34:25Z,900,67,22,MIT License
+4,ragas,explodinggradients,Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines,https://github.com/explodinggradients/ragas,Python,2023-05-08T17:48:04Z,2024-10-06T16:28:08Z,6793,669,268,Apache License 2.0
+5,pezzo,pezzolabs,"🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.",https://github.com/pezzolabs/pezzo,TypeScript,2023-04-22T20:54:10Z,2024-10-05T03:47:16Z,2449,202,35,Apache License 2.0
+6,llmops-workshop,microsoft,Learn how to build solutions with Large Language Models.,https://github.com/microsoft/llmops-workshop,Jupyter Notebook,2024-01-04T02:30:49Z,2024-10-04T14:46:18Z,118,43,5,Creative Commons Attribution 4.0 International
+7,llmops-gha-demo,Azure,,https://github.com/Azure/llmops-gha-demo,Python,2023-08-23T17:06:45Z,2024-09-17T10:36:41Z,27,97,5,MIT License
+8,clearml-server,allegroai,"ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",https://github.com/allegroai/clearml-server,Python,2019-06-10T09:11:19Z,2024-09-26T00:24:40Z,381,132,103,Other
+9,arcadia,kubeagi,"A diverse, simple, and secure all-in-one LLMOps platform",https://github.com/kubeagi/arcadia,Go,2023-07-19T06:56:47Z,2024-09-28T19:44:14Z,80,23,63,Apache License 2.0
+10,llm-action,liguodongiot,本项目旨在分享大模型相关技术原理以及实战经验。,https://github.com/liguodongiot/llm-action,HTML,2023-05-23T05:29:16Z,2024-10-06T14:28:02Z,9427,922,9,Apache License 2.0
+11,llmops-duke-aipi,alfredodeza,Official curricula for the LLMOPs course at Duke University ,https://github.com/alfredodeza/llmops-duke-aipi,,2024-05-14T23:01:01Z,2024-09-22T19:11:04Z,84,14,0,
+12,litellm,BerriAI,"Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",https://github.com/BerriAI/litellm,Python,2023-07-27T00:09:52Z,2024-10-06T16:19:48Z,12697,1476,610,Other
+13,Interactive-Dev-Environment-for-LLM-Development,AI-Maker-Space,Set up your local dev environment just like pro LLMOps practitioners.,https://github.com/AI-Maker-Space/Interactive-Dev-Environment-for-LLM-Development,,2023-08-17T21:22:13Z,2024-08-29T15:34:59Z,47,20,1,MIT License
+14,ai-system,liguodongiot,LLM/MLOps/LLMOps,https://github.com/liguodongiot/ai-system,HTML,2023-02-23T02:56:50Z,2024-09-20T03:55:33Z,45,7,0,Apache License 2.0
+15,awskrusergroup,synabreu,AWS SageMaker를 이용한 MLOps와 LLMOps,https://github.com/synabreu/awskrusergroup,Jupyter Notebook,2023-07-27T04:37:14Z,2024-08-21T15:11:52Z,32,8,0,
+16,phidata,phidatahq,"Build AI Assistants with memory, knowledge and tools.",https://github.com/phidatahq/phidata,Python,2022-05-04T15:23:02Z,2024-10-06T13:39:05Z,11249,1670,82,Mozilla Public License 2.0
+17,EasyLLMOps,bmd1905,"To simplify and streamline LLM operations, empowering developers and organizations to harness the full potential of large language models with ease.",https://github.com/bmd1905/EasyLLMOps,Svelte,2024-08-10T13:58:21Z,2024-10-03T10:24:39Z,54,14,0,MIT License
+18,starcloud-llmops,Starcloud-Cloud,starcloud-llmops java back-end program,https://github.com/Starcloud-Cloud/starcloud-llmops,Java,2023-05-29T07:48:44Z,2024-09-29T09:53:54Z,22,9,2,Other
+19,llamaduo,deep-diver,This project showcases an LLMOps pipeline that fine-tunes a small-size LLM model to prepare for the outage of the service LLM. ,https://github.com/deep-diver/llamaduo,Jupyter Notebook,2024-03-04T06:49:53Z,2024-10-03T00:50:44Z,287,29,0,Apache License 2.0
+20,awesome-llmops,KennethanCeyer,Awesome series for LLMOps,https://github.com/KennethanCeyer/awesome-llmops,,2023-04-01T07:33:42Z,2024-09-08T21:14:39Z,34,6,3,Creative Commons Zero v1.0 Universal
+21,llm-resource,liguodongiot,LLM全栈优质资源汇总,https://github.com/liguodongiot/llm-resource,Shell,2023-08-27T11:45:51Z,2024-10-06T03:44:44Z,322,29,0,Apache License 2.0
+22,llmops-examples,djliden,"Example code and notebooks related to mlflow, llmops, etc.",https://github.com/djliden/llmops-examples,Jupyter Notebook,2023-07-14T18:30:37Z,2024-09-13T12:21:42Z,41,10,0,MIT License
+23,OpenPipe,OpenPipe,Turn expensive prompts into cheap fine-tuned models,https://github.com/OpenPipe/OpenPipe,TypeScript,2023-06-20T00:55:24Z,2024-10-05T10:57:02Z,2480,131,6,Apache License 2.0
+24,trulens,truera,Evaluation and Tracking for LLM Experiments,https://github.com/truera/trulens,Python,2020-11-02T21:56:45Z,2024-10-06T16:17:38Z,2079,181,46,MIT License
+25,llmops-chatgpt-huggingface,manifoldailearning,,https://github.com/manifoldailearning/llmops-chatgpt-huggingface,Jupyter Notebook,2024-03-19T17:08:13Z,2024-09-24T12:32:17Z,8,25,0,
+26,Awesome-LLMOps,InftyAI,🎉 An awesome & curated list of best LLMOps tools.,https://github.com/InftyAI/Awesome-LLMOps,,2023-08-14T09:32:03Z,2024-10-01T15:22:34Z,26,8,0,
+27,LLMOps_wsPycon2024,darkanita,,https://github.com/darkanita/LLMOps_wsPycon2024,Python,2024-06-07T19:02:02Z,2024-06-14T12:25:28Z,6,26,0,
+28,use-case-airflow-llm-rag-finance,astronomer,Repository for the LLMOps RAG with Airflow + Weaviate Learn use case.,https://github.com/astronomer/use-case-airflow-llm-rag-finance,Python,2023-10-24T09:55:45Z,2024-09-17T08:00:39Z,25,10,0,
+29,bionic-gpt,bionic-gpt,"BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",https://github.com/bionic-gpt/bionic-gpt,Rust,2023-07-07T07:45:24Z,2024-10-05T17:24:23Z,1901,175,21,Other
+30,lanarky,ajndkr,The web framework for building LLM microservices,https://github.com/ajndkr/lanarky,Python,2023-04-07T05:36:32Z,2024-09-28T07:37:06Z,973,74,9,MIT License
+31,llmops-handbook,distantmagic,"Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)",https://github.com/distantmagic/llmops-handbook,CSS,2024-06-28T12:25:02Z,2024-09-30T23:59:58Z,49,5,4,Creative Commons Attribution Share Alike 4.0 International
+32,ChainForge,ianarawjo,An open-source visual programming environment for battle-testing prompts to LLMs.,https://github.com/ianarawjo/ChainForge,TypeScript,2023-03-26T16:55:33Z,2024-10-04T15:13:59Z,2233,174,57,MIT License
+33,llmops,Azure,,https://github.com/Azure/llmops,Shell,2024-06-05T19:46:18Z,2024-09-18T03:58:20Z,11,10,0,MIT License
+34,LLMOps,Blaizzy,Deploy and scale Large Language Models (LLMs) in production.,https://github.com/Blaizzy/LLMOps,Jupyter Notebook,2023-11-19T19:25:31Z,2024-08-29T03:44:55Z,35,3,0,MIT License
+35,clearml-helm-charts,allegroai,"Helm chart repository for the new unified way to deploy ClearML on Kubernetes. ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution ",https://github.com/allegroai/clearml-helm-charts,Smarty,2021-07-07T05:54:21Z,2024-09-27T15:10:21Z,36,50,6,
+36,TechExcel-Operationalize-LLMs-with-LLMOps-automation,microsoft,,https://github.com/microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation,Ruby,2024-05-10T20:47:25Z,2024-10-03T21:17:28Z,10,16,5,MIT License
+37,ai-infra-landscape,tensorchord,This is a landscape of the infrastructure that powers the generative AI ecosystem,https://github.com/tensorchord/ai-infra-landscape,HTML,2024-01-26T09:52:41Z,2024-09-29T05:48:40Z,124,55,7,
+38,llmops-workshop,aws-samples,,https://github.com/aws-samples/llmops-workshop,Jupyter Notebook,2023-11-14T20:10:14Z,2024-10-05T22:09:55Z,15,5,4,MIT No Attribution
+39,motorhead,getmetal,🧠 Motorhead is a memory and information retrieval server for LLMs.,https://github.com/getmetal/motorhead,Rust,2023-03-29T17:16:45Z,2024-10-05T21:38:52Z,851,81,17,Apache License 2.0
+40,llmops-project-template,Azure,,https://github.com/Azure/llmops-project-template,Bicep,2024-06-05T19:52:07Z,2024-09-28T12:18:21Z,9,8,0,MIT License
+41,llmops-conference-session,meabhishekkumar,"Presentation, Code and Notebooks used in the conference",https://github.com/meabhishekkumar/llmops-conference-session,Jupyter Notebook,2023-08-01T19:18:56Z,2024-05-08T12:22:14Z,9,7,0,
+42,aws-llmops-workshop,trankimtung,Operationalize Generative AI applications on AWS,https://github.com/trankimtung/aws-llmops-workshop,Python,2024-02-21T05:56:13Z,2024-07-29T10:41:36Z,6,7,0,MIT No Attribution
+43,llm-books,morsoli,利用LLM构建应用实践笔记,https://github.com/morsoli/llm-books,Python,2023-06-12T07:04:32Z,2024-09-27T13:10:30Z,608,40,5,
+44,LLMOps,ksm26,"In this course navigates through the LLMOps pipeline, enabling you to preprocess training data for supervised fine-tuning and deploy custom Large Language Models (LLMs).",https://github.com/ksm26/LLMOps,Jupyter Notebook,2024-02-09T12:55:23Z,2024-08-26T12:43:08Z,4,5,0,
+45,paddler,distantmagic,Stateful load balancer custom-tailored for llama.cpp,https://github.com/distantmagic/paddler,Go,2024-04-27T18:07:47Z,2024-09-30T23:54:55Z,535,23,5,MIT License
+46,rebuff,protectai,LLM Prompt Injection Detector,https://github.com/protectai/rebuff,TypeScript,2023-04-24T05:49:09Z,2024-10-05T07:55:02Z,1085,78,31,Apache License 2.0
+47,contoso-chat,Azure-Samples,"This sample has the full End2End process of creating RAG application with Prompty and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",https://github.com/Azure-Samples/contoso-chat,Jupyter Notebook,2023-11-29T19:10:30Z,2024-10-03T19:11:19Z,434,2523,5,MIT License
+48,autogen,microsoft,A programming framework for agentic AI 🤖,https://github.com/microsoft/autogen,Jupyter Notebook,2023-08-18T11:43:45Z,2024-10-06T16:33:42Z,31610,4595,599,Creative Commons Attribution 4.0 International
+49,envd,tensorchord,🏕️ Reproducible development environment,https://github.com/tensorchord/envd,Go,2022-04-11T09:04:19Z,2024-10-03T20:50:44Z,1955,156,145,Apache License 2.0
+50,openmodelz,tensorchord,"One-click machine learning deployment (LLM, text-to-image and so on) at scale on any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).",https://github.com/tensorchord/openmodelz,Go,2023-07-13T14:50:20Z,2024-08-20T15:04:21Z,239,22,24,Apache License 2.0
+51,learning-llms-and-genai-for-dev-sec-ops,jedi4ever,"A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.",https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops,Jupyter Notebook,2023-09-03T17:34:46Z,2024-10-04T05:03:54Z,250,40,2,
+52,chidori,ThousandBirdsInc,A reactive runtime for building durable AI agents,https://github.com/ThousandBirdsInc/chidori,Rust,2023-07-19T23:21:46Z,2024-10-03T07:32:18Z,1260,50,8,MIT License
+53,docker-code-interpreter,soulteary,One-click Docker APPs of Open-source Code Interpreter Projects.,https://github.com/soulteary/docker-code-interpreter,Shell,2023-07-24T07:44:36Z,2024-09-26T02:47:24Z,57,13,0,Apache License 2.0
+54,bosquet,zmedelis,"Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.",https://github.com/zmedelis/bosquet,Clojure,2023-01-01T17:03:29Z,2024-09-25T19:59:16Z,277,18,6,Eclipse Public License 1.0
+55,phoenix,Arize-ai,AI Observability & Evaluation,https://github.com/Arize-ai/phoenix,Jupyter Notebook,2022-11-09T23:44:35Z,2024-10-06T14:37:07Z,3568,266,202,Other
+56,ray-llm,ray-project,RayLLM - LLMs on Ray,https://github.com/ray-project/ray-llm,Python,2023-05-31T16:42:19Z,2024-09-30T17:32:09Z,1224,91,65,Apache License 2.0
+57,LLMOPS,ngtranminhtuan,"NLP/LLM Mlops Pipeline to dev/train/evaluation, scalable deploy and monitoring systems.",https://github.com/ngtranminhtuan/LLMOPS,Jupyter Notebook,2024-03-13T13:32:04Z,2024-09-13T12:21:44Z,16,2,0,MIT License
+58,continuous-eval,relari-ai,Data-Driven Evaluation for LLM-Powered Applications,https://github.com/relari-ai/continuous-eval,Python,2023-12-08T21:30:39Z,2024-10-05T19:00:18Z,440,28,14,Apache License 2.0
+59,VectorHub,superlinked,"VectorHub is a free, open-source learning website for people (software developers to senior ML architects) interested in adding vector retrieval to their ML stack.",https://github.com/superlinked/VectorHub,Jupyter Notebook,2023-08-21T13:08:13Z,2024-10-02T20:00:14Z,424,102,8,Other
+60,llm-guard,protectai,The Security Toolkit for LLM Interactions,https://github.com/protectai/llm-guard,Python,2023-07-27T19:03:13Z,2024-10-06T08:15:26Z,1172,148,19,MIT License
+61,openinference,Arize-ai,OpenTelemetry Instrumentation for AI Observability,https://github.com/Arize-ai/openinference,Python,2023-12-26T17:33:58Z,2024-10-06T07:04:53Z,199,33,94,Apache License 2.0
+62,SuperAGI,TransformerOptimus,"<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",https://github.com/TransformerOptimus/SuperAGI,Python,2023-05-13T08:55:24Z,2024-10-06T14:51:59Z,15341,1849,183,MIT License
+63,LLMStack,trypromptly,"No-code multi-agent framework to build LLM Agents, workflows and applications with your data",https://github.com/trypromptly/LLMStack,Python,2023-08-06T00:39:25Z,2024-10-05T16:47:10Z,1496,223,7,Other
+64,gateway,Portkey-AI,"A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",https://github.com/Portkey-AI/gateway,TypeScript,2023-08-23T11:52:47Z,2024-10-06T12:45:55Z,6011,410,79,MIT License
+65,SuperKnowa,ibm-ecosystem-engineering,Build Enterprise RAG (Retriver Augmented Generation) Pipelines to tackle various Generative AI use cases with LLM's by simply plugging componants like Lego pieces. This repo is intended for IBM Ecosystem partners. ,https://github.com/ibm-ecosystem-engineering/SuperKnowa,Jupyter Notebook,2023-06-20T15:22:18Z,2024-10-01T14:22:03Z,104,26,4,Apache License 2.0
+66,composio,ComposioHQ,Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling,https://github.com/ComposioHQ/composio,Python,2024-02-23T13:58:27Z,2024-10-06T16:48:35Z,8735,3219,52,Other
+67,llm-python,onlyphantom,"Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone",https://github.com/onlyphantom/llm-python,Jupyter Notebook,2023-04-06T12:38:17Z,2024-10-06T11:59:44Z,673,264,5,MIT License
+68,evidently,evidentlyai,"Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",https://github.com/evidentlyai/evidently,Jupyter Notebook,2020-11-25T15:20:08Z,2024-10-06T13:02:44Z,5203,587,192,Apache License 2.0
+69,BigBertha,aishwaryaprabhat,BigBertha is an architecture design that demonstrates how automated LLMOps (Large Language Models Operations) can be achieved on any Kubernetes cluster using open source container-native technologies 🌟,https://github.com/aishwaryaprabhat/BigBertha,Python,2023-10-12T05:09:05Z,2024-08-20T09:42:49Z,26,7,0,Apache License 2.0
+70,vllm,vllm-project,A high-throughput and memory-efficient inference and serving engine for LLMs,https://github.com/vllm-project/vllm,Python,2023-02-09T11:23:20Z,2024-10-06T17:05:15Z,27893,4114,2059,Apache License 2.0
+71,lorax,predibase,Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs,https://github.com/predibase/lorax,Python,2023-10-20T18:19:49Z,2024-10-05T07:31:51Z,2129,140,138,Apache License 2.0
+72,langsight,samee99,LLMOps repository for analyzing and optimizing interactions with Large Language Models,https://github.com/samee99/langsight,Python,2023-04-06T21:13:49Z,2024-03-13T04:24:29Z,8,3,0,MIT License
+73,BentoML,bentoml,"The easiest way to serve AI apps and models - Build reliable Inference APIs, LLM apps, Multi-model chains, RAG service, and much more!",https://github.com/bentoml/BentoML,Python,2019-04-02T01:39:27Z,2024-10-06T03:34:22Z,7035,781,170,Apache License 2.0
+74,llmops-with-haystack,lfunderburk,Retrieval Augmented Generation applications,https://github.com/lfunderburk/llmops-with-haystack,Jupyter Notebook,2023-09-22T00:41:40Z,2024-03-13T04:22:54Z,27,2,0,Apache License 2.0
+75,llm-cost-estimator,isEmmanuelOlowe,Estimating hardware and cloud costs of LLMs and transformer projects,https://github.com/isEmmanuelOlowe/llm-cost-estimator,TypeScript,2023-06-17T19:06:59Z,2024-09-25T16:42:43Z,10,6,1,MIT License
+76,rtp-llm,alibaba,RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.,https://github.com/alibaba/rtp-llm,C++,2023-12-27T08:22:59Z,2024-10-02T19:04:37Z,522,48,17,Apache License 2.0
+77,llmos,llmos-ai,"An Open Source, Cloud-native LLMOps Platform.",https://github.com/llmos-ai/llmos,Go,2024-04-13T07:52:46Z,2024-10-04T15:10:13Z,8,2,0,Apache License 2.0
+78,AI-Senior,Logisx,"AI Assistant, an end-to-end LLMOps project, fine-tuned to provide support for coding and design questions based on the latest trends in the industry.",https://github.com/Logisx/AI-Senior,Jupyter Notebook,2023-12-09T13:37:13Z,2024-05-13T02:06:06Z,15,6,0,MIT License
+79,raga-llm-hub,raga-ai-hub,"Framework for LLM evaluation, guardrails and security",https://github.com/raga-ai-hub/raga-llm-hub,Python,2024-03-02T18:32:13Z,2024-10-03T16:09:27Z,96,8,2,Other
+80,cube-studio,tencentmusic,cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式,https://github.com/tencentmusic/cube-studio,Jupyter Notebook,2021-08-17T08:54:14Z,2024-10-05T15:09:48Z,3513,623,31,Other
+81,prometheus-eval,prometheus-eval,Evaluate your LLM's response with Prometheus and GPT4 💯,https://github.com/prometheus-eval/prometheus-eval,Python,2024-04-18T17:19:09Z,2024-10-05T20:26:59Z,766,47,3,Apache License 2.0
+82,ragtime-package,recitalAI,Ragtime🎹 is an LLMOps framework to automate testing and comparison for text to text large language models,https://github.com/recitalAI/ragtime-package,Python,2024-03-25T09:27:31Z,2024-09-12T10:02:11Z,9,4,2,MIT License
+83,Introduction-to-MLOps-LLMOps-UA,dmytro-spodarets,,https://github.com/dmytro-spodarets/Introduction-to-MLOps-LLMOps-UA,Jupyter Notebook,2023-07-13T01:16:16Z,2024-07-22T06:54:18Z,28,2,0,
+84,Real-Time-pipeline-LLM-Financial-Advisor,roy2392,An Interfernce RAG-based LLM Pipeline with Best Practice LLMOps ,https://github.com/roy2392/Real-Time-pipeline-LLM-Financial-Advisor,Python,2024-08-20T07:38:35Z,2024-09-12T13:13:08Z,11,2,0,
+85,portkey-python-sdk,Portkey-AI,"Build reliable, secure, and production-ready AI apps easily.",https://github.com/Portkey-AI/portkey-python-sdk,Python,2023-08-28T06:49:48Z,2024-09-25T10:25:57Z,40,15,9,MIT License
+86,dify,langgenius,"Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",https://github.com/langgenius/dify,TypeScript,2023-04-12T07:40:24Z,2024-10-06T16:58:20Z,47185,6704,330,Other
+87,tonic_validate,TonicAI,Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.,https://github.com/TonicAI/tonic_validate,Python,2023-10-23T21:38:11Z,2024-09-25T13:13:31Z,253,27,16,MIT License
+88,Chatbot_FutFut,ddsntc1,LLMOps,https://github.com/ddsntc1/Chatbot_FutFut,Jupyter Notebook,2024-05-31T09:52:35Z,2024-07-05T01:13:35Z,2,2,0,MIT License
+89,sunholo-py,sunholo-data,A python library to enable GenAI and LLMOps within Google Cloud Platform,https://github.com/sunholo-data/sunholo-py,Python,2023-11-14T14:53:19Z,2024-10-04T09:42:50Z,11,2,5,Apache License 2.0
+90,llmops,wenqiglantz,A collection of notebooks related to LLMOps,https://github.com/wenqiglantz/llmops,Jupyter Notebook,2024-01-19T02:44:58Z,2024-07-27T17:24:16Z,5,2,0,
+91,trubrics-sdk,trubrics,Product analytics for AI Assistants,https://github.com/trubrics/trubrics-sdk,Python,2022-01-19T17:40:44Z,2024-08-13T08:49:19Z,128,25,4,Apache License 2.0
+92,AGiXT,Josh-XT,"AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",https://github.com/Josh-XT/AGiXT,Python,2023-04-17T19:35:00Z,2024-10-06T12:50:23Z,2619,349,5,MIT License
+93,llm-inference-solutions,mani-kantap,A collection of all available inference solutions for the LLMs,https://github.com/mani-kantap/llm-inference-solutions,,2023-07-23T20:39:23Z,2024-09-29T15:47:29Z,70,3,0,MIT License
+94,aegis,automorphic-ai,Self-hardening firewall for large language models,https://github.com/automorphic-ai/aegis,Python,2023-06-18T10:56:09Z,2024-09-26T11:16:00Z,255,6,0,MIT License
+95,llm-app,pathwaycom,"Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",https://github.com/pathwaycom/llm-app,,2023-07-19T08:43:37Z,2024-10-06T15:09:56Z,4225,217,6,MIT License
+96,uptrain,uptrain-ai,"UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform root cause analysis on failure cases and give insights on how to resolve them.",https://github.com/uptrain-ai/uptrain,Python,2022-11-07T07:29:06Z,2024-10-05T02:30:27Z,2184,191,50,Apache License 2.0
+97,pointstorm,xsfa,Real-time embeddings for data on the move,https://github.com/xsfa/pointstorm,Python,2023-04-16T03:47:06Z,2024-05-10T20:02:22Z,20,3,0,Apache License 2.0
+98,jina,jina-ai,☁️ Build multimodal AI applications with cloud-native stack,https://github.com/jina-ai/jina,Python,2020-02-13T17:04:44Z,2024-10-06T14:39:15Z,21009,2213,22,Apache License 2.0
+99,aitour-llmops-with-gen-ai-tools,microsoft,AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools,https://github.com/microsoft/aitour-llmops-with-gen-ai-tools,,2024-07-09T12:45:07Z,2024-09-26T17:44:00Z,10,3,0,MIT License
+100,LLMstudio,TensorOpsAI,Framework to bring LLM applications to production,https://github.com/TensorOpsAI/LLMstudio,TypeScript,2023-07-24T09:16:13Z,2024-10-01T16:35:41Z,252,28,24,Mozilla Public License 2.0
+101,bisheng,dataelement,"BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",https://github.com/dataelement/bisheng,Python,2023-08-28T10:00:24Z,2024-10-06T06:24:59Z,8645,1602,55,Apache License 2.0
+102,runbooks,substratusai,Finetune LLMs on K8s by using Runbooks,https://github.com/substratusai/runbooks,Go,2023-06-19T23:59:04Z,2024-08-28T14:13:23Z,168,14,63,Other
+103,vigil-llm,deadbits,"⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs",https://github.com/deadbits/vigil-llm,Python,2023-09-04T17:02:21Z,2024-10-06T16:58:22Z,303,35,16,Apache License 2.0
+104,aici,microsoft,AICI: Prompts as (Wasm) Programs,https://github.com/microsoft/aici,Rust,2023-09-26T21:33:16Z,2024-10-04T05:06:08Z,1916,78,39,MIT License
+105,spelltest,artas728,AI-to-AI Testing | Simulation framework for LLM-based applications,https://github.com/artas728/spelltest,Python,2023-09-12T20:25:35Z,2024-08-05T04:50:04Z,136,8,0,MIT License
+106,agenta,Agenta-AI,"The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place.",https://github.com/Agenta-AI/agenta,Python,2023-04-26T09:54:28Z,2024-10-06T13:14:28Z,1200,183,79,MIT License
+107,promptfoo,promptfoo,"Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",https://github.com/promptfoo/promptfoo,TypeScript,2023-04-28T15:48:49Z,2024-10-06T16:01:10Z,4368,325,104,MIT License
+108,hands-on-llms,iusztinpaul,"🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",https://github.com/iusztinpaul/hands-on-llms,Jupyter Notebook,2023-06-28T06:23:06Z,2024-10-06T11:42:02Z,3013,464,16,MIT License
+109,llm.report,dillionverma,"📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",https://github.com/dillionverma/llm.report,TypeScript,2023-04-25T20:22:40Z,2024-10-03T23:54:17Z,938,77,20,GNU General Public License v3.0
+110,starcloud-llmops-ui-admin,Starcloud-Cloud,,https://github.com/Starcloud-Cloud/starcloud-llmops-ui-admin,Vue,2023-05-30T05:34:56Z,2024-03-14T23:34:00Z,3,3,0,MIT License
+111,end-to-end-llmops-pipeline,100daysofdevops,,https://github.com/100daysofdevops/end-to-end-llmops-pipeline,HTML,2024-08-11T14:35:12Z,2024-08-13T02:11:00Z,8,2,0,
+112,LLM-Engineers-Handbook,PacktPublishing,,https://github.com/PacktPublishing/LLM-Engineers-Handbook,Python,2024-04-09T10:56:03Z,2024-10-06T17:03:51Z,28,7,1,MIT License
+113,llm-api-starterkit,tleers,"Beginner-friendly repository for launching your first LLM API with Python, LangChain and FastAPI, using local models or the OpenAI API.",https://github.com/tleers/llm-api-starterkit,Python,2023-05-29T21:38:10Z,2024-09-28T10:56:31Z,95,11,0,
+114,empirical,empirical-run,"Test and evaluate LLMs and model configurations, across all the scenarios that matter for your application",https://github.com/empirical-run/empirical,TypeScript,2024-03-14T01:54:10Z,2024-09-18T13:42:48Z,148,13,9,MIT License
+115,zenml,zenml-io,ZenML 🙏: The bridge between ML and Ops. https://zenml.io.,https://github.com/zenml-io/zenml,Python,2020-11-19T09:25:46Z,2024-10-06T15:22:22Z,3973,431,59,Apache License 2.0
+116,llmlite,InftyAI,🌵 A library helps to communicate with all kinds of LLMs consistently.,https://github.com/InftyAI/llmlite,Python,2023-09-05T07:01:30Z,2024-09-20T15:40:25Z,9,3,18,MIT License
+117,cognita,truefoundry,"RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",https://github.com/truefoundry/cognita,Python,2023-07-26T13:08:54Z,2024-10-06T09:01:50Z,3208,261,15,Apache License 2.0
+118,craftgen,craftgen,"Integrating AI into every workflow with our open-source, no-code platform, powered by the actor model for dynamic, graph-based solutions.",https://github.com/craftgen/craftgen,TypeScript,2024-01-03T07:43:38Z,2024-09-28T18:20:28Z,242,16,8,GNU Affero General Public License v3.0
+119,athina-evals,athina-ai,Python SDK for running evaluations on LLM generated responses,https://github.com/athina-ai/athina-evals,Python,2023-11-22T10:46:44Z,2024-10-05T18:56:23Z,206,12,4,
+120,agentcraft,devsapp,agentcraft 可以帮助您快速构建各类应用场景的ai agent应用,https://github.com/devsapp/agentcraft,TypeScript,2023-08-26T15:55:26Z,2024-09-20T17:06:23Z,47,8,2,Other
+121,azure-enterprise-scale-ml,jostrm,Enterprise Scale AIFactory (esml) - on Azure,https://github.com/jostrm/azure-enterprise-scale-ml,Jupyter Notebook,2021-04-05T21:55:11Z,2024-09-28T01:33:41Z,28,9,2,MIT License
+122,llmops-azure-ml,zso3n3n,Sample repository for implementing a robust LLMOps solution using Azure Machine Learning.,https://github.com/zso3n3n/llmops-azure-ml,Jupyter Notebook,2024-04-03T14:33:18Z,2024-09-17T14:26:46Z,4,2,2,MIT License
+123,rag-lab,EcomPilot,"Lighter, cheaper and faster RAG toolkit (Graph RAG) supported by TargetPilot",https://github.com/EcomPilot/rag-lab,Python,2024-08-13T16:21:08Z,2024-10-01T08:07:16Z,28,5,0,Apache License 2.0
+124,OpenLLM,bentoml,"Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.",https://github.com/bentoml/OpenLLM,Python,2023-04-19T00:27:52Z,2024-10-06T15:26:36Z,9832,626,22,Apache License 2.0
+125,burr,DAGWorks-Inc,"Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",https://github.com/DAGWorks-Inc/burr,Python,2024-01-29T23:27:07Z,2024-10-06T15:34:12Z,1162,62,52,BSD 3-Clause Clear License
+126,redeval,chziakas,Red-teaming LLM applications.,https://github.com/chziakas/redeval,Python,2023-10-07T00:47:41Z,2024-09-18T03:18:18Z,21,5,2,Apache License 2.0
+127,superduper,superduper-io,"Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, training and vector search.",https://github.com/superduper-io/superduper,Jupyter Notebook,2022-08-30T12:51:24Z,2024-10-06T08:32:10Z,4680,449,96,Apache License 2.0
+128,langfuse-js,langfuse,🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework,https://github.com/langfuse/langfuse-js,TypeScript,2023-07-02T21:43:44Z,2024-10-06T16:10:54Z,27,27,14,MIT License
+129,dstack,dstackai,"dstack is an open-source alternative to Kubernetes, designed to simplify development, training, and deployment of AI across any cloud or on-prem. It supports NVIDIA, AMD, and TPU.",https://github.com/dstackai/dstack,Python,2022-01-04T10:29:46Z,2024-10-05T17:18:23Z,1356,119,110,Mozilla Public License 2.0
+130,LLMOps-Hands-On-Lab,Legendary-7,,https://github.com/Legendary-7/LLMOps-Hands-On-Lab,,2024-06-20T12:26:19Z,2024-06-20T12:26:20Z,0,4,0,
+131,llmflows,stoyan-stoyanov,"LLMFlows - Simple, Explicit and Transparent LLM Apps",https://github.com/stoyan-stoyanov/llmflows,Python,2023-06-26T01:24:15Z,2024-10-03T03:30:53Z,662,34,19,MIT License
+132,llm-twin-course,decodingml,🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴,https://github.com/decodingml/llm-twin-course,Python,2024-03-08T09:21:28Z,2024-10-06T14:02:17Z,2509,412,10,MIT License
+133,sagify,Kenza-AI,LLMs and Machine Learning done easily,https://github.com/Kenza-AI/sagify,Python,2018-03-03T13:12:14Z,2024-09-10T18:32:10Z,434,69,13,MIT License
+134,openllmetry,traceloop,"Open-source observability for your LLM application, based on OpenTelemetry",https://github.com/traceloop/openllmetry,Python,2023-09-02T14:42:59Z,2024-10-06T05:47:33Z,1905,186,110,Apache License 2.0
+135,pytector,MaxMLang,"A Python package designed to detect prompt injection in text inputs utilizing state-of-the-art machine learning models from Hugging Face. The main focus is on ease of use, enabling developers to integrate security features into their applications with minimal effort. ",https://github.com/MaxMLang/pytector,Python,2024-03-22T21:46:48Z,2024-08-08T04:43:13Z,23,19,0,MIT License
+136,aiops-modules,awslabs,"AIOps modules is a collection of reusable Infrastructure as Code (IaC) modules for Machine Learning (ML), Foundation Models (FM), Large Language Models (LLM) and GenAI development and operations on AWS",https://github.com/awslabs/aiops-modules,Python,2024-01-04T14:54:38Z,2024-10-05T15:07:20Z,45,22,30,Apache License 2.0
+137,GPTRouter,Writesonic,"Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.",https://github.com/Writesonic/GPTRouter,TypeScript,2023-12-14T05:31:59Z,2024-09-24T15:49:03Z,426,31,12,MIT License
+138,dynamiq,dynamiq-ai,Dynamiq is an orchestration framework for agentic AI and LLM applications,https://github.com/dynamiq-ai/dynamiq,Python,2024-09-26T10:20:26Z,2024-10-06T16:41:43Z,62,7,1,Apache License 2.0
+139,giskard,Giskard-AI,🐢 Open-Source Evaluation & Testing for ML models & LLMs,https://github.com/Giskard-AI/giskard,Python,2022-03-06T21:45:37Z,2024-10-06T13:58:51Z,3975,254,23,Apache License 2.0
+140,portkey-node-sdk,Portkey-AI,"Build reliable, secure, and production-ready AI apps easily.",https://github.com/Portkey-AI/portkey-node-sdk,TypeScript,2023-09-18T05:03:53Z,2024-09-25T10:28:36Z,22,7,17,
+141,benchmarks,premAI-io,"🕹️ Performance Comparison of MLOps Engines, Frameworks, and Languages on Mainstream AI Models.",https://github.com/premAI-io/benchmarks,Shell,2023-10-02T08:02:28Z,2024-09-27T19:01:47Z,130,5,18,MIT License
+142,phospho,phospho-app,"Text analytics for LLM apps. Cluster messages to detect use cases, outliers, power users. Detect intents and run evals with LLM (OpenAI, MistralAI, Ollama, etc.)",https://github.com/phospho-app/phospho,Python,2023-07-21T14:47:27Z,2024-10-04T15:58:34Z,359,27,3,Apache License 2.0
+143,arcee-python,arcee-ai,The Arcee client for executing domain-adpated language model routines https://pypi.org/project/arcee-py/,https://github.com/arcee-ai/arcee-python,Python,2023-06-08T21:52:18Z,2024-09-20T11:53:49Z,25,5,8,
+144,LLMOps-PF,MG-Microsoft,,https://github.com/MG-Microsoft/LLMOps-PF,Python,2023-09-24T22:08:10Z,2024-02-23T18:38:50Z,1,5,0,MIT License
+145,llmops-content,HakjunMIN,,https://github.com/HakjunMIN/llmops-content,Bicep,2024-08-29T07:57:26Z,2024-09-26T23:53:31Z,1,4,0,MIT License
+146,helicone,Helicone,"🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23",https://github.com/Helicone/helicone,TypeScript,2023-01-31T22:34:44Z,2024-10-06T06:29:26Z,1773,194,37,Apache License 2.0
+147,WebextLLM,idosal,Web extension that embeds LLMs in your browser to power AI in web apps,https://github.com/idosal/WebextLLM,JavaScript,2023-05-30T16:30:00Z,2024-10-03T09:30:40Z,35,4,1,
+148,langfuse,langfuse,"🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",https://github.com/langfuse/langfuse,TypeScript,2023-05-18T17:47:09Z,2024-10-06T16:52:07Z,5848,555,134,Other
+149,LLMops,andysingal,purpose of this repo is to Implement LLMOPs as shared in Deeplearning AI course,https://github.com/andysingal/LLMops,Jupyter Notebook,2024-01-21T17:47:20Z,2024-10-05T15:08:54Z,7,1,0,MIT License
+150,swiftide,bosun-ai,"Fast, streaming indexing and query library for AI (RAG) applications, written in Rust",https://github.com/bosun-ai/swiftide,Rust,2024-06-09T20:07:06Z,2024-10-06T13:17:55Z,218,12,21,MIT License
+151,Automated-Testing-for-LLMOps,ksm26,Create a continuous integration (CI) workflow for testing LLMs applications in an effective way.,https://github.com/ksm26/Automated-Testing-for-LLMOps,Jupyter Notebook,2024-02-13T13:03:28Z,2024-07-13T09:56:48Z,3,2,0,
+152,langtail-node,langtail,Langtail TypeScript SDK,https://github.com/langtail/langtail-node,TypeScript,2024-03-18T13:06:55Z,2024-09-20T10:21:10Z,9,3,2,MIT License
+153,langtrace,Scale3-Labs,"Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",https://github.com/Scale3-Labs/langtrace,TypeScript,2024-03-30T23:49:41Z,2024-10-06T08:34:12Z,472,43,4,GNU Affero General Public License v3.0
+154,CoderGPT,eriknomitch,Code context-aware pre-prompt rules for using GPT-4 as a coding assistant effectively.,https://github.com/eriknomitch/CoderGPT,,2023-06-21T15:45:21Z,2024-10-03T14:48:17Z,61,4,0,MIT License
+155,nextpy,dot-agent,🤖Self-Modifying Framework from the Future 🔮 World's First AMS,https://github.com/dot-agent/nextpy,Python,2023-08-07T12:36:03Z,2024-10-06T06:13:20Z,2191,155,24,Apache License 2.0
+156,GPT4DFCI,Dana-Farber-AIOS,"A private and secure generative AI tool, based on GPT-4 and deployed for non-clinical use at Dana-Farber Cancer Institute",https://github.com/Dana-Farber-AIOS/GPT4DFCI,TypeScript,2024-01-18T21:45:48Z,2024-10-02T16:29:22Z,55,7,0,GNU General Public License v2.0
+157,hamilton,DAGWorks-Inc,"Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",https://github.com/DAGWorks-Inc/hamilton,Jupyter Notebook,2023-02-23T17:16:48Z,2024-10-06T15:38:12Z,1779,113,118,BSD 3-Clause Clear License
+158,promptmodel,weavel-ai,Collaborative prompt & model engineering for LLM product teams,https://github.com/weavel-ai/promptmodel,TypeScript,2023-12-11T11:42:51Z,2024-09-28T23:01:08Z,27,2,1,MIT License
+159,PromptFlow-LLMOps-Example,lordlinus,,https://github.com/lordlinus/PromptFlow-LLMOps-Example,Python,2024-08-27T00:05:56Z,2024-09-16T04:00:35Z,0,4,3,Other
+160,markdown-crawler,paulpierre,"A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG",https://github.com/paulpierre/markdown-crawler,Python,2023-10-24T13:30:06Z,2024-10-06T16:06:14Z,281,29,11,MIT License
+161,kubedoop,zncdatadev,The modular open source big data platform using kubernetes and cloud-native ecosystem which is the base for DataOps/MLOps(LLMOps),https://github.com/zncdatadev/kubedoop,,2024-03-28T08:17:26Z,2024-09-07T11:51:09Z,2,3,2,Apache License 2.0
+162,Agently,Maplemx,[AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI Agent using plugins instead of rebuild a whole new agent,https://github.com/Maplemx/Agently,Python,2023-06-30T16:26:54Z,2024-10-03T22:52:11Z,1071,122,15,Apache License 2.0
+163,Real-Time-3-pipeline-LLM-Financial-Advisor,MuhammadBinUsman03,"3-Pipeline LLMOps Financial advisor. Steaming pipeline deployed on AWS, 24/7 collects, embeds live-data into QdrantDB. Training pipeline finetunes model on serverless GPU and logs best model on WandB Registry.Inference pipeline downloads best model from registry for inference, utilizes Langchain to maintain history and context retrieval.",https://github.com/MuhammadBinUsman03/Real-Time-3-pipeline-LLM-Financial-Advisor,Python,2024-08-12T09:39:02Z,2024-09-30T20:30:29Z,18,5,0,Apache License 2.0
+164,AgentNeo,raga-ai-hub,"Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",https://github.com/raga-ai-hub/AgentNeo,JavaScript,2024-08-26T12:13:15Z,2024-10-06T17:04:41Z,661,16,7,GNU General Public License v3.0
+165,NeumAI,NeumTry,Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.,https://github.com/NeumTry/NeumAI,Python,2023-09-14T00:04:50Z,2024-10-02T06:32:11Z,823,48,8,Apache License 2.0
+166,LLMOps,antoniodatabricks,,https://github.com/antoniodatabricks/LLMOps,Python,2024-09-21T20:01:03Z,2024-10-03T16:34:39Z,0,2,0,
+167,ragrank,Auto-Playground,"🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, and more. This helps you see how good your LLM applications are.",https://github.com/Auto-Playground/ragrank,Python,2024-02-17T18:32:08Z,2024-10-04T18:15:15Z,25,11,3,Apache License 2.0
+168,cube-studio,data-infra,cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式,https://github.com/data-infra/cube-studio,Jupyter Notebook,2024-07-02T03:06:50Z,2024-10-06T09:39:11Z,2094,75,1,Other
+169,docs,Portkey-AI,,https://github.com/Portkey-AI/docs,,2023-04-17T04:51:49Z,2024-10-04T04:41:08Z,10,7,2,
+170,awesome-ai-sdks,e2b-dev,"A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",https://github.com/e2b-dev/awesome-ai-sdks,,2023-08-05T17:22:43Z,2024-10-06T10:03:21Z,744,62,13,
+171,ml_observability_course,evidentlyai,Free Open-source ML observability course for data scientists and ML engineers. Learn how to monitor and debug your ML models in production. ,https://github.com/evidentlyai/ml_observability_course,Jupyter Notebook,2023-10-05T14:29:55Z,2024-09-25T20:00:45Z,65,26,5,Apache License 2.0
+172,clearml-fractional-gpu,allegroai,ClearML Fractional GPU - Run multiple containers on the same GPU with driver level memory limitation ✨ and compute time-slicing,https://github.com/allegroai/clearml-fractional-gpu,,2024-02-09T13:21:16Z,2024-09-27T08:07:49Z,59,4,4,Other
+173,glide,EinStack,🐦 A open blazing-fast simple model gateway for rapid development of production GenAI apps,https://github.com/EinStack/glide,Go,2023-12-07T00:49:46Z,2024-09-26T13:45:48Z,127,20,68,Apache License 2.0
+174,gateway,missingstudio,[deprecated] AI Gateway - core infrastructure stack for building production-ready AI Applications,https://github.com/missingstudio/gateway,Go,2024-01-18T03:04:52Z,2024-08-25T16:31:41Z,150,16,10,Apache License 2.0
+175,llmaz-dashboard,InftyAI,A web console for llmaz.,https://github.com/InftyAI/llmaz-dashboard,Python,2023-09-11T15:32:36Z,2024-09-18T13:48:54Z,3,4,15,Apache License 2.0
+176,vishwa-ml-sdk,vishwa-labs,Python SDK for vishwa.ai,https://github.com/vishwa-labs/vishwa-ml-sdk,Python,2023-08-28T18:08:14Z,2024-07-20T18:50:32Z,20,3,0,Apache License 2.0
+177,openllmetry-js,traceloop,"Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry",https://github.com/traceloop/openllmetry-js,TypeScript,2023-09-27T22:38:28Z,2024-10-01T23:38:35Z,260,25,37,Apache License 2.0
+178,DataDreamer,datadreamer-dev,DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤,https://github.com/datadreamer-dev/DataDreamer,Python,2023-06-02T20:17:04Z,2024-10-06T04:00:07Z,810,40,1,MIT License
+179,genai-stack,aiplanethub,An End to End GenAI Framework,https://github.com/aiplanethub/genai-stack,Jupyter Notebook,2023-07-06T11:46:23Z,2024-10-04T12:11:26Z,128,43,38,Apache License 2.0
+180,LLMOPsNotes,bhadreshpsavani,"A Repo to Track LLMOps based Experiments, Blogs, Notes, Notebooks",https://github.com/bhadreshpsavani/LLMOPsNotes,Jupyter Notebook,2023-05-22T13:44:44Z,2024-08-28T04:44:23Z,3,0,0,
+181,genaiops-promptflow-template,microsoft,"GenAIOps with Prompt Flow is a ""GenAIOps template and guidance"" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management, Variant and Hyperparameter Experimentation, A/B Deployment, reporting for all runs and experiments and so on.",https://github.com/microsoft/genaiops-promptflow-template,Python,2023-10-12T08:03:55Z,2024-10-05T18:54:01Z,252,225,25,Other
+182,slm-innovator-lab,Azure,"This lab is a 1-day/2-day end-to-end SLM workshop led and developed by AI GBB. Attendees will learn how to quickly and easily perform the data preparation-fine tuning-serving-LLMOps series of processes using Azure ML Studio and AI Studio, and will be able to expand the workload based on this.",https://github.com/Azure/slm-innovator-lab,Jupyter Notebook,2024-07-25T01:35:47Z,2024-10-03T01:21:57Z,16,4,0,MIT License
+183,llmops-huggingface-gpt,synergeticsubhadeep,,https://github.com/synergeticsubhadeep/llmops-huggingface-gpt,,2024-02-06T15:46:15Z,2024-02-06T15:46:15Z,0,2,0,
+184,awesome-ai-repositories,sydverma123,A curated list of open source repositories for AI Engineers,https://github.com/sydverma123/awesome-ai-repositories,,2024-06-24T09:21:44Z,2024-09-24T20:45:19Z,73,14,3,
+185,openlit,openlit,"OpenLIT: Complete Observability and Evals for the Entire GenAI Stack, from LLMs to GPUs. Improve your LLM apps from playground to production 📈. Supports 20+ monitoring integrations like OpenAI & LangChain. Collect and Send GPU performance, costs, tokens, user activity, LLM traces and metrics to any OpenTelemetry endpoint in just one line of code.",https://github.com/openlit/openlit,Python,2024-01-23T17:40:59Z,2024-10-06T14:59:52Z,752,58,41,Apache License 2.0
+186,aibitat,wladpaiva,Multi-Agent Conversation Framework in TypeScript,https://github.com/wladpaiva/aibitat,TypeScript,2023-10-11T00:11:20Z,2024-10-03T14:48:29Z,100,16,3,MIT License
+187,semi-agent,etrobot,A simple AI Agent Framework using table software like Excel/Google Sheets as GUI,https://github.com/etrobot/semi-agent,Python,2023-11-23T01:06:15Z,2024-08-04T13:45:39Z,12,0,0,MIT License
+188,PromethAI-Backend,topoteretes,"Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them",https://github.com/topoteretes/PromethAI-Backend,Python,2023-05-15T18:35:48Z,2024-10-04T11:41:06Z,147,17,4,MIT License
+189,kolena,kolenaIO,Python client for Kolena's machine learning testing platform,https://github.com/kolenaIO/kolena,Python,2023-04-12T12:37:11Z,2024-10-03T16:31:05Z,42,4,12,Apache License 2.0
+190,JetStream,AI-Hypercomputer,"JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).",https://github.com/AI-Hypercomputer/JetStream,Python,2024-03-01T00:24:07Z,2024-10-06T16:58:04Z,203,26,11,Apache License 2.0
+191,LLM-Zero-to-Hero,Utshav-paudel,"This repo contains the resources, projects and documentation of mine while learning Large Language Model ",https://github.com/Utshav-paudel/LLM-Zero-to-Hero,Jupyter Notebook,2023-12-14T17:52:47Z,2024-09-30T05:34:58Z,8,3,0,
+192,starcloud-llmops-ui-user,Starcloud-Cloud,,https://github.com/Starcloud-Cloud/starcloud-llmops-ui-user,TypeScript,2023-06-06T03:55:45Z,2024-09-29T09:13:15Z,1,2,0,
+193,llmops-interview-questions,Devinterview-io,🟣 LLMOps interview questions and answers to help you prepare for your next machine learning and data science interview in 2024.,https://github.com/Devinterview-io/llmops-interview-questions,,2024-01-08T16:12:07Z,2024-09-05T18:56:41Z,4,0,0,
+194,LLMOpsWorkshop,Leo-Rome-Pte-Ltd,The content for Shift Left DevOps Practices for developing LLM Apps (aka LMOps) workshop,https://github.com/Leo-Rome-Pte-Ltd/LLMOpsWorkshop,,2024-05-14T05:50:08Z,2024-07-26T07:18:57Z,2,0,0,Apache License 2.0
+195,generative-ai-and-llmops-deploying-and-managing-llms-in-production-4465782,LinkedInLearning,This repo is for LinkedIn Learning course: Generative AI and LLMOps: Deploying & Managing LLMs in Production,https://github.com/LinkedInLearning/generative-ai-and-llmops-deploying-and-managing-llms-in-production-4465782,Jupyter Notebook,2024-05-08T20:44:55Z,2024-09-14T15:56:17Z,1,3,1,Other
+196,playfetch,yello-xyz,PlayFetch makes adding Large Language Model features to your app quick and painless.,https://github.com/yello-xyz/playfetch,TypeScript,2023-05-23T10:23:44Z,2024-08-20T20:05:01Z,11,3,2,MIT License
+197,geniusrise,geniusrise,Geniusrise: Framework for building geniuses,https://github.com/geniusrise/geniusrise,Python,2023-05-10T18:51:35Z,2024-08-18T15:53:20Z,60,4,8,Apache License 2.0
+198,phosphojs,phospho-app,"The Node package for phospho, the LLM analytics platform",https://github.com/phospho-app/phosphojs,TypeScript,2023-12-11T15:59:13Z,2024-09-24T11:42:06Z,5,2,1,Apache License 2.0
+199,sugarcane-ai,sugarcane-ai,npm like package ecosystem for Prompts 🤖,https://github.com/sugarcane-ai/sugarcane-ai,TypeScript,2023-09-25T05:02:45Z,2024-06-18T10:16:41Z,46,14,44,Apache License 2.0
+200,ray_vllm_inference,asprenger,A simple service that integrates vLLM with Ray Serve for fast and scalable LLM serving.,https://github.com/asprenger/ray_vllm_inference,Python,2023-10-28T23:17:59Z,2024-09-28T06:27:36Z,49,4,4,Apache License 2.0
+201,agency,neurocult,"🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",https://github.com/neurocult/agency,Go,2023-11-13T19:49:03Z,2024-10-04T10:11:11Z,424,23,3,MIT License
+202,parea-sdk-py,parea-ai,"Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)",https://github.com/parea-ai/parea-sdk-py,Python,2023-07-24T02:57:39Z,2024-10-01T04:35:45Z,73,6,56,Apache License 2.0
+203,promptdesk,promptdesk,"Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).",https://github.com/promptdesk/promptdesk,TypeScript,2023-09-04T23:44:26Z,2024-10-03T09:40:43Z,50,8,0,GNU Affero General Public License v3.0
+204,agency,operand,A fast and minimal framework for building agent-integrated systems,https://github.com/operand/agency,Python,2023-05-23T01:47:16Z,2024-10-02T23:52:56Z,410,21,24,MIT License
+205,Denzel-Crocker-Hunting-For-Fairly-Odd-Prompts,rabbidave,A serverless set of functions for evaluating whether incoming messages to an LLM system seem to contain instances of prompt injection; uses cascading cosine similarity and ROUGLE-L calculation against known good and bad prompts,https://github.com/rabbidave/Denzel-Crocker-Hunting-For-Fairly-Odd-Prompts,Python,2023-07-12T04:10:32Z,2024-05-02T02:32:05Z,5,2,1,Apache License 2.0
+206,athina-sdk,athina-ai,LLM Testing SDK that helps you write and run tests to monitor your LLM app in production,https://github.com/athina-ai/athina-sdk,Python,2023-07-02T13:31:29Z,2024-09-09T23:03:00Z,131,1,2,
+207,matcha,fuzzylabs,A tool to provision MLOps environments in Azure,https://github.com/fuzzylabs/matcha,Python,2023-03-15T10:08:26Z,2024-08-22T15:33:59Z,30,2,8,Apache License 2.0
+208,LLMOps,inkri,LLMOps,https://github.com/inkri/LLMOps,,2024-09-05T13:00:24Z,2024-09-05T13:00:31Z,0,0,0,
+209,llmops,bcmin1018,llmops,https://github.com/bcmin1018/llmops,Python,2024-03-07T13:13:03Z,2024-03-07T16:05:04Z,0,0,0,
+210,llmops,eliasammari,LLMops,https://github.com/eliasammari/llmops,Jupyter Notebook,2024-08-21T13:23:12Z,2024-09-02T16:25:43Z,0,0,0,
+211,hands-on-LLMs,vineet1409,"This repo covers the entire workflow from developing/fine-tuning a Large Language model, making inferences and evaluation and then deploying to production using Mlflow as part of LLMOps",https://github.com/vineet1409/hands-on-LLMs,Jupyter Notebook,2023-07-26T16:45:26Z,2024-08-21T19:09:13Z,8,1,0,
+212,transformers-nlp-service,bentoml,"Online Inference API for NLP Transformer models - summarization, text classification, sentiment analysis and more",https://github.com/bentoml/transformers-nlp-service,Python,2023-04-18T03:41:46Z,2024-08-21T12:41:35Z,43,3,3,Apache License 2.0
+213,LLMOps,radhakrishnang,LLMOps FMOps ,https://github.com/radhakrishnang/LLMOps,,2023-07-07T17:21:07Z,2023-07-07T17:21:08Z,0,1,0,
+214,Awesome-AI-Resources-List,JJayasri,Here you get to see free  AI Learning Materials across the world,https://github.com/JJayasri/Awesome-AI-Resources-List,,2024-06-29T11:24:28Z,2024-09-17T14:54:17Z,24,5,1,
+215,llmops-prework,JaredKhattakKIE,llmops-prework,https://github.com/JaredKhattakKIE/llmops-prework,Python,2024-08-06T02:03:40Z,2024-08-09T21:14:49Z,0,0,0,MIT License
+216,swiftLLM,interestingLSY,A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM).,https://github.com/interestingLSY/swiftLLM,Python,2024-05-11T06:23:06Z,2024-10-02T15:23:28Z,87,6,0,Apache License 2.0
+217,llms,fahmiaziz98,Building LLMOps,https://github.com/fahmiaziz98/llms,Jupyter Notebook,2024-01-16T07:42:18Z,2024-02-01T01:05:27Z,0,0,0,MIT License
+218,llmops-api,caixr9527,llmops-api,https://github.com/caixr9527/llmops-api,Python,2024-06-27T14:17:32Z,2024-09-29T15:06:35Z,0,0,0,
+219,IA-with-RAG,pfi93000,Simple LLMOps,https://github.com/pfi93000/IA-with-RAG,Jupyter Notebook,2024-09-03T14:31:49Z,2024-09-16T16:56:25Z,0,0,2,MIT License
+220,LLMOps,kuanliang,LLMOps practice,https://github.com/kuanliang/LLMOps,,2023-09-02T17:04:37Z,2023-09-02T17:04:38Z,0,0,0,MIT License
+221,dgLLMOps,arbtrader,"LLMOps,  - RAG",https://github.com/arbtrader/dgLLMOps,Python,2024-07-02T00:01:51Z,2024-09-02T16:46:21Z,0,0,0,
+222,llmops-ui,caixr9527,llmops-ui,https://github.com/caixr9527/llmops-ui,Vue,2024-07-15T15:19:26Z,2024-07-30T15:22:31Z,0,0,0,
+223,llmops,myfatemi04,easy llmops,https://github.com/myfatemi04/llmops,Python,2023-08-14T03:59:23Z,2023-08-14T04:00:01Z,0,0,0,
+224,llmops,ayushaahhh,LLMOps training,https://github.com/ayushaahhh/llmops,,2024-05-22T03:29:41Z,2024-05-27T04:22:58Z,0,0,0,
+225,llmops_assessments,marvelousmlops,"LLM Use case validity checks: impact assessment, risk assessment, maturity assessment.",https://github.com/marvelousmlops/llmops_assessments,,2024-02-13T16:00:34Z,2024-06-20T12:53:26Z,2,0,0,
+226,END-TO-END-GENERATIVE-AI-PROJECTS,GURPREETKAURJETHRA,End to End Generative AI Industry Projects on LLM Models with Deployment_Awesome LLM Projects,https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS,,2024-03-21T05:27:37Z,2024-10-03T21:31:13Z,72,27,0,MIT License
+227,llmop1,abhishekknlp,Checking Out LLMOPs,https://github.com/abhishekknlp/llmop1,Python,2023-12-07T13:53:21Z,2023-12-07T15:12:03Z,0,0,0,MIT License
+228,awesome-ai-safety,Giskard-AI,📚 A curated list of papers & technical articles on AI Quality & Safety,https://github.com/Giskard-AI/awesome-ai-safety,,2023-04-19T13:09:18Z,2024-09-29T05:39:49Z,159,13,1,Apache License 2.0
+229,llmops-workshop,PradipMSFT,llmops-workshop-repo,https://github.com/PradipMSFT/llmops-workshop,,2024-08-22T11:03:24Z,2024-08-22T11:03:24Z,0,0,0,
+230,llmops-course-prework,JaredKhattakKIE,llmops-course-prework,https://github.com/JaredKhattakKIE/llmops-course-prework,,2024-08-06T02:01:25Z,2024-08-06T02:01:28Z,0,0,0,MIT License
+231,llmops-project-one,jurgenizer,LLMOps Project One,https://github.com/jurgenizer/llmops-project-one,Python,2024-05-07T08:58:37Z,2024-07-15T10:37:12Z,0,0,0,MIT License
+232,rust-for-llmops,adriangrepo,Rust LLMOps testing,https://github.com/adriangrepo/rust-for-llmops,Rust,2023-12-17T05:55:16Z,2023-12-17T06:00:51Z,0,0,0,
+233,log10,log10-io,Python client library for improving your LLM app accuracy,https://github.com/log10-io/log10,Python,2023-03-16T03:14:47Z,2024-10-04T16:37:40Z,96,8,7,MIT License
+234,llmops-ui,Coding-xiaobo,llmops前端,https://github.com/Coding-xiaobo/llmops-ui,Vue,2024-07-03T15:44:41Z,2024-07-06T09:34:37Z,0,0,0,
+235,wandb_fun_book_public,nejumi,「WandB で始める実験管理 - MLOps から LLMOps まで」に関する公開 Repository,https://github.com/nejumi/wandb_fun_book_public,,2023-11-02T02:59:52Z,2024-08-27T06:49:38Z,4,0,0,MIT License
+236,LLMOps,anishaccenture,Prompt flow LLMOps,https://github.com/anishaccenture/LLMOps,Jinja,2024-02-07T13:35:48Z,2024-02-07T13:37:34Z,0,0,0,
+237,llmops-workshop-kr,freedragon,,https://github.com/freedragon/llmops-workshop-kr,Jupyter Notebook,2024-09-03T05:52:39Z,2024-09-24T16:34:40Z,2,2,0,Creative Commons Attribution 4.0 International
+238,LLMtuner,promptslab,"FineTune LLMs in few lines of code (Text2Text, Text2Speech, Speech2Text)",https://github.com/promptslab/LLMtuner,Python,2023-04-28T12:44:42Z,2024-10-04T23:27:39Z,224,13,3,Apache License 2.0
+239,simple-llmops-stack,lukemarsden,Simple example of how to set up an LLMOps RAG stack using open source tech and local models,https://github.com/lukemarsden/simple-llmops-stack,Python,2024-09-09T19:36:05Z,2024-09-11T15:47:09Z,2,0,0,
+240,llmops_demo,schrilax,first tryst with llmops,https://github.com/schrilax/llmops_demo,Jupyter Notebook,2023-09-08T18:37:32Z,2023-09-08T19:07:27Z,0,0,0,MIT License
+241,LLMOps-commet,babarbashir,LLMOps using commet library,https://github.com/babarbashir/LLMOps-commet,Jupyter Notebook,2024-07-28T12:33:22Z,2024-07-28T12:53:38Z,0,0,0,
+242,hands_on_llmops,Danselem,# Hands on LLMOPs Project,https://github.com/Danselem/hands_on_llmops,,2023-10-31T20:50:12Z,2023-10-31T20:50:12Z,0,0,0,MIT License
+243,llmops-server,Coding-xiaobo,llmops服务端,https://github.com/Coding-xiaobo/llmops-server,Python,2024-07-03T15:40:44Z,2024-10-06T04:05:52Z,0,0,0,
+244,transformer-tricks,OpenMachine-ai,A collection of tricks to speed up LLMs,https://github.com/OpenMachine-ai/transformer-tricks,TeX,2024-03-11T23:08:59Z,2024-10-04T19:00:36Z,24,2,0,
+245,Finance_Advisory_Bot,MrAkash920,#Finance #LLMops #AI #CHATBOT,https://github.com/MrAkash920/Finance_Advisory_Bot,,2024-06-25T07:50:27Z,2024-06-25T08:03:52Z,0,0,0,MIT License
+246,aws-event,Leo-Rome-Pte-Ltd,AWS LLMOps Event Demo,https://github.com/Leo-Rome-Pte-Ltd/aws-event,Jupyter Notebook,2024-06-06T08:43:34Z,2024-06-15T04:28:58Z,0,0,0,
+247,llmops-101,mendiecraft,beginner llmops-dev-101,https://github.com/mendiecraft/llmops-101,Jupyter Notebook,2023-08-19T08:12:54Z,2023-08-19T08:33:02Z,0,0,0,MIT License
+248,LLMOps,rajkmaity,Learning LLMOps using gcp,https://github.com/rajkmaity/LLMOps,,2024-02-07T17:58:32Z,2024-02-07T17:58:32Z,0,0,0,
+249,KubeLLM,KubeLLM,LLMOps build on Kubernetes.,https://github.com/KubeLLM/KubeLLM,,2023-08-01T02:17:17Z,2023-08-01T09:03:21Z,1,0,0,
+250,mlops-study,LeeJeongHwi,"MLOps,LLMOps Study 기록지",https://github.com/LeeJeongHwi/mlops-study,,2024-09-08T04:24:06Z,2024-09-08T04:24:38Z,0,0,0,
+251,LLMops,germeeai,pre-course for LLMops,https://github.com/germeeai/LLMops,Jupyter Notebook,2023-09-23T13:55:59Z,2023-09-24T01:33:23Z,0,0,0,MIT License
+252,RAG-with-Cross-Encoder-Reranker,mickymultani,"Testing speed and accuracy of RAG with, and without Cross Encoder Reranker.",https://github.com/mickymultani/RAG-with-Cross-Encoder-Reranker,Jupyter Notebook,2024-01-12T08:55:51Z,2024-05-23T13:28:52Z,45,4,0,
+253,k8s-llmops-iac,paravatha,Setup LLMOps on EKS,https://github.com/paravatha/k8s-llmops-iac,HCL,2024-03-27T20:08:20Z,2024-03-27T20:22:03Z,0,0,0,Apache License 2.0
+254,podcast-magic,harpreetsahota204,Final Project for LLMOps Cohort,https://github.com/harpreetsahota204/podcast-magic,Jupyter Notebook,2023-09-06T17:47:12Z,2023-09-07T01:48:17Z,1,0,0,
+255,Build-and-deploy-RAG-in-AWS-Lambda-ECR,Alishaw99,My first LLMOPs deployment project,https://github.com/Alishaw99/Build-and-deploy-RAG-in-AWS-Lambda-ECR,Python,2024-05-19T17:04:13Z,2024-05-25T21:03:14Z,0,0,0,MIT License
+256,LLMOps-Practice,SamithChathuranga,LLMOps from Zero to Hero,https://github.com/SamithChathuranga/LLMOps-Practice,Jupyter Notebook,2024-01-31T16:14:43Z,2024-01-31T16:25:48Z,0,0,0,
+257,llmopsworkshop09,sbhuttan,Using azure/llmops-project-template,https://github.com/sbhuttan/llmopsworkshop09,Bicep,2024-08-29T15:47:39Z,2024-08-29T16:48:11Z,0,0,0,MIT License
+258,LLMOps_Specialization,vkms9417,All LLMOps notebooks available here,https://github.com/vkms9417/LLMOps_Specialization,,2024-08-22T06:05:14Z,2024-08-22T06:05:14Z,0,0,0,
+259,LLMOPSTradingBot,saquibshaikh433,,https://github.com/saquibshaikh433/LLMOPSTradingBot,,2024-06-22T15:10:56Z,2024-06-22T15:10:56Z,0,0,0,
+260,nisargs_llmops_project,nisargvp,End-2-End LLMOps Project,https://github.com/nisargvp/nisargs_llmops_project,Jupyter Notebook,2024-04-12T04:42:09Z,2024-04-12T05:52:35Z,0,0,0,MIT License
+261,llmops-training,hrisi0707,Training material from LLMops sessions,https://github.com/hrisi0707/llmops-training,Python,2024-06-03T05:28:11Z,2024-06-03T06:28:12Z,0,0,0,
+262,mlllm-devops,aiaicaramba,"MLOps, LLMOps, AI-Engineering 🤓",https://github.com/aiaicaramba/mlllm-devops,,2024-08-16T15:44:24Z,2024-08-16T16:10:17Z,0,0,0,MIT License
+263,docs,sunholo-data,Public documentation for Sunholo LLMOps,https://github.com/sunholo-data/docs,,2023-11-14T09:40:13Z,2023-11-14T09:40:47Z,0,0,0,
+264,LLMOps-practice,12Ashish1234,Practicing LLMOps using various platforms,https://github.com/12Ashish1234/LLMOps-practice,Jupyter Notebook,2024-05-07T13:50:10Z,2024-05-07T13:55:09Z,0,0,0,
+265,malaysian-llmops,malaysia-ai,End-to-End Malaysian LLMOps.,https://github.com/malaysia-ai/malaysian-llmops,,2023-11-02T11:25:08Z,2024-06-23T09:51:26Z,1,0,0,MIT License
+266,LLMOpsFeedback,collabllm,,https://github.com/collabllm/LLMOpsFeedback,Python,2023-10-19T16:24:46Z,2023-10-19T16:25:32Z,0,0,0,
+267,LLMOps,lawrenceemenike,A repo for everything LLMOps,https://github.com/lawrenceemenike/LLMOps,Jupyter Notebook,2024-07-09T13:21:57Z,2024-07-09T13:27:45Z,0,0,0,MIT License
+268,llmops1,fatima-cyber,First repo on llms and rag,https://github.com/fatima-cyber/llmops1,,2024-05-08T17:25:49Z,2024-05-08T17:25:53Z,0,0,0,MIT License
+269,LLMopstradingBot,vikumar01,,https://github.com/vikumar01/LLMopstradingBot,,2024-09-26T14:09:59Z,2024-09-26T14:13:34Z,0,0,0,MIT License
+270,LLMOpsEdu,Sung-Chun,,https://github.com/Sung-Chun/LLMOpsEdu,Jupyter Notebook,2024-08-02T03:49:21Z,2024-08-02T06:06:15Z,0,1,0,
+271,llmops1,saurabhagarwal07,,https://github.com/saurabhagarwal07/llmops1,Bicep,2024-09-13T19:30:15Z,2024-09-13T19:30:30Z,0,0,0,MIT License
+272,LlmopsDemo,CFUserForBug,,https://github.com/CFUserForBug/LlmopsDemo,Bicep,2024-08-14T04:38:40Z,2024-08-14T04:38:53Z,0,0,0,MIT License
+273,llmops-roadmap-2024,marvelousmlops,The resources to learn LLMOps.,https://github.com/marvelousmlops/llmops-roadmap-2024,,2024-02-15T12:54:08Z,2024-02-15T12:54:08Z,0,0,0,
+274,LLMOpsCourse,toddllm,,https://github.com/toddllm/LLMOpsCourse,Python,2023-08-22T01:08:54Z,2023-08-22T01:11:59Z,0,0,0,Apache License 2.0
+275,docs,trypromptly,Documentation for Promptly platform,https://github.com/trypromptly/docs,JavaScript,2024-01-22T04:27:48Z,2024-09-25T19:40:22Z,2,2,0,MIT License
+276,LLMOps,rcwaterman,AI Makerspace LLMOps bootcamp course work.,https://github.com/rcwaterman/LLMOps,Python,2024-03-27T23:39:47Z,2024-05-27T16:36:10Z,0,0,0,MIT License
+277,LLMOPSTradingBots,saquibshaikh433,,https://github.com/saquibshaikh433/LLMOPSTradingBots,Python,2024-06-22T15:12:47Z,2024-06-30T14:42:56Z,0,0,0,MIT License
+278,llmopsworkshop08,sbhuttan,,https://github.com/sbhuttan/llmopsworkshop08,Python,2024-08-29T02:21:31Z,2024-08-29T02:23:10Z,0,0,0,Other
+279,llmopsworkshop11,sbhuttan,,https://github.com/sbhuttan/llmopsworkshop11,Bicep,2024-08-29T18:25:51Z,2024-08-30T15:54:08Z,0,0,0,MIT License
+280,llmops1,learning021,,https://github.com/learning021/llmops1,Bicep,2024-09-18T04:35:21Z,2024-09-18T04:37:36Z,0,0,0,MIT License
+281,LLMOPS2,nikosoukov,,https://github.com/nikosoukov/LLMOPS2,Bicep,2024-09-13T20:17:30Z,2024-09-13T20:25:46Z,0,0,0,MIT License
+282,LLMOpsKubeflow,ArianFotouhi,,https://github.com/ArianFotouhi/LLMOpsKubeflow,Python,2024-06-20T20:34:26Z,2024-06-20T20:43:08Z,0,0,0,
+283,llmopsNexus,neelgandhi108,,https://github.com/neelgandhi108/llmopsNexus,Python,2024-01-12T03:57:32Z,2024-01-13T23:41:11Z,0,0,0,
+284,LLMOpsTemplate,hannahalisha1,,https://github.com/hannahalisha1/LLMOpsTemplate,Bicep,2024-09-13T18:03:09Z,2024-09-13T19:36:03Z,0,0,0,MIT License
+285,LLMOpsEdu,rupin9,,https://github.com/rupin9/LLMOpsEdu,Jupyter Notebook,2024-08-09T00:52:54Z,2024-08-14T05:50:11Z,0,0,0,
+286,LLMOpsBasic,Balla-Jagadeesh,,https://github.com/Balla-Jagadeesh/LLMOpsBasic,,2024-04-24T05:12:27Z,2024-04-24T05:37:18Z,0,0,0,MIT License
+287,llmops-swift,nogibjj,Examples of a Swift LLMOps Course,https://github.com/nogibjj/llmops-swift,,2023-09-26T19:19:12Z,2023-09-26T19:19:12Z,0,0,0,Creative Commons Zero v1.0 Universal
+288,mini-capstone-project,sumitcola,llmops mini capstone project on RAG,https://github.com/sumitcola/mini-capstone-project,Python,2024-09-22T15:47:16Z,2024-09-23T10:21:01Z,0,0,0,
+289,LLMOpsGenPjt,sunithalv,,https://github.com/sunithalv/LLMOpsGenPjt,Python,2024-04-27T13:15:19Z,2024-05-05T12:01:24Z,0,0,0,MIT License
+290,LLMopsTradingBot,kiranmaiboda,,https://github.com/kiranmaiboda/LLMopsTradingBot,Python,2024-08-08T10:48:14Z,2024-08-10T10:11:43Z,0,0,0,
+291,LLMOps,yang0369,Explore Azure ML pipeline for LLMOps,https://github.com/yang0369/LLMOps,,2024-02-28T04:08:59Z,2024-02-28T07:16:59Z,0,0,0,Apache License 2.0
+292,streamlit-rag-app,Rishabh1501,RAG application using streamlit and LLMOPS,https://github.com/Rishabh1501/streamlit-rag-app,Python,2024-05-17T04:11:15Z,2024-05-20T15:45:17Z,0,0,0,
+293,LLMOpsCohort2,yilin2718,,https://github.com/yilin2718/LLMOpsCohort2,,2023-09-19T18:38:21Z,2023-09-19T18:38:22Z,0,0,0,MIT License
+294,llmopsTechExcel,nselvan20,,https://github.com/nselvan20/llmopsTechExcel,Bicep,2024-09-18T03:45:29Z,2024-09-18T05:12:31Z,0,0,0,MIT License
+295,llamaindex,ashwath987,create the application based on llmops,https://github.com/ashwath987/llamaindex,Python,2024-05-21T17:08:48Z,2024-05-21T17:11:15Z,0,0,0,
+296,LangSmith,rakeshrau,"LangSmith helps in LLMOps,Monitoring,Observability",https://github.com/rakeshrau/LangSmith,Jupyter Notebook,2024-05-15T06:05:48Z,2024-05-28T11:58:57Z,0,0,0,
+297,LLMOpsTradingBot,Abhikudale,,https://github.com/Abhikudale/LLMOpsTradingBot,Jupyter Notebook,2024-06-23T06:24:51Z,2024-06-30T17:53:33Z,0,0,0,MIT License
+298,autoboot_langchain,yizzuide,autoboot integrates with langchain for LLMOps,https://github.com/yizzuide/autoboot_langchain,Python,2023-11-16T06:15:07Z,2023-11-16T06:16:14Z,0,0,0,MIT License
+299,LLMOpsVectorDB,sudhakarmlal,,https://github.com/sudhakarmlal/LLMOpsVectorDB,Jupyter Notebook,2024-07-18T09:40:27Z,2024-07-19T00:53:39Z,0,0,0,
+300,LLMopsInitialDev,Thireshsidda,,https://github.com/Thireshsidda/LLMopsInitialDev,Python,2024-06-20T08:56:41Z,2024-08-18T11:19:43Z,1,0,0,
+301,LLMOps,leehanchung,,https://github.com/leehanchung/LLMOps,,2023-02-22T20:18:50Z,2023-02-22T20:18:50Z,0,0,0,GNU General Public License v3.0
+302,LLMops,yingjiema,,https://github.com/yingjiema/LLMops,Jupyter Notebook,2023-08-20T19:59:49Z,2023-08-20T20:01:10Z,0,0,0,
+303,LLMops,manishn1202,,https://github.com/manishn1202/LLMops,,2023-08-25T02:08:05Z,2023-08-25T02:08:06Z,0,0,0,
+304,LLMOps,RubenAMtz,,https://github.com/RubenAMtz/LLMOps,Python,2023-11-30T19:12:31Z,2023-11-30T22:24:20Z,0,0,0,MIT License
+305,LLMops,abhishekkr9,,https://github.com/abhishekkr9/LLMops,,2024-03-23T15:48:47Z,2024-03-23T15:48:48Z,0,0,0,
+306,LLMOps,mano3-1,,https://github.com/mano3-1/LLMOps,Python,2024-05-08T18:22:37Z,2024-05-08T18:22:45Z,0,0,0,
+307,LLMOps,waelkensp,LLM,https://github.com/waelkensp/LLMOps,,2024-04-21T09:10:55Z,2024-04-21T09:10:59Z,0,0,0,
+308,LLMOPS,AKISHPOTHURI,,https://github.com/AKISHPOTHURI/LLMOPS,Jupyter Notebook,2024-03-03T07:05:59Z,2024-04-23T17:14:29Z,0,0,0,MIT License
+309,LLMOps,bilin1219,,https://github.com/bilin1219/LLMOps,Jupyter Notebook,2024-04-29T20:03:24Z,2024-04-29T20:14:42Z,0,0,0,
+310,LLMOps,saikotek,,https://github.com/saikotek/LLMOps,Python,2024-01-01T15:27:24Z,2024-01-01T15:28:11Z,0,0,0,MIT License
+311,llmops,daniel-tomiwa,This repository contains the assignments and content covered during LLMOps zoomcamp,https://github.com/daniel-tomiwa/llmops,Jupyter Notebook,2024-06-25T00:23:49Z,2024-08-07T03:30:38Z,0,0,0,
+312,LLMOps,michaelmorley1,,https://github.com/michaelmorley1/LLMOps,JavaScript,2024-08-08T15:17:22Z,2024-08-08T16:57:39Z,0,0,0,
+313,llmops,sergioov,,https://github.com/sergioov/llmops,Bicep,2024-08-14T14:41:07Z,2024-08-15T17:05:44Z,0,0,0,MIT License
+314,LLMOPS,rockey05,,https://github.com/rockey05/LLMOPS,HTML,2024-05-31T09:34:08Z,2024-09-01T11:23:12Z,0,0,0,
+315,llmops,saurabhagarwal07,,https://github.com/saurabhagarwal07/llmops,,2024-09-13T19:09:31Z,2024-09-13T19:09:34Z,0,0,0,
+316,langscout,CapgeminiInventUK,Open source LLM trace tool for Langchain built on MongoDB,https://github.com/CapgeminiInventUK/langscout,TypeScript,2023-12-24T17:04:11Z,2024-10-02T19:14:10Z,11,1,13,GNU General Public License v3.0
+317,llm-prompt-testing,iamarunbrahma,Prompt Testing framework for LLMs (specifically OpenAI models). Compute NLP and Responsible AI metrics for each model-generated answer.,https://github.com/iamarunbrahma/llm-prompt-testing,Python,2023-10-24T17:37:07Z,2024-08-07T08:39:34Z,8,0,0,MIT License
+318,Awesome-LLM-Productization,oscinis-com,Awesome-LLM-Productization: a curated list of tools/tricks/news/regulations about AI and Large Language Model (LLM) productization,https://github.com/oscinis-com/Awesome-LLM-Productization,,2023-10-07T22:06:23Z,2024-07-30T03:43:40Z,20,4,1,Other
+319,ai-project-template,Shekswess,This is the code repository for the AI project template. The idea of this template is to have a code framework prepared for any AI/ML/MLOps/LLMOps project,https://github.com/Shekswess/ai-project-template,Python,2024-09-17T09:58:17Z,2024-10-04T09:19:54Z,4,1,0,
+320,llmops,AmitKus,,https://github.com/AmitKus/llmops,,2023-10-04T14:24:15Z,2023-10-04T14:24:17Z,0,0,0,
+321,LLMOps,darkanita,,https://github.com/darkanita/LLMOps,,2023-08-24T19:38:43Z,2023-08-24T19:38:43Z,0,0,0,
+322,LLMOps,bhoop70233,,https://github.com/bhoop70233/LLMOps,Jupyter Notebook,2024-07-24T12:40:59Z,2024-07-24T12:46:00Z,0,0,0,
+323,llmops,sabertobihwy,,https://github.com/sabertobihwy/llmops,Python,2024-06-28T03:15:31Z,2024-07-13T00:49:54Z,0,0,0,
+324,LLMOps,frustea,,https://github.com/frustea/LLMOps,Jupyter Notebook,2023-07-13T22:36:15Z,2023-12-07T01:59:06Z,0,0,0,
+325,LLMOps,pdcodes,,https://github.com/pdcodes/LLMOps,Python,2024-05-26T21:56:36Z,2024-05-26T22:41:12Z,0,0,0,MIT License
+326,LLMOps,WaqasAli-Munawar,,https://github.com/WaqasAli-Munawar/LLMOps,Jupyter Notebook,2024-06-24T06:01:12Z,2024-06-24T08:39:15Z,0,0,0,
+327,LLMOPS,nikosoukov,,https://github.com/nikosoukov/LLMOPS,,2024-09-13T19:24:27Z,2024-09-13T19:24:27Z,0,0,0,
+328,llmops,radochre,,https://github.com/radochre/llmops,Bicep,2024-09-20T10:46:10Z,2024-09-20T10:46:19Z,0,0,0,MIT License
+329,LLMOPS,skkumin,How to use LLM in Business,https://github.com/skkumin/LLMOPS,Python,2023-05-31T06:01:25Z,2023-05-31T06:36:29Z,0,1,0,
+330,LLMops,vaibhawkhemka,,https://github.com/vaibhawkhemka/LLMops,Python,2024-01-29T08:13:25Z,2024-01-29T08:53:15Z,0,0,0,MIT License
+331,LLMOps,RomanRosa,,https://github.com/RomanRosa/LLMOps,,2024-01-24T18:31:47Z,2024-01-24T18:31:47Z,0,0,0,
+332,llmops,Dhavalm24,,https://github.com/Dhavalm24/llmops,,2024-04-24T09:18:50Z,2024-04-24T10:18:00Z,0,0,0,
+333,LLMOps,GarimaSolanki18,,https://github.com/GarimaSolanki18/LLMOps,C,2024-04-22T11:02:29Z,2024-04-29T11:14:49Z,0,0,0,MIT License
+334,LLMOps,agune,,https://github.com/agune/LLMOps,,2024-04-29T12:00:42Z,2024-05-20T06:02:11Z,0,0,0,
+335,LLMOps,farah-BA,"Ce projet vise à fournir une solution complète d'orchestration pour des modèles LLM & Embedding, en utilisant Kubernetes pour le déploiement et la gestion des conteneurs.",https://github.com/farah-BA/LLMOps,Python,2024-03-14T11:56:07Z,2024-05-23T13:12:04Z,1,0,0,
+336,LLMops,Agrawal-Krishna,Various projects using LLMs,https://github.com/Agrawal-Krishna/LLMops,,2024-08-22T19:20:00Z,2024-08-22T19:20:04Z,0,0,0,
+337,llmops,ryanMicrosoftTest,,https://github.com/ryanMicrosoftTest/llmops,PowerShell,2024-08-23T15:20:05Z,2024-08-23T17:32:16Z,0,0,0,MIT License
+338,llmops,georgeliang0821,,https://github.com/georgeliang0821/llmops,Shell,2024-09-18T02:40:55Z,2024-09-18T03:42:20Z,0,0,0,MIT License
+339,LLMOps,steffenkk,,https://github.com/steffenkk/LLMOps,,2023-04-27T14:50:34Z,2023-04-27T16:46:59Z,0,0,0,
+340,LLMOps,PanoEvJ,,https://github.com/PanoEvJ/LLMOps,Jupyter Notebook,2023-08-19T09:23:14Z,2023-08-20T14:01:00Z,0,0,0,MIT License
+341,llmops,Danselem,An LLM project utilising LLMs with CometML.,https://github.com/Danselem/llmops,Jupyter Notebook,2023-10-31T16:47:27Z,2023-10-31T18:45:37Z,0,0,0,MIT License
+342,llmops,siva-subramaniam-j,This is a repo of working haystack docker build,https://github.com/siva-subramaniam-j/llmops,Python,2024-07-29T17:18:15Z,2024-07-29T17:19:56Z,0,0,0,
+343,LLMOps,Vanshika-sh,,https://github.com/Vanshika-sh/LLMOps,,2024-05-19T04:25:15Z,2024-05-19T04:25:18Z,0,0,0,
+344,llmops,kunanba,,https://github.com/kunanba/llmops,Bicep,2024-09-13T18:22:33Z,2024-09-13T19:30:39Z,0,0,0,MIT License
+345,LLMOps,mobydi,,https://github.com/mobydi/LLMOps,Jupyter Notebook,2023-11-29T15:05:57Z,2023-11-29T15:06:47Z,0,0,0,
+346,LLmops,Abdullah-shamito,,https://github.com/Abdullah-shamito/LLmops,Jupyter Notebook,2024-06-20T15:09:18Z,2024-06-22T11:31:35Z,0,0,0,
+347,LLMOps,Abolfazl-Alipour,first shot at dr lm,https://github.com/Abolfazl-Alipour/LLMOps,Python,2024-01-21T16:06:47Z,2024-01-21T22:48:48Z,0,0,0,
+348,llmops,usman221,,https://github.com/usman221/llmops,,2024-02-18T07:27:34Z,2024-02-18T12:02:27Z,0,0,0,
+349,llmops,Nizarel,,https://github.com/Nizarel/llmops,Bicep,2024-09-13T18:18:16Z,2024-09-13T18:22:15Z,0,0,0,MIT License
+350,LLMOps,mohamedhassan218,Manual code during study the short course of LLMOps from DeepLearning.AI,https://github.com/mohamedhassan218/LLMOps,Jupyter Notebook,2024-04-25T08:53:14Z,2024-04-26T05:40:39Z,0,0,0,
+351,LLMOPS,sheriff786,learning_LLMOPS,https://github.com/sheriff786/LLMOPS,Python,2024-06-07T03:43:27Z,2024-06-07T03:58:50Z,0,0,0,
+352,LLMOps,rovenr12,,https://github.com/rovenr12/LLMOps,Python,2024-06-16T15:44:27Z,2024-07-19T06:05:26Z,0,0,0,
+353,LLMOps,AyanChawla,,https://github.com/AyanChawla/LLMOps,Bicep,2024-08-14T01:59:00Z,2024-08-14T02:39:37Z,0,0,1,MIT License
+354,llmops,jay1308-code,,https://github.com/jay1308-code/llmops,,2024-04-16T11:04:45Z,2024-04-16T11:04:45Z,0,0,0,
+355,llmops,safeerkpp,,https://github.com/safeerkpp/llmops,,2024-06-06T15:55:16Z,2024-06-06T16:36:45Z,0,0,0,MIT License
+356,LLMOps,taaha3244,Creating an LLM app which will be deployed,https://github.com/taaha3244/LLMOps,Python,2024-07-31T12:51:37Z,2024-08-20T17:07:43Z,0,1,0,
+357,LLMOps,dev-hjJoo,"LLMOps에 대한 개념 이해 및 관련 플랫폼(VertexAI, SageMaker) 조사",https://github.com/dev-hjJoo/LLMOps,,2024-08-23T09:33:02Z,2024-08-23T09:33:05Z,0,0,0,MIT License
+358,LLMOps,anikalshetty,,https://github.com/anikalshetty/LLMOps,,2024-08-23T05:28:57Z,2024-08-23T05:28:57Z,0,0,0,
+359,llmops,bdleavitt,,https://github.com/bdleavitt/llmops,Bicep,2024-09-13T18:53:26Z,2024-09-13T20:16:33Z,0,0,0,MIT License
+360,llmops,learning021,,https://github.com/learning021/llmops,Bicep,2024-09-18T03:16:33Z,2024-09-18T03:46:24Z,0,0,0,MIT License
+361,Learn-LLMOps,sachs7,Practice projects from Udacity's LLMOps course.,https://github.com/sachs7/Learn-LLMOps,Jupyter Notebook,2024-01-29T19:53:36Z,2024-02-02T17:10:01Z,0,0,0,MIT License
+362,llmops,zhangshuguang,,https://github.com/zhangshuguang/llmops,Jupyter Notebook,2023-08-22T03:04:06Z,2023-08-22T03:12:02Z,0,0,0,
+363,llmops,jseims,,https://github.com/jseims/llmops,Python,2023-09-05T05:12:22Z,2023-09-05T05:26:02Z,0,0,0,
+364,llmops,ravi46931,Build and Deploy RAG Application in AWS,https://github.com/ravi46931/llmops,Python,2024-05-10T04:36:33Z,2024-05-25T15:11:38Z,1,0,0,
+365,LLMOps,Mona3087,,https://github.com/Mona3087/LLMOps,Jupyter Notebook,2024-04-04T19:27:15Z,2024-05-10T19:17:59Z,0,0,0,
+366,llmops,sohamda,,https://github.com/sohamda/llmops,Bicep,2024-08-22T10:23:32Z,2024-08-22T12:16:48Z,0,0,0,MIT License
+367,LLMOps,kgreed4,,https://github.com/kgreed4/LLMOps,Python,2024-06-10T15:18:20Z,2024-09-04T05:15:21Z,0,0,0,
+368,LLMOps,iamkirankumaryadav,Large Language Model Operations,https://github.com/iamkirankumaryadav/LLMOps,,2024-09-06T09:01:51Z,2024-09-12T06:40:44Z,0,0,0,
+369,llmops,martaldsantos,,https://github.com/martaldsantos/llmops,Bicep,2024-09-20T11:58:02Z,2024-09-20T11:58:10Z,0,0,0,MIT License
+370,LLMops,SanjogKP,,https://github.com/SanjogKP/LLMops,Jupyter Notebook,2023-12-09T14:18:07Z,2023-12-09T14:21:44Z,0,0,0,
+371,llmops,RyanWri,LLMOps & ML Deployment: Bring LLMs and GenAI to Production,https://github.com/RyanWri/llmops,Python,2024-06-23T10:24:10Z,2024-06-24T09:46:34Z,0,0,1,
+372,LLMOps,ashish9696,,https://github.com/ashish9696/LLMOps,Jupyter Notebook,2024-02-08T18:23:38Z,2024-02-08T18:24:40Z,0,0,0,
+373,LLMops,rahul6796,,https://github.com/rahul6796/LLMops,Python,2024-02-17T07:58:30Z,2024-02-17T08:25:00Z,0,0,0,MIT License
+374,LLMops,jhohann,,https://github.com/jhohann/LLMops,HTML,2024-03-09T00:52:54Z,2024-03-09T00:55:50Z,0,0,0,
+375,llmops,philmui,,https://github.com/philmui/llmops,Jupyter Notebook,2024-04-01T01:19:33Z,2024-04-01T01:21:15Z,0,0,0,
+376,LLMOps,eulerianKnight,,https://github.com/eulerianKnight/LLMOps,,2024-05-30T06:24:12Z,2024-05-30T06:24:15Z,0,0,0,Apache License 2.0
+377,LLMOps,insightlake,,https://github.com/insightlake/LLMOps,,2023-08-28T20:41:11Z,2023-08-28T20:41:11Z,0,0,0,
+378,LLMOps,vegaByte,,https://github.com/vegaByte/LLMOps,Jupyter Notebook,2024-02-02T14:39:16Z,2024-02-03T16:47:39Z,0,0,0,
+379,LLMOps,madhavkarri,,https://github.com/madhavkarri/LLMOps,Jupyter Notebook,2024-06-20T19:16:24Z,2024-06-21T15:09:55Z,0,0,0,
+380,llmops,harryarce,,https://github.com/harryarce/llmops,PowerShell,2024-08-07T18:00:22Z,2024-08-07T18:02:51Z,0,0,1,MIT License
+381,LLMOps,leelasankar,,https://github.com/leelasankar/LLMOps,Jupyter Notebook,2024-07-19T14:32:52Z,2024-08-12T05:18:45Z,1,0,0,MIT License
+382,llmops,LeeNC,,https://github.com/LeeNC/llmops,Bicep,2024-08-14T02:19:50Z,2024-08-14T02:20:14Z,0,0,1,MIT License
+383,llmops,minkj1992,,https://github.com/minkj1992/llmops,Jupyter Notebook,2023-11-28T06:12:25Z,2023-11-28T07:05:01Z,0,0,0,
+384,LLMOps,LucasGoomes,,https://github.com/LucasGoomes/LLMOps,Jupyter Notebook,2024-01-19T15:28:06Z,2024-01-19T17:12:38Z,0,0,0,
+385,llmops,adityachandupatla,Sample LLM Ops workflow for guidance,https://github.com/adityachandupatla/llmops,,2024-02-26T12:00:22Z,2024-02-26T12:00:23Z,0,0,0,
+386,LLMOps,DominiqueCombray,,https://github.com/DominiqueCombray/LLMOps,Python,2024-03-27T11:43:29Z,2024-03-27T13:39:41Z,0,0,0,
+387,LLMOps,Huanli-Gong,,https://github.com/Huanli-Gong/LLMOps,Python,2024-05-02T03:12:02Z,2024-05-02T03:14:48Z,0,0,0,
+388,LLMops,jsebastianquiroga,,https://github.com/jsebastianquiroga/LLMops,Jupyter Notebook,2024-05-14T01:00:30Z,2024-05-22T02:31:01Z,0,0,0,
+389,LLMOPS,himakarbavikaty,,https://github.com/himakarbavikaty/LLMOPS,Python,2024-06-02T14:07:51Z,2024-06-02T14:56:05Z,0,0,0,
+390,LLMOps,4trisidoan,,https://github.com/4trisidoan/LLMOps,Jupyter Notebook,2024-06-12T16:56:41Z,2024-06-13T01:33:20Z,0,0,0,
+391,LLMOPS,tejaswaroopkarpuram,,https://github.com/tejaswaroopkarpuram/LLMOPS,,2024-06-14T08:11:38Z,2024-06-14T08:11:39Z,0,0,0,
+392,llmops,cynthiajiangatl,,https://github.com/cynthiajiangatl/llmops,Bicep,2024-08-07T15:32:59Z,2024-08-08T20:34:51Z,1,0,1,MIT License
+393,llmops,aleenavigoda,,https://github.com/aleenavigoda/llmops,Python,2024-08-26T21:31:07Z,2024-08-26T23:08:31Z,0,0,0,MIT License
+394,LLMOps,ritehgaire,,https://github.com/ritehgaire/LLMOps,Jupyter Notebook,2024-09-14T06:57:13Z,2024-09-14T06:57:19Z,0,0,0,
+395,LLMOps,Anschoudary,This repository includes notebooks about LLMOps with google cloud downloaded from DeepLearning course.,https://github.com/Anschoudary/LLMOps,Jupyter Notebook,2024-09-18T18:54:19Z,2024-09-18T23:36:59Z,0,0,0,
+396,nutcracker,brucewlee,Large Model Evaluation Experiments,https://github.com/brucewlee/nutcracker,Python,2024-02-04T15:47:29Z,2024-10-06T16:20:50Z,7,1,0,Other
+397,LLMOps,MG-Microsoft,,https://github.com/MG-Microsoft/LLMOps,Python,2023-09-24T21:32:26Z,2023-09-24T21:33:09Z,0,0,0,MIT License
+398,llmops,Farhad-Heybati,,https://github.com/Farhad-Heybati/llmops,Bicep,2024-09-20T10:53:32Z,2024-09-20T10:53:41Z,0,0,1,MIT License
+399,llmops,ms-zheny,,https://github.com/ms-zheny/llmops,Bicep,2024-09-18T02:15:42Z,2024-09-18T02:31:36Z,0,0,1,MIT License
+400,LLMOps,taiwan0228,This is for taking LLMOps bootcamp from AI Maker Space,https://github.com/taiwan0228/LLMOps,Jupyter Notebook,2024-05-27T04:04:16Z,2024-06-05T11:17:09Z,0,0,0,MIT License
+401,LLMops,ms241g,,https://github.com/ms241g/LLMops,Jupyter Notebook,2024-06-10T11:58:44Z,2024-06-10T11:58:52Z,0,0,0,
+402,llmops,Famz21,,https://github.com/Famz21/llmops,Jupyter Notebook,2024-07-25T07:07:01Z,2024-07-25T07:50:05Z,0,0,0,MIT License
+403,LLMOps,Samia-Iftikhar,RAG,https://github.com/Samia-Iftikhar/LLMOps,Python,2024-08-06T15:13:25Z,2024-08-06T17:12:50Z,0,0,0,
+404,llmops,titaniper,,https://github.com/titaniper/llmops,,2024-08-04T11:37:52Z,2024-09-10T04:39:11Z,0,0,0,
+405,LLMOps,jetztlos,,https://github.com/jetztlos/LLMOps,Jupyter Notebook,2024-09-02T17:08:35Z,2024-09-03T15:33:10Z,0,0,0,
+406,llm-cloudera-blxnor,Dylienne,Experimental repository for LLM // LLMOps // Web // GCP // CML,https://github.com/Dylienne/llm-cloudera-blxnor,,2023-08-08T16:42:12Z,2023-08-08T16:42:12Z,0,0,0,Mozilla Public License 2.0
+407,proboost-intro-to-ml,bshevchuk,"Робочий репозиторій для мінікурсу ""Вступ до MLOps/LLMOps""",https://github.com/bshevchuk/proboost-intro-to-ml,,2023-10-15T10:05:28Z,2023-10-15T11:39:52Z,0,0,1,
+408,SmartLLMOps,Ra-works,Smarter LLMOps framework for cost and resource optimization,https://github.com/Ra-works/SmartLLMOps,,2024-03-29T16:09:32Z,2024-03-29T16:09:32Z,0,0,0,
+409,LLMOps,zang-kartik,,https://github.com/zang-kartik/LLMOps,,2023-08-29T09:00:41Z,2023-08-29T11:33:07Z,0,0,0,
+410,LLMOPs,monaejam,for AI Class,https://github.com/monaejam/LLMOPs,,2024-01-26T04:59:19Z,2024-02-27T00:43:16Z,0,0,0,MIT License
+411,LLMOps,coderkol95,Attempt at doing MLOps implementation at transformers,https://github.com/coderkol95/LLMOps,Jupyter Notebook,2023-09-05T05:56:15Z,2024-08-13T12:43:26Z,0,0,0,
+412,LLMOps,phitrann,,https://github.com/phitrann/LLMOps,Python,2024-08-15T02:37:45Z,2024-08-20T16:49:20Z,0,0,0,
+413,LLMOps,gmgu,,https://github.com/gmgu/LLMOps,Python,2024-02-14T11:43:58Z,2024-03-10T10:30:34Z,0,0,0,
+414,LLMOps,OG-Data-Ops,This repository will be for all things related to Large-Language Model Operations.,https://github.com/OG-Data-Ops/LLMOps,,2024-09-20T21:03:32Z,2024-09-20T21:03:36Z,0,0,0,MIT License
+415,LLMOPs_comet_course,joelorellana,Course to use LLMOps from Comet ML Framework,https://github.com/joelorellana/LLMOPs_comet_course,Jupyter Notebook,2023-10-31T21:11:46Z,2023-10-31T21:36:59Z,0,0,0,
+416,LLMOps-,MuhammadHamidKhan2224,A rep for small llm project ,https://github.com/MuhammadHamidKhan2224/LLMOps-,,2024-08-06T15:11:13Z,2024-08-06T15:11:16Z,0,0,0,
+417,llmops,dcnsakthi,,https://github.com/dcnsakthi/llmops,Bicep,2024-08-14T05:24:20Z,2024-08-14T05:25:13Z,0,0,1,MIT License
+418,llmops,supaify,,https://github.com/supaify/llmops,,2024-04-22T07:01:33Z,2024-04-22T07:02:58Z,0,0,0,GNU General Public License v3.0
+419,LLMOPS,naveenvaddavalli,,https://github.com/naveenvaddavalli/LLMOPS,Python,2024-05-09T15:55:25Z,2024-05-09T15:59:49Z,0,0,0,MIT License
+420,llmops,lavinigam-gcp,,https://github.com/lavinigam-gcp/llmops,,2024-05-26T06:12:47Z,2024-05-26T07:06:36Z,0,0,0,
+421,LLMOPS,nagababumo,,https://github.com/nagababumo/LLMOPS,Jupyter Notebook,2024-06-03T17:00:22Z,2024-06-04T04:01:29Z,0,0,0,
+422,LLMOps,LaeeqAhmadk,A repository for production ready small LLM application,https://github.com/LaeeqAhmadk/LLMOps,Python,2024-09-08T11:35:39Z,2024-09-08T19:43:28Z,0,0,0,
+423,LLMOps,thetongs,,https://github.com/thetongs/LLMOps,Jupyter Notebook,2024-09-10T09:42:31Z,2024-09-10T10:04:44Z,0,0,0,
+424,llmops,llmops-project-template,,https://github.com/llmops-project-template/llmops,,2024-09-25T10:27:06Z,2024-09-25T10:27:07Z,0,0,0,
+425,LargeDocumentSummarization,VectifyAI,Optimal Chunk Size for Large Document Summarization,https://github.com/VectifyAI/LargeDocumentSummarization,Jupyter Notebook,2023-08-23T10:04:42Z,2024-07-05T12:46:12Z,20,1,0,
+426,my-rag-project,bassampourco,this is to showcase llmops using github action,https://github.com/bassampourco/my-rag-project,Bicep,2024-09-23T13:19:43Z,2024-09-23T13:24:32Z,0,0,0,MIT License
+427,AWS-LLMops,SagarAI-ops,LLMOPS end to end using AWS for deployment.,https://github.com/SagarAI-ops/AWS-LLMops,Python,2024-08-07T18:38:18Z,2024-08-17T10:58:28Z,0,0,0,
+428,AI-Image-Recogniton-Chatbot-LLM-Model,imSanko,This is an AI-Gemini Chatbot LLM And Large Image Model Application. You can use this project run into local and ask you images like your talking with in realtime,https://github.com/imSanko/AI-Image-Recogniton-Chatbot-LLM-Model,Python,2024-04-29T16:31:33Z,2024-09-30T14:44:12Z,3,4,0,MIT License
+429,llmops,ashish-kamboj,Building and Deploying LLM models,https://github.com/ashish-kamboj/llmops,Python,2023-08-06T16:43:14Z,2023-10-01T11:13:55Z,0,0,0,
+430,llmops,unsafecode,,https://github.com/unsafecode/llmops,Bicep,2024-08-22T10:22:04Z,2024-08-22T10:56:35Z,0,0,1,MIT License
+431,LLMops,dhavalantala,,https://github.com/dhavalantala/LLMops,,2024-07-30T08:27:56Z,2024-08-23T10:42:05Z,0,0,0,GNU General Public License v3.0
+432,llmops,santoshK90,,https://github.com/santoshK90/llmops,Python,2024-07-09T05:58:57Z,2024-09-06T18:34:09Z,0,0,0,
+433,llmops,prwani,,https://github.com/prwani/llmops,Bicep,2024-09-18T04:30:31Z,2024-09-18T05:27:09Z,0,0,0,MIT License
+434,llmops,tonyxone,,https://github.com/tonyxone/llmops,Python,2024-08-09T06:52:20Z,2024-09-20T05:27:32Z,0,0,0,
+435,guidance-for-dynamic-game-npc-dialogue-on-aws,aws-solutions-library-samples,"This guidance helps game developers automate the process of creating a non-player character (NPC) for their games, and associated infrastructure, that leverage Unreal Engine MetaHuman, Large Language Models Operations (LLMOps), and generative AI to improve NPC conversational skills.",https://github.com/aws-solutions-library-samples/guidance-for-dynamic-game-npc-dialogue-on-aws,Python,2024-01-26T21:27:25Z,2024-10-02T00:23:28Z,7,1,1,MIT No Attribution
+436,LLMOps,DarryCrucian,"Experiments with LangChain, Vector Databases and DeepLake.",https://github.com/DarryCrucian/LLMOps,Jupyter Notebook,2023-06-27T08:02:57Z,2023-06-27T08:05:25Z,0,0,0,
+437,LLMOps,harisyammnv,,https://github.com/harisyammnv/LLMOps,Python,2023-12-01T00:54:49Z,2023-12-05T14:12:19Z,0,0,0,
+438,LLMOps,BistduwohlnichtganzbeiTrost,,https://github.com/BistduwohlnichtganzbeiTrost/LLMOps,Jupyter Notebook,2024-06-27T15:52:16Z,2024-06-27T16:01:48Z,0,0,0,
+439,LLMOps,VladimirsHisamutdinovs,LLM pipeline using Google Cloud Service,https://github.com/VladimirsHisamutdinovs/LLMOps,Jupyter Notebook,2024-07-04T04:47:15Z,2024-07-04T04:48:15Z,0,0,0,
+440,LLMOps,sarahcodebyte,,https://github.com/sarahcodebyte/LLMOps,,2024-04-06T18:25:01Z,2024-04-06T18:25:01Z,0,0,0,
+441,LLMOPS,bknithin,,https://github.com/bknithin/LLMOPS,Python,2024-05-17T05:06:12Z,2024-05-17T06:18:15Z,0,0,0,
+442,llmops,amrutaallundi,,https://github.com/amrutaallundi/llmops,Python,2024-05-24T04:21:27Z,2024-05-24T04:23:29Z,0,0,0,
+443,LLMOps,irtika98,,https://github.com/irtika98/LLMOps,Jupyter Notebook,2024-06-03T08:22:10Z,2024-06-03T08:24:52Z,0,0,0,
+444,LLMOps,ArslanKAS,"you’ll go through the LLMOps pipeline of pre-processing training data for supervised instruction tuning, and adapt a supervised tuning pipeline to train and deploy a custom LLM",https://github.com/ArslanKAS/LLMOps,Jupyter Notebook,2024-04-27T14:34:54Z,2024-04-27T18:03:41Z,0,0,0,
+445,LLMOps,singhsourav0,,https://github.com/singhsourav0/LLMOps,Jupyter Notebook,2024-05-04T19:20:23Z,2024-05-07T10:16:04Z,1,0,0,
+446,llmops,ppijbb,LLM Ops,https://github.com/ppijbb/llmops,Python,2024-07-18T08:24:41Z,2024-10-02T08:07:57Z,1,1,0,
+447,llmops,angelachapman,,https://github.com/angelachapman/llmops,Jupyter Notebook,2024-06-20T22:19:50Z,2024-10-03T23:35:33Z,0,0,0,MIT License
+448,llmtracer,BlackHC,"Trace LLM calls (and others) and visualize them in WandB, as interactive SVG or using a streaming local webapp",https://github.com/BlackHC/llmtracer,Python,2023-05-18T22:34:12Z,2024-08-02T18:16:30Z,13,0,5,GNU Lesser General Public License v3.0
+449,llmOps,Galatea-coder,,https://github.com/Galatea-coder/llmOps,Python,2024-07-23T14:53:59Z,2024-07-23T16:31:04Z,0,0,0,MIT License
+450,tvallogging,TonicAI,A tool for evaluating and tracking your RAG experiments. This repo contains the Python SDK for logging to Tonic Validate.,https://github.com/TonicAI/tvallogging,Python,2023-10-23T21:38:30Z,2024-04-30T21:48:10Z,7,2,1,MIT License
+451,hello-mlops,sivacit,This repo will contain MLOps and LLMOps codes,https://github.com/sivacit/hello-mlops,,2024-09-24T08:16:24Z,2024-09-24T08:16:27Z,0,0,0,Apache License 2.0
+452,chainlite,stanford-oval,LangChain + LiteLLM that works,https://github.com/stanford-oval/chainlite,Python,2024-05-19T03:41:13Z,2024-09-30T20:14:19Z,21,2,3,Apache License 2.0
+453,databases,geniusrise,A collection of Spouts that query databases,https://github.com/geniusrise/databases,Python,2023-09-14T18:54:44Z,2024-05-30T08:37:29Z,2,4,0,Apache License 2.0
+454,geniusrise-prompt-actions,geniusrise,Bolts that read data and perform chains of actions with prompts,https://github.com/geniusrise/geniusrise-prompt-actions,Python,2023-09-16T03:48:38Z,2024-08-03T08:18:37Z,4,2,0,
+455,llmops-brief-tutorials,goabiaryan,Tutorials on LLMOps by Andy McMahon and Abi Aryan,https://github.com/goabiaryan/llmops-brief-tutorials,,2023-07-24T07:50:55Z,2023-07-24T07:50:56Z,0,0,0,
+456,LLMOPS_Handson,rairohit298,This Repo will contain the experiment performed for LLMOPS,https://github.com/rairohit298/LLMOPS_Handson,,2024-09-02T10:09:36Z,2024-09-02T10:09:41Z,0,0,0,
+457,build_langsmith_agent_api,guimaraesabrina,[💻] Repository dedicated to building an API using FastAPI of a Generative AI service using Langchain Agents and prompts in LangSmith's LangHub.,https://github.com/guimaraesabrina/build_langsmith_agent_api,Python,2024-04-16T02:49:04Z,2024-09-06T16:46:52Z,3,3,0,
+458,solo-server,AIEngineersDev,Simple server to manage compound AI,https://github.com/AIEngineersDev/solo-server,Python,2024-06-30T00:29:18Z,2024-10-05T03:29:56Z,18,3,1,
+459,llm-playground,AndyMc629,Materials for my own learning on LLMs and LLMOps.,https://github.com/AndyMc629/llm-playground,Jupyter Notebook,2023-12-27T20:47:26Z,2024-02-24T11:03:10Z,1,1,0,MIT License
+460,OpenLab-LLMOps,yn-e-si,SK Devocean OpenLab Study: LLMOps 를 위한 Study Repo,https://github.com/yn-e-si/OpenLab-LLMOps,,2024-05-01T07:09:57Z,2024-05-01T07:10:01Z,0,0,0,
+461,bosquet-workshop,jwalsh,LLMOps for Large Language Model-based applications in Clojure,https://github.com/jwalsh/bosquet-workshop,Clojure,2023-11-21T14:46:00Z,2024-08-06T10:51:00Z,0,0,0,Other
+462,llmops_classroom_training,BhanuPrakashSamoju,Tredence Classroom training for the LLMOps using Azure Stack,https://github.com/BhanuPrakashSamoju/llmops_classroom_training,,2024-08-26T02:57:33Z,2024-08-26T02:58:42Z,0,0,0,MIT License
+463,llmops-workshop,GlazkoAE,Воркшоп для AI Talent Camp 2023. LLMOps - ускоряем инференс. ,https://github.com/GlazkoAE/llmops-workshop,Python,2023-12-13T17:44:15Z,2023-12-13T17:46:45Z,0,0,0,MIT License
+464,BYOSC-Build-Your-Own-Scalable-Chatbots,matteocirca,Let's build our own scalable chatbots for the Scalable Machine Learning and Deep Learning course at KTH!!,https://github.com/matteocirca/BYOSC-Build-Your-Own-Scalable-Chatbots,Jupyter Notebook,2023-12-14T11:04:51Z,2024-09-24T10:10:31Z,9,1,0,
+465,llmops_langchain_pygrunn_2024,RIG-MYCELIA,LLMOps with LangChain for the conference of PyGrunn in 2024,https://github.com/RIG-MYCELIA/llmops_langchain_pygrunn_2024,Python,2024-04-11T11:44:17Z,2024-10-01T13:48:11Z,0,0,0,
+466,friendli-client,friendliai,Friendli: the fastest serving engine for generative AI,https://github.com/friendliai/friendli-client,Python,2023-07-20T12:57:24Z,2024-09-20T18:55:38Z,40,8,2,Apache License 2.0
+467,llmopsautomation,tea0819,,https://github.com/tea0819/llmopsautomation,Bicep,2024-09-13T18:14:00Z,2024-09-13T18:36:11Z,0,0,1,MIT License
+468,llmopsproject,M3l3r0,,https://github.com/M3l3r0/llmopsproject,Bicep,2024-09-20T12:12:34Z,2024-09-20T12:12:43Z,0,0,0,MIT License
+469,blog,cubxxw,Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml,https://github.com/cubxxw/blog,HTML,2023-09-14T02:28:17Z,2024-10-05T11:21:41Z,13,3,18,Creative Commons Zero v1.0 Universal
+470,Easy-LLMops,crimsonjoo,"first step to be LLMops (w/ MLflow, RabbitMQ, vLLM, RAY)",https://github.com/crimsonjoo/Easy-LLMops,Jupyter Notebook,2024-09-25T13:19:08Z,2024-09-30T00:23:58Z,0,0,0,
+471,LLMOPSTRADINGBOT,mohiteprathamesh1996,,https://github.com/mohiteprathamesh1996/LLMOPSTRADINGBOT,Jupyter Notebook,2024-06-22T14:49:16Z,2024-07-14T16:55:14Z,0,0,0,MIT License
+472,llmops_solution,Paras-One,The solution for the Regensys LLMOps training program. Assignment 1,https://github.com/Paras-One/llmops_solution,Jupyter Notebook,2024-06-11T05:58:22Z,2024-06-11T12:22:29Z,0,0,0,
+473,X-Ops,ChengIC,"Repo for documenting self-learning notes about DevOps, MLOps, LLMOps. ",https://github.com/ChengIC/X-Ops,,2024-09-26T13:52:51Z,2024-09-27T15:23:12Z,0,0,0,MIT License
+474,llmopstradingbot,aariz120,,https://github.com/aariz120/llmopstradingbot,Jupyter Notebook,2024-07-01T16:15:46Z,2024-07-02T07:14:26Z,0,0,0,MIT License
+475,llmopspromptflow,balakreshnan,Promp flow LLM Ops,https://github.com/balakreshnan/llmopspromptflow,Jinja,2023-11-13T22:05:10Z,2023-11-13T22:09:23Z,0,0,0,
+476,llmopstradingbot,siva1029,,https://github.com/siva1029/llmopstradingbot,Python,2024-08-31T05:36:56Z,2024-08-31T10:03:01Z,0,0,0,
+477,llmopsloony,abhraimrb,,https://github.com/abhraimrb/llmopsloony,,2024-02-05T16:06:46Z,2024-02-05T16:06:46Z,0,0,0,
+478,LLMOPStradingbot,srinivasdasari2023,,https://github.com/srinivasdasari2023/LLMOPStradingbot,Python,2024-06-23T13:50:31Z,2024-06-23T14:40:08Z,0,0,0,MIT License
+479,llmopsexample,pacolecc,,https://github.com/pacolecc/llmopsexample,Bicep,2024-09-20T10:54:43Z,2024-09-20T12:16:56Z,0,0,0,MIT License
+480,llmopstradingbot,LakshmiNarayana2796,,https://github.com/LakshmiNarayana2796/llmopstradingbot,Jupyter Notebook,2024-07-26T17:39:03Z,2024-07-28T06:33:50Z,0,0,0,
+481,LLMopstest,hapiwangy,,https://github.com/hapiwangy/LLMopstest,,2023-10-04T06:52:08Z,2023-10-04T06:52:09Z,0,0,0,
+482,llmopstradingbot,sunnysavita10,,https://github.com/sunnysavita10/llmopstradingbot,Jupyter Notebook,2024-06-22T14:54:38Z,2024-06-30T15:24:15Z,1,1,0,
+483,llmopstradingbot,imrangar304,,https://github.com/imrangar304/llmopstradingbot,Python,2024-08-27T04:20:30Z,2024-08-27T04:20:58Z,0,0,0,
+484,superpilot,parvbhullar,LLMs based multi-model framework for building AI apps. ,https://github.com/parvbhullar/superpilot,Python,2023-08-27T10:06:11Z,2024-09-25T12:58:50Z,17,4,8,MIT License
+485,llmops-course,fredness,AI-Maker-Space -- Build Your First LLM Application,https://github.com/fredness/llmops-course,Python,2024-06-05T00:09:57Z,2024-07-10T06:36:05Z,1,0,1,MIT License
+486,MLops-llmops,olalekana142,Machine and LLM projects,https://github.com/olalekana142/MLops-llmops,,2024-07-26T12:42:29Z,2024-07-26T12:42:29Z,0,0,0,
+487,LLMOps-101,0JCRG0,"An open-source guide to LLMOps, blending theory and practice for deploying Large Language Models effectively.",https://github.com/0JCRG0/LLMOps-101,Jupyter Notebook,2024-02-14T01:42:35Z,2024-02-14T18:24:14Z,0,0,0,GNU General Public License v3.0
+488,LLMOPS-PF,mtchandson,,https://github.com/mtchandson/LLMOPS-PF,Python,2024-05-28T17:07:47Z,2024-05-29T06:59:25Z,1,0,0,
+489,duke-llmops,pbhatt48,,https://github.com/pbhatt48/duke-llmops,,2024-06-08T21:21:45Z,2024-06-08T21:21:45Z,0,0,0,
+490,llmops-labs,JennyPopova,,https://github.com/JennyPopova/llmops-labs,Bicep,2024-08-22T10:28:41Z,2024-08-22T12:58:06Z,0,0,0,MIT License
+491,llmops-lms,YashPS,,https://github.com/YashPS/llmops-lms,,2024-08-22T13:19:02Z,2024-08-22T13:19:03Z,0,0,0,
+492,llmops-myproject,valmirmeneses,,https://github.com/valmirmeneses/llmops-myproject,Bicep,2024-08-22T11:17:58Z,2024-08-22T11:18:15Z,0,0,0,MIT License
+493,LLMops_assigmnment,nirajkerkar08,,https://github.com/nirajkerkar08/LLMops_assigmnment,Jupyter Notebook,2024-09-25T04:19:03Z,2024-09-25T04:20:25Z,0,0,0,
+494,llmops-demo,SridharArrabelly,,https://github.com/SridharArrabelly/llmops-demo,Bicep,2024-09-30T16:55:22Z,2024-09-30T16:55:32Z,0,0,1,MIT License
+495,llmops_streamlit_demo,praveenn7598,This is a repository created during LLMOps Training from Analytics Vidhya.,https://github.com/praveenn7598/llmops_streamlit_demo,Python,2024-05-21T05:27:36Z,2024-05-24T04:28:28Z,0,0,0,
+496,listeners,geniusrise,A collection of  Spouts that listen to events,https://github.com/geniusrise/listeners,Python,2023-08-19T19:02:09Z,2024-05-30T08:37:33Z,2,5,0,Apache License 2.0
+497,Awesome-LLMOps,mem15381,,https://github.com/mem15381/Awesome-LLMOps,Shell,2023-12-16T15:36:47Z,2023-12-16T15:37:05Z,0,0,0,Creative Commons Zero v1.0 Universal
+498,Mars-llmops,saigadu123,,https://github.com/saigadu123/Mars-llmops,,2024-01-10T08:03:06Z,2024-01-10T08:03:07Z,0,0,0,
+499,llmops-project,vivjamba,,https://github.com/vivjamba/llmops-project,Python,2024-06-19T18:18:36Z,2024-06-19T19:48:39Z,0,0,0,Other
+500,intro-llmops,stordd13,,https://github.com/stordd13/intro-llmops,Jupyter Notebook,2024-01-23T09:09:57Z,2024-01-23T09:11:08Z,0,0,0,
+501,llmops-sandbox,s2terminal,,https://github.com/s2terminal/llmops-sandbox,Jupyter Notebook,2024-04-13T02:33:59Z,2024-04-13T02:34:17Z,0,0,0,
+502,llmops-api,peizijune,,https://github.com/peizijune/llmops-api,Python,2024-07-10T09:00:25Z,2024-08-07T20:27:10Z,1,0,0,
+503,llmops-kubernetes,jpkraju,,https://github.com/jpkraju/llmops-kubernetes,Python,2024-07-18T09:49:37Z,2024-07-18T16:19:31Z,0,0,0,
+504,llmops-repo,bharathreddy22,,https://github.com/bharathreddy22/llmops-repo,Bicep,2024-08-22T10:31:27Z,2024-08-22T10:31:37Z,0,0,1,MIT License
+505,1004_llmops,eojiinn,,https://github.com/eojiinn/1004_llmops,Jupyter Notebook,2024-10-04T03:18:38Z,2024-10-04T07:57:56Z,0,0,0,
+506,mlops_practice,mriganktiwari,I push my practice and notes from learning MLOps and LLMOps,https://github.com/mriganktiwari/mlops_practice,,2023-09-15T16:37:23Z,2023-09-15T16:37:24Z,0,0,0,
+507,RoLLMOps,gorillalabs,Clojure AI/LLM ecosystem,https://github.com/gorillalabs/RoLLMOps,,2024-02-26T19:12:16Z,2024-02-26T19:12:16Z,0,0,0,Eclipse Public License 2.0
+508,llmops-boilerplate,sanghoooo,,https://github.com/sanghoooo/llmops-boilerplate,TypeScript,2024-03-14T00:50:41Z,2024-03-14T01:02:36Z,0,0,0,
+509,LLMOPS-SAGEMAKER,iamsamkhan,Automate LLM training and deployment pipeline using SageMaker and Langsmith Pipelines,https://github.com/iamsamkhan/LLMOPS-SAGEMAKER,Jupyter Notebook,2024-03-19T11:45:30Z,2024-03-19T22:13:36Z,1,0,0,MIT License
+510,llmops-zoomcamp,isakovsh,,https://github.com/isakovsh/llmops-zoomcamp,Jupyter Notebook,2024-06-20T16:15:04Z,2024-06-23T17:05:10Z,0,0,0,
+511,LLMOps-project,Emarhnuel,,https://github.com/Emarhnuel/LLMOps-project,Jupyter Notebook,2024-07-29T22:02:02Z,2024-07-29T22:05:16Z,0,0,0,
+512,llmops-zoomcamp,julie1,,https://github.com/julie1/llmops-zoomcamp,Jupyter Notebook,2024-06-20T10:48:09Z,2024-08-19T13:56:14Z,0,0,0,
+513,llmops-workshop,abutneva,,https://github.com/abutneva/llmops-workshop,Bicep,2024-08-22T08:36:14Z,2024-08-22T11:03:43Z,0,0,1,MIT License
+514,llmops-promptflow,ryanMicrosoftTest,,https://github.com/ryanMicrosoftTest/llmops-promptflow,Jinja,2024-08-29T14:44:32Z,2024-09-12T16:59:56Z,0,0,0,
+515,llmops-workshop,bhaskarjitsarmah,,https://github.com/bhaskarjitsarmah/llmops-workshop,Python,2024-05-16T19:56:39Z,2024-05-20T06:25:57Z,1,0,0,
+516,llmops-project,alopez-labit,,https://github.com/alopez-labit/llmops-project,Python,2024-06-25T17:51:07Z,2024-06-25T18:54:26Z,0,0,0,Other
+517,llmops-full,HakjunMIN,,https://github.com/HakjunMIN/llmops-full,Bicep,2024-08-28T01:36:08Z,2024-08-28T07:06:58Z,0,0,0,MIT License
+518,azureai-llmops,Puneet-Minhas,,https://github.com/Puneet-Minhas/azureai-llmops,Bicep,2024-09-02T15:07:18Z,2024-09-02T15:07:27Z,0,0,0,MIT License
+519,LLMOPs_project,LaeeqAhmadk,,https://github.com/LaeeqAhmadk/LLMOPs_project,Python,2024-09-09T08:32:43Z,2024-09-10T15:33:22Z,0,0,0,
+520,LLMOps-Production,zacharyvunguyen,Deploying and managing Large Language Models (LLMs) in production environments,https://github.com/zacharyvunguyen/LLMOps-Production,Jupyter Notebook,2024-07-15T18:56:16Z,2024-07-24T15:44:20Z,0,0,0,
+521,llmops-project,afrancoc2000,,https://github.com/afrancoc2000/llmops-project,Python,2024-02-05T14:24:21Z,2024-02-06T18:10:06Z,0,0,0,Other
+522,llmops-workshop,Shubhamrock428,,https://github.com/Shubhamrock428/llmops-workshop,Python,2024-05-17T07:30:49Z,2024-05-17T13:24:52Z,0,0,0,
+523,llmops_training,aamruta,,https://github.com/aamruta/llmops_training,Python,2024-05-17T13:33:56Z,2024-05-17T14:53:44Z,0,0,0,
+524,llmops-initial,Lohith-GL,,https://github.com/Lohith-GL/llmops-initial,Jupyter Notebook,2024-04-12T09:40:49Z,2024-05-22T09:15:11Z,0,1,0,
+525,RAG_llmops,varunmayaluru, Create a RAG with LLM using your own data,https://github.com/varunmayaluru/RAG_llmops,Python,2024-06-10T08:55:30Z,2024-06-10T08:55:36Z,0,0,0,
+526,Coursera-LLMOps,Martin-Gai,,https://github.com/Martin-Gai/Coursera-LLMOps,HTML,2024-08-05T05:01:39Z,2024-08-18T22:48:03Z,0,0,0,
+527,llmops-project,hifaz1012,,https://github.com/hifaz1012/llmops-project,Bicep,2024-08-14T02:17:56Z,2024-08-14T03:02:39Z,0,0,1,MIT License
+528,LLMops-demo,Dhinesh-Reddy-Gundam,,https://github.com/Dhinesh-Reddy-Gundam/LLMops-demo,Python,2024-08-09T10:39:09Z,2024-08-14T09:42:57Z,0,0,0,
+529,llmops-demo,marcjimz,,https://github.com/marcjimz/llmops-demo,Bicep,2024-09-18T06:28:14Z,2024-09-18T06:28:25Z,0,0,0,MIT License
+530,llmops-fe,JEONG99,,https://github.com/JEONG99/llmops-fe,TypeScript,2024-09-19T08:01:33Z,2024-10-04T08:09:34Z,0,0,0,
+531,llmops-workshop,sbhuttan,,https://github.com/sbhuttan/llmops-workshop,Bicep,2024-09-13T17:43:48Z,2024-09-13T17:47:56Z,0,0,1,MIT License
+532,llmops-dev,Codzaniac,,https://github.com/Codzaniac/llmops-dev,,2024-05-22T10:51:48Z,2024-05-22T10:51:51Z,0,0,0,MIT License
+533,llmops-training,anjibabupalla,,https://github.com/anjibabupalla/llmops-training,Jupyter Notebook,2024-05-17T09:04:07Z,2024-05-17T10:34:41Z,0,0,0,
+534,llmops-api,liujingmao,LLMOps平台开发基础及架构设计平台，从0到1开发,https://github.com/liujingmao/llmops-api,Python,2024-06-10T14:10:02Z,2024-06-10T14:36:03Z,0,0,0,
+535,llmops-docs,shibin-cli,,https://github.com/shibin-cli/llmops-docs,,2024-07-05T06:18:53Z,2024-07-12T09:55:57Z,0,0,0,
+536,llmops-workshop,JoeyBarnes,,https://github.com/JoeyBarnes/llmops-workshop,Bicep,2024-08-13T20:29:00Z,2024-08-13T21:41:24Z,0,0,0,MIT License
+537,llmops-lab,pankaj1102,,https://github.com/pankaj1102/llmops-lab,Bicep,2024-09-18T03:57:00Z,2024-09-18T03:57:14Z,0,0,0,MIT License
+538,llmops-demo,joarderk,,https://github.com/joarderk/llmops-demo,Bicep,2024-09-17T23:57:17Z,2024-09-18T05:23:18Z,0,0,0,MIT License
+539,llmops-showcase,marcjimz,,https://github.com/marcjimz/llmops-showcase,Bicep,2024-09-18T06:38:16Z,2024-09-18T07:23:45Z,0,0,1,MIT License
+540,llmops-workshop,izidan,,https://github.com/izidan/llmops-workshop,Bicep,2024-09-20T10:05:06Z,2024-09-20T10:59:57Z,0,0,1,MIT License
+541,LLMOps-Assignment-,nirajkerkar08,,https://github.com/nirajkerkar08/LLMOps-Assignment-,Python,2024-09-25T09:05:24Z,2024-09-25T09:06:32Z,0,0,0,
+542,Serverless-Latent-Space-Monitoring,rabbidave,"A series of serverless functions/resources (and Terraform) for consuming language model inputs and outputs to S3, enriching the data via sentiment analysis and topic modelling, loading to DynamoDB and subsequently monitoring for configurable deviation within the latent vector space.",https://github.com/rabbidave/Serverless-Latent-Space-Monitoring,Python,2023-08-18T02:22:34Z,2024-02-06T23:32:46Z,2,1,0,Apache License 2.0
+543,LLMops-Development,Codzaniac,,https://github.com/Codzaniac/LLMops-Development,Python,2024-05-22T10:59:48Z,2024-05-23T10:55:28Z,0,0,0,Other
+544,llmops-01,frtibble,,https://github.com/frtibble/llmops-01,Python,2024-07-08T08:16:07Z,2024-07-08T08:31:58Z,0,0,0,Other
+545,llmops-ui,sabertobihwy,,https://github.com/sabertobihwy/llmops-ui,Vue,2024-07-13T00:51:27Z,2024-07-13T00:59:51Z,0,0,0,
+546,llmops-project,gaikwadsi,,https://github.com/gaikwadsi/llmops-project,Python,2024-06-25T17:56:54Z,2024-06-25T18:37:15Z,0,0,0,Other
+547,llmops_tradingbot,suryaprasadkaushal,,https://github.com/suryaprasadkaushal/llmops_tradingbot,Jupyter Notebook,2024-06-22T15:01:33Z,2024-06-23T15:37:03Z,0,0,0,
+548,llmops-project,vivian-mitre,,https://github.com/vivian-mitre/llmops-project,Python,2024-06-25T17:44:51Z,2024-06-25T19:24:42Z,0,0,0,Other
+549,techexcel-llmops,rag2111,,https://github.com/rag2111/techexcel-llmops,Bicep,2024-08-22T09:38:46Z,2024-08-22T11:08:39Z,0,0,0,MIT License
+550,llmops_course,zhangshuguang,,https://github.com/zhangshuguang/llmops_course,Jupyter Notebook,2023-08-18T17:53:34Z,2023-08-18T18:03:26Z,0,0,0,MIT License
+551,tinyai-llmops,jjovalle99,"This is my submission for Homework 1, corresponding to Session 1 of the LLMOps course.",https://github.com/jjovalle99/tinyai-llmops,Python,2023-11-30T21:08:37Z,2023-11-30T21:15:06Z,0,0,0,
+552,DLAI-llmops,hoysal08,,https://github.com/hoysal08/DLAI-llmops,Jupyter Notebook,2024-01-31T05:21:15Z,2024-01-31T05:22:42Z,0,0,0,
+553,llmops-webapp,suganyas,,https://github.com/suganyas/llmops-webapp,Python,2024-02-28T09:15:57Z,2024-02-28T09:19:01Z,0,0,0,Other
+554,Langsmith_llmops,Abhishekyes,,https://github.com/Abhishekyes/Langsmith_llmops,Python,2024-03-19T14:50:06Z,2024-03-19T14:50:19Z,0,0,0,
+555,llmops-course,nam-aalto,"Stuff from The AI Engineering Bootcamp, Cohort 2",https://github.com/nam-aalto/llmops-course,,2024-04-05T00:52:08Z,2024-04-05T00:52:09Z,0,0,0,MIT License
+556,LLMops-Assignments,akshaya-rani,,https://github.com/akshaya-rani/LLMops-Assignments,Jupyter Notebook,2024-09-25T04:16:29Z,2024-09-25T06:23:55Z,0,0,0,
+557,llmops-zoomcamp,mtahah,,https://github.com/mtahah/llmops-zoomcamp,Jupyter Notebook,2024-06-30T21:30:02Z,2024-08-19T11:20:41Z,0,0,0,
+558,techexcel-llmops,jkarasha,,https://github.com/jkarasha/techexcel-llmops,Bicep,2024-09-13T18:50:59Z,2024-09-13T18:51:05Z,0,0,2,MIT License
+559,Medical-LLMOps,Anhtt9x,,https://github.com/Anhtt9x/Medical-LLMOps,Python,2024-08-13T07:01:42Z,2024-08-28T03:30:41Z,0,0,0,MIT License
+560,LLMOps-Packages,shaunck96,,https://github.com/shaunck96/LLMOps-Packages,Shell,2023-09-13T00:21:54Z,2023-09-13T00:22:21Z,0,0,0,Creative Commons Zero v1.0 Universal
+561,infra-llmops,mph-llmops,,https://github.com/mph-llmops/infra-llmops,HCL,2023-10-07T18:58:58Z,2023-10-07T18:59:13Z,0,0,0,MIT License
+562,rust-llmops,nogibjj,some examples,https://github.com/nogibjj/rust-llmops,,2023-09-22T19:08:23Z,2023-09-23T22:22:28Z,1,1,0,Creative Commons Zero v1.0 Universal
+563,LLMOPS-final,rockey05,,https://github.com/rockey05/LLMOPS-final,HTML,2024-06-04T13:05:24Z,2024-06-04T13:21:26Z,0,0,0,
+564,llmops-ui,yangfei4913438,,https://github.com/yangfei4913438/llmops-ui,Vue,2024-07-06T14:43:56Z,2024-07-06T23:30:40Z,0,0,0,
+565,Awesome-LLMOps,skcc-sangyoung,,https://github.com/skcc-sangyoung/Awesome-LLMOps,Shell,2024-05-29T00:29:51Z,2024-05-29T00:34:21Z,0,0,0,Creative Commons Zero v1.0 Universal
+566,LLMOPS-Terraform,ug123458,Terraform code for public AKS with ml-workspace for LLMOps using prompt flows.,https://github.com/ug123458/LLMOPS-Terraform,HCL,2024-05-01T05:35:47Z,2024-06-03T05:44:21Z,0,0,0,MIT License
+567,llmops_exploration,wonnieIT,,https://github.com/wonnieIT/llmops_exploration,Jupyter Notebook,2024-09-25T08:31:01Z,2024-09-25T08:42:27Z,0,0,0,
+568,llmops-promptflow,anishaccenture,,https://github.com/anishaccenture/llmops-promptflow,,2024-07-01T09:46:24Z,2024-07-01T09:46:28Z,0,0,1,
+569,movies-llmops,piushvaish,,https://github.com/piushvaish/movies-llmops,Python,2024-07-23T19:15:35Z,2024-07-27T14:08:54Z,0,0,0,
+570,LLMOps---learning,metal0bird,,https://github.com/metal0bird/LLMOps---learning,Jupyter Notebook,2024-01-19T04:10:46Z,2024-01-19T04:24:05Z,0,0,0,
+571,llmops-workshop,sjuratov,,https://github.com/sjuratov/llmops-workshop,Bicep,2024-08-22T10:29:37Z,2024-08-22T11:07:36Z,0,0,0,MIT License
+572,rag-llmops,CNabila,,https://github.com/CNabila/rag-llmops,Bicep,2024-08-22T09:41:11Z,2024-08-22T12:11:53Z,0,0,0,MIT License
+573,llmops_study,jungmin76park,,https://github.com/jungmin76park/llmops_study,,2024-01-02T12:54:37Z,2024-06-18T21:04:38Z,0,0,0,
+574,llmops-project,mkang-dev,,https://github.com/mkang-dev/llmops-project,Python,2024-06-19T18:25:17Z,2024-06-19T19:32:12Z,0,0,0,Other
+575,llmops-project,bamado3712,,https://github.com/bamado3712/llmops-project,,2024-06-25T17:54:39Z,2024-06-25T17:54:40Z,0,0,0,
+576,llmops-project,cloudtrainerwork,,https://github.com/cloudtrainerwork/llmops-project,Python,2024-06-25T17:41:15Z,2024-06-25T19:00:39Z,0,0,0,Other
+577,wine-llmops,GregoryTomy,"Developed an end-to-end LLM sommelier chatbot that uses Microsoft Azure Open AI, LangChain, and the RAG method for wine recommendations. Powered by FastAPI and Streamlit. CI/CD with GitHub Actions",https://github.com/GregoryTomy/wine-llmops,Python,2024-04-07T01:17:34Z,2024-09-12T15:36:34Z,1,1,0,
+578,LLMOPS-WEB,rockey05,,https://github.com/rockey05/LLMOPS-WEB,HTML,2024-09-02T09:33:34Z,2024-09-03T07:53:29Z,0,0,0,
+579,Comet-LLMOps,subratamondal1,,https://github.com/subratamondal1/Comet-LLMOps,Jupyter Notebook,2023-11-18T20:18:43Z,2023-11-18T20:19:49Z,0,0,0,
+580,llmops_test,hapiwangy,,https://github.com/hapiwangy/llmops_test,Python,2023-10-06T01:41:35Z,2023-10-06T02:33:56Z,0,0,0,
+581,llmops-deploy,hrisi0707,,https://github.com/hrisi0707/llmops-deploy,Python,2024-05-17T04:44:09Z,2024-07-16T11:41:46Z,0,0,0,
+582,llmops-course,CircleCI-Learning,,https://github.com/CircleCI-Learning/llmops-course,,2023-12-13T13:47:12Z,2024-01-25T18:34:01Z,1,4,0,
+583,llmops-project,pmadusud,,https://github.com/pmadusud/llmops-project,Bicep,2024-09-20T10:09:31Z,2024-09-20T13:26:03Z,0,0,0,MIT License
+584,llmops_workspace,nrajeshmca26,,https://github.com/nrajeshmca26/llmops_workspace,Python,2024-05-23T05:04:21Z,2024-05-23T09:56:52Z,0,0,0,Other
+585,llmops-spike,iamnicoj,,https://github.com/iamnicoj/llmops-spike,Python,2024-05-28T15:26:13Z,2024-05-28T15:48:57Z,1,0,0,MIT License
+586,llmops-rag,dhangerkapil,,https://github.com/dhangerkapil/llmops-rag,Bicep,2024-08-07T18:58:35Z,2024-08-07T18:59:14Z,0,0,0,MIT License
+587,LLMOps-automation,michelleWYLee,,https://github.com/michelleWYLee/LLMOps-automation,Bicep,2024-08-14T02:25:48Z,2024-08-14T04:15:29Z,0,0,0,MIT License
+588,LLMOps_assigenment,nirajkerkar08,,https://github.com/nirajkerkar08/LLMOps_assigenment,,2024-09-25T04:18:27Z,2024-09-25T04:18:28Z,0,0,0,
+589,llmops-hands-on-llms,analect-io,LLMOps use-case derived from https://github.com/iusztinpaul/hands-on-llms,https://github.com/analect-io/llmops-hands-on-llms,Jupyter Notebook,2024-01-01T13:53:34Z,2024-01-01T13:55:03Z,0,0,0,MIT License
+590,LLMOps-Project,SaravanaPriyanD,,https://github.com/SaravanaPriyanD/LLMOps-Project,Python,2024-04-18T14:40:33Z,2024-05-01T04:33:05Z,0,0,0,MIT License
+591,llmops_course,dono-bdec,Practice data for llm ops course from Dono,https://github.com/dono-bdec/llmops_course,HTML,2024-05-02T14:18:00Z,2024-06-13T07:53:32Z,0,1,0,
+592,DukeLLMops,jtramji,LLM ops course repo exercises,https://github.com/jtramji/DukeLLMops,Python,2024-06-17T18:35:51Z,2024-06-17T18:35:56Z,0,0,0,
+593,LLMOPS_tradingbot,Sujata2017,,https://github.com/Sujata2017/LLMOPS_tradingbot,Python,2024-06-22T15:13:24Z,2024-06-23T15:54:34Z,0,0,0,MIT License
+594,LLMOps-demo,Prashanna313,,https://github.com/Prashanna313/LLMOps-demo,,2024-07-09T00:59:32Z,2024-07-09T00:59:32Z,0,0,0,
+595,llmops-project,shyamsridhar123,,https://github.com/shyamsridhar123/llmops-project,Bicep,2024-08-16T20:01:02Z,2024-08-16T20:01:11Z,0,0,1,MIT License
+596,langsmith_LLMOPS,arsh248,,https://github.com/arsh248/langsmith_LLMOPS,Python,2024-07-03T11:07:07Z,2024-09-12T06:29:53Z,1,0,0,GNU General Public License v3.0
+597,llmops-info,talonx,,https://github.com/talonx/llmops-info,,2024-09-15T11:36:25Z,2024-09-15T11:36:29Z,0,0,0,MIT License
+598,techexcel-llmops,divssheth,,https://github.com/divssheth/techexcel-llmops,Bicep,2024-09-20T09:58:50Z,2024-09-20T10:36:00Z,0,0,0,MIT License
+599,writeassist-llmops,RichardMathewsII,,https://github.com/RichardMathewsII/writeassist-llmops,Python,2024-09-26T00:14:47Z,2024-09-26T00:27:00Z,0,0,0,
+600,git-llmops-project,akritim,,https://github.com/akritim/git-llmops-project,Bicep,2024-08-22T11:03:43Z,2024-08-22T11:03:55Z,0,0,0,MIT License
+601,Tredence-LLMOps-Classroom,BhanuPrakashSamoju,This repo houses code for the training sessions & assignments,https://github.com/BhanuPrakashSamoju/Tredence-LLMOps-Classroom,Jupyter Notebook,2024-09-06T03:44:40Z,2024-09-22T14:38:26Z,0,0,0,MIT License
+602,simple_prompt,Agenta-AI,First example for an LLM application for deployment in the Agenta LLMOps Platform,https://github.com/Agenta-AI/simple_prompt,Python,2023-10-16T10:58:41Z,2024-05-17T10:36:52Z,0,0,0,MIT License
+603,gbbai-llmops-orchestrators,pablosalvador10,"The repository serves as a guide for developing AI applications with Large Language Models and Azure AI, detailing orchestration strategies from setup to deployment in Azure.",https://github.com/pablosalvador10/gbbai-llmops-orchestrators,Jupyter Notebook,2023-12-15T20:23:22Z,2024-01-23T15:25:13Z,0,0,0,Apache License 2.0
+604,llmops-k8,LucasSovre,,https://github.com/LucasSovre/llmops-k8,Jupyter Notebook,2024-03-10T11:54:03Z,2024-03-19T21:36:20Z,0,0,0,
+605,LLMOps-Ray-Practice,EthanHistory,,https://github.com/EthanHistory/LLMOps-Ray-Practice,,2024-05-31T04:44:07Z,2024-05-31T04:44:11Z,0,0,0,
+606,watsonx-llmops-vn,randyphoa,,https://github.com/randyphoa/watsonx-llmops-vn,,2024-06-04T23:36:44Z,2024-06-04T23:38:16Z,0,1,0,
+607,DataOps-LLMOps,LongDaHo,,https://github.com/LongDaHo/DataOps-LLMOps,,2024-09-06T17:41:32Z,2024-09-06T17:42:18Z,0,0,0,
+608,llmops_project_1,Hapstanny,,https://github.com/Hapstanny/llmops_project_1,Python,2024-09-18T03:06:51Z,2024-09-18T03:12:15Z,0,0,1,Other
+609,my-llmops-project,muthukr1,,https://github.com/muthukr1/my-llmops-project,Bicep,2024-09-20T10:26:56Z,2024-09-20T12:13:04Z,0,0,1,MIT License
+610,InfraDeployLLMOps,sireesharamdas2,,https://github.com/sireesharamdas2/InfraDeployLLMOps,,2024-03-20T11:01:14Z,2024-03-20T11:01:14Z,0,0,0,
+611,LLMOps-using-Langsmith,Abhishekvidhate,,https://github.com/Abhishekvidhate/LLMOps-using-Langsmith,Python,2024-03-27T15:20:49Z,2024-03-27T15:24:29Z,0,0,0,
+612,Basic-of-LLMOps,fabricofdreams,"LLMOps, in simplest terms, encompasses best practices, techniques, and tools for operationalizing large language models in production environments.",https://github.com/fabricofdreams/Basic-of-LLMOps,Jupyter Notebook,2024-06-28T20:08:45Z,2024-06-28T21:08:21Z,0,0,0,
+613,TradingBot_LLMOPs,Asif-AI,,https://github.com/Asif-AI/TradingBot_LLMOPs,Python,2024-06-30T08:07:40Z,2024-06-30T18:42:58Z,0,0,0,MIT License
+614,azure-rag-llmops,naveenneog,,https://github.com/naveenneog/azure-rag-llmops,Bicep,2024-08-22T10:41:55Z,2024-08-22T10:54:39Z,0,0,0,MIT License
+615,LLMOps-Masterclass-2024,machinelearningzuu,"Unlock the potential of Generative AI with our comprehensive course, ""LLMOps - Generative AI - MLOps - AIOps Masterclass 2024"" From understanding the fundamentals to deploying advanced applications",https://github.com/machinelearningzuu/LLMOps-Masterclass-2024,,2024-09-16T17:22:24Z,2024-09-16T17:28:13Z,0,0,0,
+616,my-llmops-project,jianyeliu,,https://github.com/jianyeliu/my-llmops-project,Bicep,2024-09-17T14:24:04Z,2024-09-18T04:41:45Z,0,0,1,MIT License
+617,autogen-llmops-solution,ajakupov,,https://github.com/ajakupov/autogen-llmops-solution,Bicep,2024-08-26T07:32:56Z,2024-09-30T08:25:39Z,0,0,0,MIT License
+618,LLMOPs-introductory-notes,BhusanChettri,This repository contains notebooks from free short course taught by deeplearning.ai and google cloud,https://github.com/BhusanChettri/LLMOPs-introductory-notes,Jupyter Notebook,2024-01-20T13:54:42Z,2024-01-20T14:00:42Z,0,0,0,
+619,llmops-rag-test,apawgit,,https://github.com/apawgit/llmops-rag-test,,2024-08-22T11:06:53Z,2024-08-22T11:06:53Z,0,0,0,
+620,llmops-fractal-training,panjif02349,,https://github.com/panjif02349/llmops-fractal-training,Jupyter Notebook,2024-05-17T06:12:07Z,2024-06-03T05:24:34Z,0,0,0,
+621,llmops_rag_aws,harshal247,,https://github.com/harshal247/llmops_rag_aws,,2024-06-04T21:21:05Z,2024-06-04T21:34:07Z,0,0,0,
+622,LangSmith_LLMOps,saisubhasish,This is a LLMOps project using OpenAI and langsmith. Here we are saving all the details of each request to LLM.,https://github.com/saisubhasish/LangSmith_LLMOps,Python,2024-07-14T13:54:07Z,2024-08-02T11:51:06Z,0,0,0,
+623,LLMOps_Practice_GJAI,GGURIMON,,https://github.com/GGURIMON/LLMOps_Practice_GJAI,Jupyter Notebook,2024-10-03T10:37:45Z,2024-10-03T10:38:04Z,0,0,0,
+624,azure-llmops-sample,ishidahra01,,https://github.com/ishidahra01/azure-llmops-sample,,2024-01-19T12:29:16Z,2024-01-19T12:29:17Z,0,0,0,MIT License
+625,LLMOps_specialization_Tredence,RanjithAIGIT,,https://github.com/RanjithAIGIT/LLMOps_specialization_Tredence,Python,2024-08-20T17:12:50Z,2024-08-24T05:07:23Z,0,0,0,
+626,my-llmops-env,emekdahl,,https://github.com/emekdahl/my-llmops-env,Jupyter Notebook,2024-05-04T10:08:00Z,2024-05-04T10:16:08Z,0,0,0,MIT License
+627,mini-RAG-LLMOps,KhaoulaElHattabi,,https://github.com/KhaoulaElHattabi/mini-RAG-LLMOps,,2024-05-19T16:57:07Z,2024-08-15T20:20:13Z,0,0,0,
+628,rag-visualizer,gzguevara,A visualisation tool for RAG,https://github.com/gzguevara/rag-visualizer,Python,2024-01-20T16:50:09Z,2024-07-30T08:58:02Z,9,1,0,MIT License
+629,clarus-llm-dag,alejandrocalleja,Testing CLARUS project's toolkit for DAG creation and execution. LLMOps use case.,https://github.com/alejandrocalleja/clarus-llm-dag,Jupyter Notebook,2024-09-10T08:21:33Z,2024-10-04T09:41:38Z,0,0,0,GNU General Public License v3.0
+630,Automated-Testing-for-LLMOps,WaqasAli-Munawar,,https://github.com/WaqasAli-Munawar/Automated-Testing-for-LLMOps,,2024-06-24T12:37:36Z,2024-06-24T12:37:36Z,0,0,0,
+631,my-rag-project-llmops,luoanabecher,,https://github.com/luoanabecher/my-rag-project-llmops,Bicep,2024-09-23T14:56:10Z,2024-09-23T18:12:08Z,0,0,2,MIT License
+632,repo-upgrade,AgiFlow,Dependencies Upgrade with multi-agents (CrewAI & Langgraph),https://github.com/AgiFlow/repo-upgrade,Jupyter Notebook,2024-07-22T01:53:32Z,2024-08-18T06:05:31Z,5,0,0,MIT License
+633,ragtime,recitalAI,LLMOps framework to automate testing and comparison for text to text large language models,https://github.com/recitalAI/ragtime,Vue,2024-01-31T10:30:13Z,2024-10-02T10:10:09Z,0,0,0,MIT License
+634,transprompt,ifsheldon,Prompt-centric framework for developing LLM applications in Rust,https://github.com/ifsheldon/transprompt,Rust,2023-05-21T08:32:28Z,2024-08-19T11:15:37Z,4,0,0,Apache License 2.0
+635,llmOps_helloWorld,floresjacob,Trying out some LLM_Ops stuff,https://github.com/floresjacob/llmOps_helloWorld,Jupyter Notebook,2023-11-22T10:43:57Z,2023-11-22T11:19:42Z,0,1,0,MIT License
+636,Automated-Testing-for-LLMOps,zahidhasancode,,https://github.com/zahidhasancode/Automated-Testing-for-LLMOps,,2024-03-06T07:58:33Z,2024-03-06T07:58:33Z,0,0,0,
+637,llmops-project-ex5,mysubhransu,,https://github.com/mysubhransu/llmops-project-ex5,Bicep,2024-09-13T18:26:24Z,2024-09-13T19:50:37Z,0,0,0,MIT License
+638,Automated-Testing-for-LLMOps,RomanRosa,,https://github.com/RomanRosa/Automated-Testing-for-LLMOps,,2024-01-24T16:17:02Z,2024-01-24T16:17:02Z,0,0,0,
+639,practise_ai_dlai_llmops,Friend09,,https://github.com/Friend09/practise_ai_dlai_llmops,Jupyter Notebook,2024-07-06T18:45:12Z,2024-07-14T15:11:05Z,0,0,0,
+640,LLMOps-DeepLearningAI,moh-C,,https://github.com/moh-C/LLMOps-DeepLearningAI,Jupyter Notebook,2024-07-08T06:18:52Z,2024-07-08T18:42:04Z,0,0,0,
+641,Essential-Guide-to-LLMOps,PacktPublishing,published by Packt,https://github.com/PacktPublishing/Essential-Guide-to-LLMOps,,2024-07-16T13:42:14Z,2024-08-13T22:30:31Z,1,1,0,MIT License
+642,LLMOps-RAG-with-Airflow,soma2000-lang,,https://github.com/soma2000-lang/LLMOps-RAG-with-Airflow,,2024-07-03T17:54:46Z,2024-07-03T18:12:54Z,1,0,0,
+643,llmops-project-template2,marcjimz,,https://github.com/marcjimz/llmops-project-template2,Bicep,2024-09-13T18:31:28Z,2024-09-13T18:52:06Z,0,0,0,MIT License
+644,LLMOps-RAG-Application-AWS,vikashishere,"A GenAI RAG application powered by Langchain and HuggingFace, Deployed on AWS Lambda.",https://github.com/vikashishere/LLMOps-RAG-Application-AWS,Python,2024-05-16T08:11:46Z,2024-05-17T12:45:09Z,0,0,0,MIT License
+645,my-rag-llmops-prj,azadehgnia,,https://github.com/azadehgnia/my-rag-llmops-prj,Bicep,2024-08-14T02:09:13Z,2024-08-14T02:09:22Z,0,0,0,MIT License
+646,llmops-project-template-geha,marcjimz,,https://github.com/marcjimz/llmops-project-template-geha,Bicep,2024-09-18T02:12:13Z,2024-09-18T06:15:21Z,0,0,0,MIT License
+647,LLMops_AWS-1-api-,Basavprabhu,"This project deploys the LLM using AWS Bedrock,LAMDA,Api gateway,S3 and boto3 library",https://github.com/Basavprabhu/LLMops_AWS-1-api-,Python,2024-05-30T06:50:51Z,2024-05-30T06:54:22Z,0,0,0,
+648,llmops-lora-quantization-cicd,Dephinate,,https://github.com/Dephinate/llmops-lora-quantization-cicd,Jupyter Notebook,2024-07-12T23:20:44Z,2024-07-27T03:21:56Z,0,0,0,MIT License
+649,Introduction-to-LLMs,Praveen76,"Dive into the world of Large Language Models (LLMs) with this comprehensive repository. From understanding basics to exploring various LLMs, finetuning on downstream tasks, and deploying models using Vector DBs like Qurant, this guide equips you with essential skills for harnessing the power of LLMs in your projects.",https://github.com/Praveen76/Introduction-to-LLMs,Jupyter Notebook,2023-10-13T05:29:20Z,2024-09-10T00:05:29Z,3,2,0,Apache License 2.0
+650,expressAI,sachinkumaranumula,"My Notes on bleeding AI, can fast track learning from Data Engineering to LLMOps",https://github.com/sachinkumaranumula/expressAI,,2023-12-18T18:20:09Z,2024-01-18T02:50:14Z,0,0,0,
+651,LLMs-in-Production,AnnthomyGILLES,Building an end-to-end production-ready LLM & RAG system using LLMOps best practices,https://github.com/AnnthomyGILLES/LLMs-in-Production,Julia,2024-07-26T02:27:20Z,2024-09-08T16:29:56Z,1,0,0,
+652,ai_book,YeonwooSung,AI book for everyone,https://github.com/YeonwooSung/ai_book,Jupyter Notebook,2020-06-27T15:46:28Z,2024-09-30T15:35:52Z,24,5,19,
+653,Samriddh-LLMOps-assignment-solutions,samriddh1409,,https://github.com/samriddh1409/Samriddh-LLMOps-assignment-solutions,Jupyter Notebook,2024-06-13T10:29:30Z,2024-06-13T10:30:29Z,0,0,0,
+654,Automated-Testing-for-LLMOps,nagababumo,,https://github.com/nagababumo/Automated-Testing-for-LLMOps,Jupyter Notebook,2024-06-04T05:22:26Z,2024-06-04T06:56:23Z,0,0,0,GNU General Public License v3.0
+655,llmops-project-template-lab,payton-chou-ms,,https://github.com/payton-chou-ms/llmops-project-template-lab,Bicep,2024-09-17T05:07:28Z,2024-09-17T05:23:54Z,0,0,0,MIT License
+656,automated-testing-for-llmops,ChrisGe4,,https://github.com/ChrisGe4/automated-testing-for-llmops,,2024-04-09T20:53:01Z,2024-04-09T20:53:01Z,0,0,0,
+657,End_to_End_LLMOPS,PrateekDwivedi2991,,https://github.com/PrateekDwivedi2991/End_to_End_LLMOPS,,2024-08-25T12:05:25Z,2024-08-25T12:05:25Z,0,0,0,
+658,terraform-aws-llmops-module,crederauk,,https://github.com/crederauk/terraform-aws-llmops-module,,2024-04-11T13:57:40Z,2024-04-11T13:57:40Z,0,0,0,Apache License 2.0
+659,llmops-my-rag-project,arkr-msft,,https://github.com/arkr-msft/llmops-my-rag-project,Shell,2024-09-20T10:25:00Z,2024-09-20T10:34:50Z,0,0,0,MIT License
+660,LLMOps_using_LangServe,Abhishekvidhate,,https://github.com/Abhishekvidhate/LLMOps_using_LangServe,Python,2024-03-27T15:11:40Z,2024-03-27T15:12:08Z,0,0,0,
+661,DataCampLLMOpsCOncepts,muluayele999,,https://github.com/muluayele999/DataCampLLMOpsCOncepts,,2024-01-23T18:51:46Z,2024-01-23T18:51:47Z,0,0,0,
+662,TradingBotUsingLlmops,sharathreddy203,,https://github.com/sharathreddy203/TradingBotUsingLlmops,Jupyter Notebook,2024-06-26T18:26:33Z,2024-07-14T17:48:07Z,0,0,0,MIT License
+663,my-llmops-project-1,Pexliono,,https://github.com/Pexliono/my-llmops-project-1,Bicep,2024-08-07T19:23:55Z,2024-08-07T19:34:26Z,0,0,0,MIT License
+664,my-rag-proj-llmopswkshop,gallogiulia,,https://github.com/gallogiulia/my-rag-proj-llmopswkshop,Bicep,2024-08-07T17:06:26Z,2024-08-07T20:44:49Z,0,0,3,MIT License
+665,chatshacks-git-llmops-project,akritim,,https://github.com/akritim/chatshacks-git-llmops-project,Bicep,2024-10-01T13:42:33Z,2024-10-01T13:42:44Z,0,0,0,MIT License
+666,LLM-Deployment-Tools-LLMOps,Zamr77,"This project empirically studies the challenges and prospects of deploying large language models (LLMs) in real-world applications using open-source tools. We analyze deployment tools, categorize common issues, and develop improvements to enhance the effectiveness and usability of LLMs.",https://github.com/Zamr77/LLM-Deployment-Tools-LLMOps,,2024-05-17T14:48:58Z,2024-07-03T06:20:52Z,0,0,0,
+667,azure-my-llmops-project,emrahmete,,https://github.com/emrahmete/azure-my-llmops-project,,2024-08-22T11:49:38Z,2024-08-22T11:49:39Z,0,0,0,
+668,starcloud-llmops-ui-user,shenqichao,使用mui搭建的GPT模板市场,https://github.com/shenqichao/starcloud-llmops-ui-user,TypeScript,2023-06-12T05:42:41Z,2023-06-12T05:57:31Z,0,0,0,
+669,LLMOPS-Multilingual-AI-Assistant,vikashishere,,https://github.com/vikashishere/LLMOPS-Multilingual-AI-Assistant,Python,2024-04-29T04:35:12Z,2024-05-10T07:17:08Z,0,0,0,
+670,agiflow-sdks,AgiFlow,"LLM QA, Observability, Evaluation and User Feedback",https://github.com/AgiFlow/agiflow-sdks,TypeScript,2024-06-24T06:25:54Z,2024-08-18T18:51:50Z,21,2,0,Other
+671,AWS_RAG_application,Basavprabhu,"This is a LLMops project that uses AWS Bedrock,langchain,streamlit,boto3 and stable-diffusion ",https://github.com/Basavprabhu/AWS_RAG_application,Python,2024-05-30T14:05:19Z,2024-06-15T15:00:16Z,1,0,0,
+672,CodeInterpreter,arcosx,The Best Open Source LLM Code Interpreter,https://github.com/arcosx/CodeInterpreter,Python,2023-07-20T03:10:00Z,2024-05-27T10:56:54Z,16,1,2,Apache License 2.0
+673,cortexDevelopment,synavate,"MLOps / LLMOps based on the Synapse system design. Experimentation with MLFlow, Humanloop and other tools.",https://github.com/synavate/cortexDevelopment,,2024-02-11T20:49:45Z,2024-02-11T20:49:45Z,0,0,0,
+674,AzureML-PromptFlow-LLMOps,LazaUK,This repo was auto-provisioned to support Exercise # 5 of TechExcel course: https://microsoft.github.io/TechExcel-Operationalize-LLMs-with-LLMOps-automation,https://github.com/LazaUK/AzureML-PromptFlow-LLMOps,Bicep,2024-08-22T11:05:08Z,2024-08-22T11:36:10Z,0,0,0,MIT License
+675,Django-chatbot-quejas-y-sugerencias,RicardoRobledo,,https://github.com/RicardoRobledo/Django-chatbot-quejas-y-sugerencias,Python,2024-06-24T06:41:36Z,2024-09-19T23:57:41Z,0,0,0,
+676,llmops-my-rag-project-redo,arkr-msft,,https://github.com/arkr-msft/llmops-my-rag-project-redo,Bicep,2024-09-20T12:10:22Z,2024-09-20T12:11:01Z,0,0,1,MIT License
+677,my-rag-project-llmops-3,luoanabecher,,https://github.com/luoanabecher/my-rag-project-llmops-3,Bicep,2024-09-30T16:30:08Z,2024-09-30T16:53:13Z,0,0,0,MIT License
+678,django-chatbot,RicardoRobledo,,https://github.com/RicardoRobledo/django-chatbot,JavaScript,2024-01-12T05:12:34Z,2024-07-02T16:54:52Z,0,0,0,
+679,RAG-CI-CD-pipelining-llmops,runtime-error786,,https://github.com/runtime-error786/RAG-CI-CD-pipelining-llmops,Python,2024-09-16T20:09:29Z,2024-09-21T17:26:02Z,0,0,0,
+680,LLMOPs_QnA-Langsmith-grok-,paritosh-Shukla24,,https://github.com/paritosh-Shukla24/LLMOPs_QnA-Langsmith-grok-,Python,2024-05-02T19:55:48Z,2024-05-02T19:57:27Z,0,0,0,
+681,Project-in-LLMOps-and-MLOps-,girupashankar,,https://github.com/girupashankar/Project-in-LLMOps-and-MLOps-,,2024-05-21T08:43:30Z,2024-05-21T08:46:14Z,0,0,0,MIT License
+682,multi-account-llmops-github-actions,caylent,This repository contains source code and resources for deploying DistilBERT and Mistral-7B models across multiple AWS accounts using GitHub Actions and CloudFormation as IaC,https://github.com/caylent/multi-account-llmops-github-actions,Python,2024-05-10T23:02:38Z,2024-06-05T16:50:11Z,0,0,0,Other
+683,llmops-rag-lab-2024-08,thiagomoreirams,,https://github.com/thiagomoreirams/llmops-rag-lab-2024-08,Bicep,2024-08-22T16:11:11Z,2024-08-23T08:22:24Z,0,0,0,MIT License
+684,DevOps-MLOps-and-LLMOps,VivekJhaConnect,I am saving my tech learning for future use,https://github.com/VivekJhaConnect/DevOps-MLOps-and-LLMOps,,2023-07-19T06:42:15Z,2024-07-11T18:17:48Z,0,0,0,
+685,posthog-llm,postlang,"PostHog with text analytics extensions, serving as an advanced LLM analytics platform.",https://github.com/postlang/posthog-llm,Python,2024-03-12T12:36:11Z,2024-10-04T03:52:25Z,5,1,8,Other
+686,django-chatbot-recursoshumanos,RicardoRobledo,,https://github.com/RicardoRobledo/django-chatbot-recursoshumanos,JavaScript,2024-02-20T22:54:54Z,2024-07-02T16:55:48Z,0,0,0,
+687,azure-ml-llm-mlops-llmops-template,cloudwithbright,,https://github.com/cloudwithbright/azure-ml-llm-mlops-llmops-template,Shell,2024-06-02T22:00:40Z,2024-06-04T23:12:01Z,0,0,0,
+688,nvidia-NIM-RAG,mickymultani,"Project demonstrates the power and simplicity of NVIDIA NIM (NVIDIA Inference Model), a suite of optimized cloud-native microservices, by setting up and running a Retrieval-Augmented Generation (RAG) pipeline. ",https://github.com/mickymultani/nvidia-NIM-RAG,Python,2024-03-21T05:11:55Z,2024-07-30T10:44:42Z,10,4,0,MIT License
+689,AI-in-Production,ranjanag,"This repository provides an extensive overview of integrating AI into products, focusing on MLOps , AIOps  and LLMops",https://github.com/ranjanag/AI-in-Production,,2024-07-28T14:12:28Z,2024-07-28T16:31:33Z,0,0,0,
+690,fastapi-chatbot-guitarstore,RicardoRobledo,,https://github.com/RicardoRobledo/fastapi-chatbot-guitarstore,Python,2024-05-02T16:46:56Z,2024-07-02T16:55:02Z,0,0,0,
+691,LLMOPS-Chatgpt-application-kubernetes-Github-actions,Nacir22,,https://github.com/Nacir22/LLMOPS-Chatgpt-application-kubernetes-Github-actions,Jupyter Notebook,2024-07-13T13:39:06Z,2024-07-13T14:58:55Z,0,0,0,
+692,my-rag-project-llmops-v2,luoanabecher,,https://github.com/luoanabecher/my-rag-project-llmops-v2,Bicep,2024-09-30T07:58:55Z,2024-09-30T14:19:14Z,0,0,3,MIT License
+693,aws-ml-llm-mlops-llmops-template,cloudwithbright,,https://github.com/cloudwithbright/aws-ml-llm-mlops-llmops-template,,2024-06-04T20:28:31Z,2024-06-04T20:28:31Z,0,0,0,
+694,gpt-action-prueba,RicardoRobledo,,https://github.com/RicardoRobledo/gpt-action-prueba,Python,2024-05-24T01:41:00Z,2024-07-02T16:54:29Z,0,0,0,
+695,thrift-shop,nogibjj,"This repo tests your LLMOps deployment story ""grandpa style""....i.e. finding cheap targets for LLM deployment",https://github.com/nogibjj/thrift-shop,Makefile,2023-08-28T21:13:24Z,2023-08-28T21:13:29Z,0,1,0,Creative Commons Zero v1.0 Universal
+696,LangSmith-LLMOps-for-LLM-Application,shivashankar066,,https://github.com/shivashankar066/LangSmith-LLMOps-for-LLM-Application,Python,2024-03-21T14:34:08Z,2024-03-21T14:56:15Z,0,0,0,
+697,hands-on-lab-quality-security-llmops,yelghali,A HoLab to help you evaluate and secure your GenAI applications.,https://github.com/yelghali/hands-on-lab-quality-security-llmops,Jupyter Notebook,2024-06-18T06:14:19Z,2024-10-03T13:50:37Z,0,0,0,MIT License
+698,my-rag-project-llmops-v3,luoanabecher,,https://github.com/luoanabecher/my-rag-project-llmops-v3,Bicep,2024-09-30T16:27:04Z,2024-09-30T16:27:14Z,0,0,0,MIT License
+699,Large-Language-Model-Operations-LLMOps-Specialization,Abhishekkv99,,https://github.com/Abhishekkv99/Large-Language-Model-Operations-LLMOps-Specialization,Python,2024-09-25T12:34:15Z,2024-09-25T12:34:21Z,0,0,0,
+700,LLMOps-deeplearning.ai.google-vertex.ai,meetrais,,https://github.com/meetrais/LLMOps-deeplearning.ai.google-vertex.ai,Python,2024-01-28T00:52:01Z,2024-01-28T02:13:08Z,0,0,0,Apache License 2.0
+701,Large-Language-Model-Operations-LLMOps-Specialization,sachinmotwani20,This repository contains files for the Coursera course - https://www.coursera.org/specializations/large-language-model-operations,https://github.com/sachinmotwani20/Large-Language-Model-Operations-LLMOps-Specialization,Jupyter Notebook,2024-09-24T13:00:24Z,2024-10-04T17:45:52Z,0,0,0,
+702,LLMOps-BuildRealWorldApp-LLM,EdvardKS,"When taking a course ""LLMOps: Building Real-World Applications With Large Language Models"", I decided to do this project related to what I learned in said Udacity course. Enjoy it.",https://github.com/EdvardKS/LLMOps-BuildRealWorldApp-LLM,Jupyter Notebook,2024-05-09T21:12:08Z,2024-05-09T22:13:52Z,0,0,0,
+703,fastapi-chatbot-test,RicardoRobledo,,https://github.com/RicardoRobledo/fastapi-chatbot-test,Python,2023-12-10T21:21:02Z,2024-07-02T16:55:38Z,0,0,0,
+704,django-chatbot-privado,RicardoRobledo,,https://github.com/RicardoRobledo/django-chatbot-privado,JavaScript,2024-01-26T05:48:00Z,2024-07-02T16:54:39Z,0,0,0,
+705,NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod,YanSte,Natural Language Processing (NLP) and Large Language Models (LLM) with LLMOps and make a Pipeline Dev Stag Prod,https://github.com/YanSte/NLP-LLM-LLMOps-Pipeline-Dev-Stag-Prod,Jupyter Notebook,2024-01-09T12:19:58Z,2024-01-09T12:25:52Z,1,0,0,
+706,LLMOps_finetuning_with_LoRA_Quantization_AWS,Dherya27,Deploying LLM Fine-Tuned Model with LoRA and Quantization on AWS,https://github.com/Dherya27/LLMOps_finetuning_with_LoRA_Quantization_AWS,Python,2024-07-12T23:33:17Z,2024-07-15T23:28:29Z,0,0,0,MIT License
+707,depend-en-moi,nullzero-live,"An experimental ML & LLMOps library to check dependencies required for a project, install them, and run configuration where required.",https://github.com/nullzero-live/depend-en-moi,Python,2023-11-05T01:52:09Z,2023-11-06T00:47:50Z,0,0,0,MIT License
+708,End-to-end-project-with-LLMOps-AWS-,HARSHALKUMRE,,https://github.com/HARSHALKUMRE/End-to-end-project-with-LLMOps-AWS-,Python,2024-04-26T08:42:47Z,2024-04-29T06:07:04Z,0,0,0,MIT License
+709,matcha-examples,fuzzylabs,Example workflows for matcha - a tool to provision environments in Azure,https://github.com/fuzzylabs/matcha-examples,Python,2023-03-17T14:26:52Z,2024-06-18T11:31:06Z,9,1,0,Apache License 2.0
+710,fastapi-chatgpt-assistant-async-stream,RicardoRobledo,,https://github.com/RicardoRobledo/fastapi-chatgpt-assistant-async-stream,Python,2024-06-18T20:55:27Z,2024-07-02T16:53:36Z,0,0,0,
+711,honeyhive-go-sdk,speakeasy-sdks,Honey Hive Go SDK,https://github.com/speakeasy-sdks/honeyhive-go-sdk,Go,2023-02-22T23:41:03Z,2023-06-27T18:37:38Z,4,1,1,MIT License
+712,LLMOps_finetuning_with_LoRA_Quantization_CICD,Dherya27,,https://github.com/Dherya27/LLMOps_finetuning_with_LoRA_Quantization_CICD,Jupyter Notebook,2024-07-20T00:42:21Z,2024-09-08T06:30:52Z,1,0,0,MIT License
+713,https-github.com-microsoft-llmops-promptflow-template,anishaccenture,,https://github.com/anishaccenture/https-github.com-microsoft-llmops-promptflow-template,,2024-02-29T09:13:35Z,2024-02-29T09:13:35Z,0,0,0,
+714,dify-google-cloud-terraform,DeNA,"Terraform configuration for deploying Dify on Google Cloud with scalability, high availability, and production-level readiness.",https://github.com/DeNA/dify-google-cloud-terraform,HCL,2024-09-25T02:14:34Z,2024-10-04T06:04:56Z,15,1,0,Other
+715,fastapi-chatbot-quejas-y-sugerencias,RicardoRobledo,,https://github.com/RicardoRobledo/fastapi-chatbot-quejas-y-sugerencias,Python,2024-06-21T03:29:20Z,2024-07-02T16:53:07Z,0,0,0,
+716,vext,kanishka-sharma9,vext is an LLMops platform that allows you to create and deploy custom LLM pipelines in a matter of minutes.,https://github.com/kanishka-sharma9/vext,Python,2024-04-16T13:11:20Z,2024-04-16T13:58:44Z,0,0,0,
+717,GSOC-project-24-medical,Aman123lug,"Medical project using techs Gen-AI, and LLMOps to manage ML and LLM pipelines, as well as Platform Engineering, OpenSUSE Ranchar",https://github.com/Aman123lug/GSOC-project-24-medical,Python,2024-06-24T11:05:35Z,2024-09-09T16:39:10Z,0,0,0,
+718,course-your-llmops-stack-from-prototype-to-production,ai-hero,,https://github.com/ai-hero/course-your-llmops-stack-from-prototype-to-production,Python,2023-12-10T17:26:42Z,2023-12-10T18:58:09Z,0,0,0,MIT License
+719,RAG-using-LLMOps-end-to-end-with-AWS-,LalitMahale,,https://github.com/LalitMahale/RAG-using-LLMOps-end-to-end-with-AWS-,,2024-09-19T09:48:28Z,2024-09-19T09:56:05Z,0,0,0,
+720,Project-6-LLMOps_HuggingFace_and_OpenAI,Pranay-Uc-DXB,,https://github.com/Pranay-Uc-DXB/Project-6-LLMOps_HuggingFace_and_OpenAI,Jupyter Notebook,2024-08-30T14:51:56Z,2024-09-30T18:33:31Z,1,1,0,
+721,reppie-lab,Reppie-io, Demonstrations of real-world Generative AI applications that you can learn from and build upon.,https://github.com/Reppie-io/reppie-lab,Python,2024-02-29T18:26:55Z,2024-06-29T15:46:09Z,3,0,2,MIT License
+722,saturn,knagrecha,Saturn accelerates the training of large-scale deep learning models with a novel joint optimization approach.,https://github.com/knagrecha/saturn,Python,2023-08-05T18:06:09Z,2024-09-20T16:46:05Z,20,4,3,Apache License 2.0
+723,sugarcane-ai.github.io,sugarcane-ai,,https://github.com/sugarcane-ai/sugarcane-ai.github.io,Astro,2023-08-29T19:47:22Z,2024-01-15T14:55:07Z,15,3,1,Apache License 2.0
+724,LLMOps-3pipelines-Batch_Ingestion-Finetuning-And-RAG_Inference,sarmadafzalj,Transform your private LLM into an expert by utilizing a carefully curated dataset leveraging state-of-the-art GPT-4 and then fine-tuning with LLama2 7B.,https://github.com/sarmadafzalj/LLMOps-3pipelines-Batch_Ingestion-Finetuning-And-RAG_Inference,Python,2024-01-20T05:06:26Z,2024-02-11T15:52:40Z,1,0,0,
+725,django-chatbot-capacitacionventas,RicardoRobledo,,https://github.com/RicardoRobledo/django-chatbot-capacitacionventas,JavaScript,2024-02-28T17:57:11Z,2024-07-02T16:55:29Z,0,0,0,
+726,fastapi-chatbot-gobierno-jalisco,RicardoRobledo,,https://github.com/RicardoRobledo/fastapi-chatbot-gobierno-jalisco,Python,2024-05-08T22:12:43Z,2024-07-02T16:54:19Z,1,0,0,
+727,llm-stack,kstathou,End-to-end tech stack for the LLM data flywheel,https://github.com/kstathou/llm-stack,Python,2023-11-30T15:22:12Z,2024-02-29T05:01:12Z,2,2,0,MIT License
+728,xpuls-ml,SHARANTANGEDA,"xpuls.ai is an Opensource MLOps & LLMOps Platform.  It helps businesses train 🏋️, deploy 🚀 and observe 👁️‍🗨️ models at scale 🔥",https://github.com/SHARANTANGEDA/xpuls-ml,,2023-10-26T17:20:34Z,2023-10-26T17:20:34Z,0,0,0,Apache License 2.0
+729,litmus,google,Litmus is a comprehensive LLM testing and evaluation tool designed for GenAI Application Development. It provides a robust platform with a user-friendly UI for streamlining the process of building and assessing the performance of your LLM-powered applications. ,https://github.com/google/litmus,Vue,2024-06-13T21:33:17Z,2024-10-02T14:59:23Z,4,2,3,Apache License 2.0
+730,sfguide-getting-started-with-llmops-using-snowflake-cortex-and-trulens,Snowflake-Labs,,https://github.com/Snowflake-Labs/sfguide-getting-started-with-llmops-using-snowflake-cortex-and-trulens,Jupyter Notebook,2024-07-29T21:51:34Z,2024-07-31T15:00:58Z,0,0,0,Apache License 2.0
+731,local-llm,GeorgeDittmar,"Simple framework to spin up a local LLM and UI using Docker, Huggingface, and Gradio",https://github.com/GeorgeDittmar/local-llm,Python,2023-11-18T21:11:30Z,2024-08-21T21:19:00Z,4,1,0,Apache License 2.0
+732,poyro,poyro,Test your web app LLM integrations using existing testing frameworks. Confidently launch AI-driven webapps to production.,https://github.com/poyro/poyro,TypeScript,2024-06-09T22:37:32Z,2024-10-01T19:15:23Z,30,0,13,
+733,LLMOps-Deploying-RaG-Application-With-Qdrant-Langchain-OpenAI,Saba-Gul,"This repository contains the code and resources for deploying a Retrieval-Augmented Generation (RaG) application using Qdrant, Langchain, and OpenAI technologies. The project demonstrates how to integrate these tools to build a robust and scalable application for information retrieval and generation.",https://github.com/Saba-Gul/LLMOps-Deploying-RaG-Application-With-Qdrant-Langchain-OpenAI,Python,2024-09-04T02:46:39Z,2024-09-11T14:58:16Z,1,0,0,MIT License
+734,Squidward-Tentacles-and-Spying-on-Outputs-via-Conformal-Prediction,rabbidave,"A serverless function is utilized to evaluate the divergence of a particular output from the established log-likelihood set by a language model. This function is designed to compute the log-likelihood per message. Subsequently, p-values are generated and used as a prediction interval to categorize, appropriately append, and sort LLM output",https://github.com/rabbidave/Squidward-Tentacles-and-Spying-on-Outputs-via-Conformal-Prediction,Python,2023-07-24T21:06:06Z,2023-08-02T14:55:59Z,1,0,0,Apache License 2.0
+735,RAG-using-Azure-Databricks-CI-CD,Ayush-Patel-10,End-to-end deployment of a scalable RAG chatbot utilizing LangChain for retrieval-based QnA. The project leverages robust CI/CD practices integrating MLFlow with emphasizes on cost analysis.,https://github.com/Ayush-Patel-10/RAG-using-Azure-Databricks-CI-CD,,2024-04-30T20:59:45Z,2024-08-18T04:04:45Z,3,4,0,Other
+736,autograde,felgueres,Lightweight framework to evaluate LLMs using model scoring,https://github.com/felgueres/autograde,Python,2023-06-11T04:09:37Z,2023-09-27T17:34:15Z,1,0,0,MIT License
+737,serverless-llm-app-factory,tleers,Beginner-friendly serverless LLM deployment with Replicate & fly.io,https://github.com/tleers/serverless-llm-app-factory,Python,2023-06-13T15:30:45Z,2024-10-02T06:17:04Z,10,1,0,
+738,LLMOps_Project_RAG_using_AWS_Lambda_Docker_ECR_Langchin_HuggingFace,AadrikaJaiswal,,https://github.com/AadrikaJaiswal/LLMOps_Project_RAG_using_AWS_Lambda_Docker_ECR_Langchin_HuggingFace,Python,2024-08-18T18:33:55Z,2024-10-03T16:38:25Z,0,0,0,
+739,opla,Opla,Empower Your Productivity with Local AI Assistants,https://github.com/Opla/opla,TypeScript,2023-11-17T10:32:07Z,2024-10-03T16:27:48Z,12,3,9,Apache License 2.0
+740,beamstack-cli,BeamStackProj,,https://github.com/BeamStackProj/beamstack-cli,Go,2024-03-08T14:11:40Z,2024-09-13T16:40:55Z,3,0,23,Other
+741,RAG-app-using-LlamaIndex,shefalishr95,"RAG chatbot built with a semi-automated LLMOps pipeline that scrapes GitHub README.md files for project ideas and insights, using LlamaIndex, Docker, Airflow, and AWS.",https://github.com/shefalishr95/RAG-app-using-LlamaIndex,Python,2024-06-26T14:04:39Z,2024-08-22T16:16:52Z,0,0,0,MIT License
+742,logikon,logikon-ai,Analyzing and scoring reasoning traces of LLMs,https://github.com/logikon-ai/logikon,Python,2023-09-10T09:01:23Z,2024-09-21T12:39:39Z,38,0,10,GNU Affero General Public License v3.0
+743,Langserve_ATS_And_Summarization_System,arshilb4u,This project used the capabilities of Langserve to make End Points for ATS system and Document summarization. I have also used langSmith for LLMOps for monitoring the Application,https://github.com/arshilb4u/Langserve_ATS_And_Summarization_System,Python,2024-03-24T06:00:04Z,2024-03-24T06:02:12Z,0,0,0,
+744,seshat,yaleh,"Seshat is an advanced LLMOps (Large Language Model Operations) system designed to streamline and enhance the workflow for LLM developers and prompt engineers. This project leverages a modular interface to manage various components such as batch processing, embeddings, meta-prompts, FAQ summaries, and system configurations.",https://github.com/yaleh/seshat,Python,2024-05-31T06:20:27Z,2024-07-18T16:13:25Z,2,0,0,MIT License
+745,LLMOp-s,Aftabbs,"LLMOps stands for “large language model operations” and refers to the specialized practices and workflows that speed development, deployment and management of AI models throughout their complete lifecycle. ",https://github.com/Aftabbs/LLMOp-s,Jupyter Notebook,2024-09-24T17:23:04Z,2024-09-24T17:38:34Z,0,0,0,
+746,logllm,shure-dev,"Automatically extract ML experimental conditions from your Python scripts with GPT4, and save them via WandB.",https://github.com/shure-dev/logllm,Python,2024-08-21T01:14:07Z,2024-08-27T16:21:06Z,1,2,28,
+747,RAG-Chatbot,owaisahmadlone,My first RAG question-answering app that answers questions based on files uploaded. The app has been deployed on streamlit,https://github.com/owaisahmadlone/RAG-Chatbot,Jupyter Notebook,2024-04-19T13:50:22Z,2024-09-09T19:10:17Z,5,1,0,
+748,mindctrl,akshaya-a,⚡ Supercharge your home with AI 🧠,https://github.com/akshaya-a/mindctrl,Python,2023-10-27T05:42:46Z,2024-06-29T07:56:35Z,5,0,18,Apache License 2.0
+749,llm-chainlit-playground,Valdanitooooo,A Lightweight LLM Playground developed using the Chainlit framework.,https://github.com/Valdanitooooo/llm-chainlit-playground,Python,2024-08-16T09:46:06Z,2024-09-14T10:41:27Z,0,0,0,MIT License
+750,OpenServer,Mj23978,"Open Server is an OpenAI API Compatible Server for generating text, images, embeddings, and storing them in vector databases. It also includes a chat functionality.",https://github.com/Mj23978/OpenServer,Python,2023-11-11T00:32:31Z,2024-07-20T00:34:40Z,15,1,0,MIT License
+751,LinkAir,abhishekbhakat,"LinkAir is solution for flexible Apache Airflow orchestration across diverse platforms. Designed to cater to GPU-centric LLMOps, cloud operations, and rapid development needs, LinkAir introduces pluggable workers for multiplatform orchestration.",https://github.com/abhishekbhakat/LinkAir,,2023-11-15T16:00:32Z,2023-11-15T16:00:32Z,0,0,0,Apache License 2.0
+752,TGS,xdevfaheem,Effortlessly Deploy and Serve Large Language Models in the Cloud as an API Endpoint for Inference,https://github.com/xdevfaheem/TGS,Python,2023-08-12T07:25:30Z,2024-06-30T18:05:03Z,1,0,0,MIT License
+753,Practice-LLM,DeepFlame-JR,Practice for LLM 📚,https://github.com/DeepFlame-JR/Practice-LLM,Jupyter Notebook,2023-08-14T12:53:14Z,2023-08-25T11:55:38Z,0,0,0,
+754,Financial_Advisor_LLM,rodolfojt,Financial Advisor Chatbot assistant using LLMs.,https://github.com/rodolfojt/Financial_Advisor_LLM,Python,2023-12-24T15:29:33Z,2024-09-12T19:32:09Z,1,0,0,
+755,UniLLM,pezzolabs,"🦄 Consume any LLM from any provider, using the OpenAI API ",https://github.com/pezzolabs/UniLLM,TypeScript,2023-10-10T21:58:03Z,2024-10-04T05:03:55Z,24,0,0,MIT License
+756,rageval-ui,sundi133,UI for RagEval https://github.com/sundi133/rag-eval,https://github.com/sundi133/rageval-ui,JavaScript,2023-11-04T16:21:54Z,2024-08-08T09:40:13Z,1,0,0,MIT License
+757,helm,openlit,Helm Charts to deploy and manage OpenLIT in Kubernetes,https://github.com/openlit/helm,Smarty,2024-03-27T08:14:04Z,2024-08-30T06:10:24Z,3,3,2,Apache License 2.0
+758,LLM-Twin,mohamedayari1,"This repository provides a comprehensive guide to designing, training, and deploying a production-ready LLM (Large Language Model) twin of yourself. Leveraging cutting-edge technologies such as LLMs, vector databases, and LLMOps best practices",https://github.com/mohamedayari1/LLM-Twin,Python,2024-07-18T16:50:24Z,2024-07-24T15:03:12Z,0,0,0,
+759,guardrails-demo,balavenkatesh3322,LLM Security Project with Llama Guard,https://github.com/balavenkatesh3322/guardrails-demo,Python,2024-01-19T11:32:57Z,2024-08-16T19:56:09Z,8,0,0,
+760,Website-Chatter-using-RAG,Vivek-Radadiya50,"This project improves human-website interactions using RAG and LLMOps. It integrates WebLoader, Beautiful Soup, OpenAI Embeddings, Pinecone Vector DB, and Cohere re-rankers for data handling and search. With Llama 3 LLM and NVIDIA Nemo Guardrails.",https://github.com/Vivek-Radadiya50/Website-Chatter-using-RAG,Python,2024-08-30T15:21:19Z,2024-09-09T15:39:17Z,0,0,0,
+761,Groqy-Chat,mickymultani,GROQ LPU Powered LLM chat engine,https://github.com/mickymultani/Groqy-Chat,Jupyter Notebook,2024-03-01T04:59:49Z,2024-05-15T11:41:47Z,5,0,0,MIT License
+762,flowiseai-railway,Somi-AI,"Flowise AI Railway Template that come with pre-configured persisted volume, PostGIS & private networking.",https://github.com/Somi-AI/flowiseai-railway,Dockerfile,2024-02-14T12:13:02Z,2024-02-16T15:32:35Z,2,6,0,
+763,Drake,kausthub-kannan,"DrakeLLM is developed to help students to solve the issue of making notes from videos, books and others. Utilising RAG, Drake helps in making quick notes along with a Q&A bot. Books, YouTube tutorials or Videos, Drake supports all your means.",https://github.com/kausthub-kannan/Drake,Python,2024-04-11T11:21:24Z,2024-06-06T23:03:45Z,4,0,0,MIT License
+764,llm-elasticsearch-cache,SpazioDati,"[IMPORTANT: This library is now part of LangChain, follow its official documentation] A caching layer for LLMs that exploits Elasticsearch, fully compatible with LangChain caching, both for chat and embeddings models.",https://github.com/SpazioDati/llm-elasticsearch-cache,Python,2024-02-12T11:43:10Z,2024-06-10T06:50:43Z,6,0,0,MIT License
+765,geniusrise-huggingface,geniusrise,Bolts interfacing with the huggingface ecosystem,https://github.com/geniusrise/geniusrise-huggingface,Python,2023-08-24T18:22:14Z,2024-06-22T08:09:31Z,3,2,0,
+766,NLP-Research-Papers,Mel-iza,"NLP Research Papers: The space is dedicated to recording and summarizing scientific articles on text processing. It focuses on LLMs and their architectures, quantizations, tools, techniques, and models. It also includes articles on what is being produced in the field of classical machine learning in text processing.",https://github.com/Mel-iza/NLP-Research-Papers,,2024-03-19T16:46:41Z,2024-03-19T22:49:32Z,0,0,1,
+767,GemmaChat,tushar2704,GemmaChat- A smart chat with running Gemma model locally via Ollama on windows.,https://github.com/tushar2704/GemmaChat,Python,2024-02-29T15:42:33Z,2024-05-28T11:49:45Z,3,0,0,MIT License
+768,StoopKid-Event-Driven-Input-Monitoring-for-Language-Models,rabbidave,"A set of serverless functions designed to assist in the monitoring of inputs to language models, including routine and specific inspection of the message queue, as well as event-driven triggering of more complex metric calculation based on (what will eventually be) configurable environment variables; alongside a suite of other tools/functions",https://github.com/rabbidave/StoopKid-Event-Driven-Input-Monitoring-for-Language-Models,Python,2023-07-10T15:42:31Z,2023-07-18T09:39:47Z,1,0,1,Apache License 2.0
+769,realign,honeyhiveai,Realign is an evaluation and experimentation framework for AI applications.,https://github.com/honeyhiveai/realign,Python,2024-07-09T15:44:12Z,2024-09-30T19:30:59Z,10,1,1,MIT License
+770,tourist,pogzyb,"Open-source, LLM-ready SERP and web scraping service",https://github.com/pogzyb/tourist,Python,2024-07-17T01:57:07Z,2024-09-28T01:11:56Z,4,0,0,MIT License
+771,Prompt-Versioning-with-MLflow,markgamall,"LLMOps solution for tracking and versioning large language models (LLMs) and their prompts. Implemented prompt versioning and evaluation using MLflow, enabling efficient tracking of LLM experiments, monitoring performance metrics, and managing different versions of prompts and models for better reproducibility and optimization.",https://github.com/markgamall/Prompt-Versioning-with-MLflow,Python,2024-09-30T17:52:56Z,2024-09-30T17:54:16Z,0,0,0,
+772,log10js,log10-io,JavaScript client library for managing your LLM data in one place,https://github.com/log10-io/log10js,JavaScript,2023-04-25T05:11:22Z,2024-09-26T19:56:11Z,10,0,3,MIT License
+773,using-langchain,braintune-ai,"Langchain-Braintune Integration: A guide to help Python developers integrate the Braintune platform with the Langchain framework for building powerful, language model-driven applications. Includes step-by-step tutorials and examples.",https://github.com/braintune-ai/using-langchain,Python,2023-05-28T13:30:37Z,2023-09-24T01:22:56Z,2,0,0,
+774,lexy,lexy-ai,Data pipelines for AI applications,https://github.com/lexy-ai/lexy,Python,2023-10-04T16:34:10Z,2024-08-02T21:16:05Z,10,0,15,Apache License 2.0
+775,Financial-Advisor,agusabdulrahman,"Real-Time Financial Advisor using LLMs - Design, develop, deploy  on production-grade ML applications.",https://github.com/agusabdulrahman/Financial-Advisor,Python,2024-01-23T10:57:16Z,2024-07-17T10:23:30Z,2,0,0,MIT License
+776,curriebot,pgplarosa,chatbot of my curriculum vitae,https://github.com/pgplarosa/curriebot,Jupyter Notebook,2024-05-10T11:43:13Z,2024-07-18T09:11:48Z,2,0,0,
+777,go-openllmetry,traceloop,"Sister project to OpenLLMetry, but in Go. Open-source observability for your LLM application, based on OpenTelemetry",https://github.com/traceloop/go-openllmetry,Go,2024-01-11T14:53:13Z,2024-07-17T21:23:22Z,7,1,2,Apache License 2.0
+778,BankLLM,Omar-Karimov,"BankLLM is an AI-driven recommendation engine for banking, using OpenAI's models to analyze customer data and generate personalized product suggestions. It integrates LangChain, FAISS, and LangServe, with a FastAPI backend and Streamlit frontend, following an LLMOps approach for scalable deployment.",https://github.com/Omar-Karimov/BankLLM,Python,2024-07-30T20:51:37Z,2024-08-22T00:02:57Z,0,0,0,
+779,llm-updated-papers,mtuann,Papers related to Large Language Models in all top venues,https://github.com/mtuann/llm-updated-papers,,2024-09-13T16:46:40Z,2024-10-05T16:35:42Z,2,0,0,
