@@ -1,0 +1,15 @@
+pandas
+sqlalchemy
+sqlalchemy
+matplotlib
+seaborn
+streamlit
+plotly
+langchain
+langchain-anthropic
+langchain-together
+langchain-groq
+langchain-experimental
+openpyxl
+tabulate
+-e .
